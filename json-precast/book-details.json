@@ -1,0 +1,17 @@
+{
+    "books": {
+        "H001": {
+            "language": "kan",
+            "identifier": "hari_ebooks/H001",
+            "isbn": "9789388114387",
+            "title": "ಮುಕ್ತಕ ಕನ್ನಡ ",
+            "creators": {
+                "author": "Shikaripura Harihareshwara"
+            },
+            "category": "",
+            "publisher": "shree Rajendra printers & publication",
+            "pages": "216",
+            "description": "Geeta-Guccha (A collection of poem in kannada translated from sanskrit)"
+        }
+    }
+}
