@@ -124,7 +124,7 @@ class Stages{
 				if($text_node->parentNode->getAttribute('class') == 'en')
 					 continue;
 
-			$text_node->nodeValue = $this->APS2UnicodeNew($text_node->nodeValue);
+			$text_node->nodeValue = $this->nudi2Unicode($text_node->nodeValue);
 		}
 
 		return $dom->saveXML();
@@ -223,6 +223,16 @@ class Stages{
 		$outputString = str_replace('﻿', '', $outputString);
 		return $outputString;
 	}	
+
+	public function nudi2Unicode($text) {
+
+		$text = @iconv("UTF-8", "ISO-8859-1", $text);
+
+		// file_put_contents('temp.txt', $text);
+		$result = exec('echo "' . addslashes($text) . '" | ./knconverter', $output);
+
+		return $result;
+	}
 
 	public function sample() {
 
