@@ -133,6 +133,7 @@ class Stages{
 	public function processRawHTML($text) {
 
 		$text = preg_replace('/<!--.*/', "", $text);
+		$text = preg_replace('/`/', "'", $text);
 
 		$text = str_replace("\n", "", $text);
 		$text = str_replace("\r", "", $text);
@@ -173,10 +174,13 @@ class Stages{
 		$text = preg_replace("/[\n]*<Span class=\"en\">(.*)\n<\/span>[\n]*/i", "<SPAN class=\"en\">$1</SPAN>", $text);
 		$text = preg_replace("/[\n]*<Span>(.*)\n<\/span>[\n]*/i", "$1", $text);
 
-		$text = preg_replace("/\n<(Span|Sup|Sub|Strong|em)/i", "<$1", $text);
+		$text = preg_replace("/\n<(Span|Sup|Sub|Strong|em|I|B)/i", "<$1", $text);
 		// $text = preg_replace("/<(Span|Sup|Sub|Strong|em)>\n/i", "<$1>", $text);
-		$text = preg_replace("/\n<\/(Span|Sup|Sub|Strong|em)>/i", "</$1>", $text);
-		$text = preg_replace("/<\/(Span|Sup|Sub|Strong|em)>\n/i", "</$1>", $text);
+		$text = preg_replace("/\n<\/(Span|Sup|Sub|Strong|em|I|B)>/i", "</$1>", $text);
+		$text = preg_replace("/<\/(Span|Sup|Sub|Strong|em|I|B)>\n/i", "</$1>", $text);
+
+		// $text = preg_replace("/(<I>)/i", "$1", $text);
+		// $text = preg_replace("/\n(<\/I>)/i", "$1", $text);
 
 		$text = preg_replace("/<P>\n/i", "<P>", $text);
 		$text = preg_replace("/\n<\/P>/i", "</P>", $text);
@@ -187,6 +191,8 @@ class Stages{
 		$text = preg_replace("/(<H\d>)\n/i", "$1", $text);
 		$text = preg_replace("/\n(<\/H\d>)/i", "$1", $text);
 
+		$text = preg_replace("/(<BR\/>)\n/i", "$1", $text);
+		
 		$text = str_replace("\n ", " ", $text);
 
 		$text = str_replace("<DIV", "<SECTION", $text);
