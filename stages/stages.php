@@ -61,6 +61,9 @@ class Stages{
 		// Convert APS data to Unicode retaining html tags
 		$unicodeHTML = $this->parseHTML($processedHTML);
 
+		$unicodeHTML = preg_replace("/><p>/i", ">\n<P>", $unicodeHTML);
+		$unicodeHTML = preg_replace("/<\/p></i", "</P>\n<", $unicodeHTML);
+
 		// stage3.html : Output Unicode html with tags, english retained as it is
 		if (!file_exists(RAW_SRC . $bookID . '/Stage3a/')) {
 			mkdir(RAW_SRC . $bookID . '/Stage3a/', 0775);
@@ -174,36 +177,21 @@ class Stages{
 		$text = preg_replace("/[\n]*<Span class=\"en\">(.*)\n<\/span>[\n]*/i", "<SPAN class=\"en\">$1</SPAN>", $text);
 		$text = preg_replace("/[\n]*<Span>(.*)\n<\/span>[\n]*/i", "$1", $text);
 
-		$text = preg_replace("/\n<(Span|Sup|Sub|Strong|em|I|B)/i", "<$1", $text);
+		$text = preg_replace("/\n<(Span|Sup|Sub|Strong|em|I|B|U)/i", "<$1", $text);
 		// $text = preg_replace("/<(Span|Sup|Sub|Strong|em)>\n/i", "<$1>", $text);
-		$text = preg_replace("/\n<\/(Span|Sup|Sub|Strong|em|I|B)>/i", "</$1>", $text);
-		$text = preg_replace("/<\/(Span|Sup|Sub|Strong|em|I|B)>\n/i", "</$1>", $text);
+		$text = preg_replace("/\n<\/(Span|Sup|Sub|Strong|em|I|B|U)>/i", "</$1>", $text);
+		$text = preg_replace("/<\/(Span|Sup|Sub|Strong|em|I|B|U)>\n/i", "</$1>", $text);
 
-		// $text = preg_replace("/(<I>)/i", "$1", $text);
-		// $text = preg_replace("/\n(<\/I>)/i", "$1", $text);
-
-		$text = preg_replace("/<body>/i", "<BODY>", $text);
-		$text = preg_replace("/<\/body>/i", "</BODY>", $text);
-
-		$text = preg_replace("/<P>/i", "<P>", $text);
-		$text = preg_replace("/<\/P>/i", "</P>", $text);
+		$text = preg_replace("/(<I>)/i", "$1", $text);
+		$text = preg_replace("/\n(<\/I>)/i", "$1", $text);
 		
-		$text = preg_replace("/<b>/i", "<B>", $text);
-		$text = preg_replace("/<\/b>/i", "</B>", $text);
+		$text = preg_replace("/<P>\n/i", "<P>", $text);
+		$text = preg_replace("/\n<\/P>/i", "</P>", $text);
 		
-		$text = preg_replace("/<i>/i", "<I>", $text);
-		$text = preg_replace("/<\/i>/i", "</I>", $text);
-		
-		$text = preg_replace("/<h6>/i", "<H6>", $text);
-		$text = preg_replace("/<\/h6>/i", "</H6>", $text);
-		
-		$text = preg_replace("/<br>/", "<BR />", $text);
-		$text = preg_replace("/<hr>/", "<HR />", $text);
-
 		$text = preg_replace("/<LI>\n/i", "<LI>", $text);
 		$text = preg_replace("/\n<\/LI>/i", "</LI>", $text);
 
-		$text = preg_replace("/(<H\d>)\n/i", "$1", $text);
+		$text = preg_replace("/\n(<H\d>)/i", "$1", $text);
 		$text = preg_replace("/\n(<\/H\d>)/i", "$1", $text);
 
 		$text = preg_replace("/(<BR\/>)\n/i", "$1", $text);
@@ -219,10 +207,34 @@ class Stages{
 		$text = preg_replace("/<SPAN class=\"en\">(.*)<\/SPAN>\n/", "<strong>$1</strong>", $text);
 		$text = str_replace("</strong><strong>", "", $text);
 
+		$text = preg_replace("/<head>/i", "\n<HEAD>", $text);
+		$text = preg_replace("/<\/head>/i", "</HEAD>\n", $text);
+
 		// Remove head items
-		//~ $text = preg_replace("/<(STYLE|META|HEAD).*\n/i", "", $text);
-		//~ $text = preg_replace("/<\/(STYLE|META|HEAD).*\n/i", "", $text);
+		$text = preg_replace("/<(STYLE|META|HEAD).*\n/i", "", $text);
+		$text = preg_replace("/<\/(STYLE|META|HEAD).*\n/i", "", $text);
+
+		$text = preg_replace("/<body>/i", "<BODY>", $text);
+		$text = preg_replace("/<\/body>/i", "</BODY>", $text);
+
+		$text = preg_replace("/<p>/i", "<P>", $text);
+		$text = preg_replace("/<\/p>/i", "</P>", $text);
+
+		$text = preg_replace("/<b>/i", "<B>", $text);
+		$text = preg_replace("/<\/b>/i", "</B>", $text);
 		
+		$text = preg_replace("/<i>/i", "<I>", $text);
+		$text = preg_replace("/<\/i>/i", "</I>", $text);
+
+		$text = preg_replace("/<u>/i", "<U>", $text);
+		$text = preg_replace("/<\/u>/i", "</U>", $text);
+		
+		$text = preg_replace("/<h6>/i", "<H6>", $text);
+		$text = preg_replace("/<\/h6>/i", "</H6>", $text);
+		
+		$text = preg_replace("/<br>/", "<BR />", $text);
+		$text = preg_replace("/<hr>/", "<HR />", $text);
+
 		return $text;
 	}
 

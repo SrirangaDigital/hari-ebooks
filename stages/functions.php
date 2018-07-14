@@ -91,8 +91,7 @@
 	function replaceTags($line) {
 
 		$line = preg_replace('/SPAN>/i', 'span>', $line);
-		$line = preg_replace('/<Sup(.*)>(.*)<\/Sup>/i', '<sup' . "$1" . '><a epub:type="noteref" href="999-aside.xhtml#id-">' . "$2" . '<\/a><\/sup>', $line);
-		$line = str_replace('Sub>', 'sub>', $line);
+		$line = preg_replace('/Sub>/i', 'sub>', $line);
 		$line = str_replace('TABLE>', 'table>', $line);
 		$line = str_replace('TR>', 'tr>', $line);
 		$line = str_replace('TH>', 'th>', $line);
@@ -103,6 +102,36 @@
 		$line = str_replace('DL>', 'dl>', $line);
 		$line = str_replace('DT>', 'dt>', $line);
 		$line = str_replace('DD>', 'dd>', $line);
+		$line = str_replace('BR/>', 'br />', $line);
+		$line = str_replace('B>', 'strong>', $line);
+		$line = str_replace('I>', 'em>', $line);
+		$line = str_replace('U>', 'u>', $line);
+		$line = str_replace('<HR/>', '', $line);
+		$line = preg_replace('/H(\d)>/', "h$1>", $line);
+
+		$line = preg_replace('/(\d+):ಂ/', '${1}:0', $line);
+		$line = preg_replace('/ಂ(\d+)/', '0${1}', $line);
+		$line = preg_replace('/(\d+)ಂ/', '${1}0', $line);
+		$line = str_replace('ಂಂ', '00', $line);
+		
+		$line = str_replace("\'", '', $line);
+		$line = str_replace("<B/>", '', $line);
+		$line = preg_replace('/<p>\s+<\/p>/', '', $line);
+		$line = str_replace('<I/>', '', $line);
+		$line = str_replace('<strong></strong>', '', $line);
+
+		$line = str_replace('0', '೦', $line);
+		$line = str_replace('1', '೧', $line);
+		$line = str_replace('2', '೨', $line);
+		$line = str_replace('3', '೩', $line);
+		$line = str_replace('4', '೪', $line);
+		$line = str_replace('5', '೫', $line);
+		$line = str_replace('6', '೬', $line);
+		$line = str_replace('7', '೭', $line);
+		$line = str_replace('8', '೮', $line);
+		$line = str_replace('9', '೯', $line);
+
+		$line = preg_replace('/<Sup(.*)>(.*)<\/Sup>/i', '<sup' . "$1" . '><a epub:type="noteref" href="999-aside.xhtml#id-">' . "$2" . '<\/a><\/sup>', $line);
 
 		return $line;
 	}
