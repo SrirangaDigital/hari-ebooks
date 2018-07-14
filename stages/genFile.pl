@@ -167,10 +167,12 @@ sub replace_tags()
 	$text =~ s/<Sup>(.*?)<\/Sup>/<sup><a href="epub:type="noteref" 999-aside.xhtml#id-">\1<\/a><\/sup>/g;
 	$text =~ s/<Sup class="en">(.*?)<\/Sup>/<sup><a epub:type="noteref" href="999-aside.xhtml#id-">\1<\/a><\/sup>/g;
 	$text =~ s/<Sub>/<sub>/g;
+	$text =~ s/<SUB>/<sub>/g;
 	#~ $text =~ s/<SPAN>(.*)<\/SPAN>/\1/g;
 	#~ $text =~ s/<SPAN><strong>/<strong>/g;
 	#~ $text =~ s/<\/strong><\/SPAN>/<\/strong>/g;
 	$text =~ s/<\/Sub>/<\/sub>/g;
+	$text =~ s/<\/SUB>/<\/sub>/g;
 	$text =~ s/<LI>/<li>/g;
 	$text =~ s/<\/LI>/<\/li>/g;
 	$text =~ s/<\/SECTION>/<\/section>/g;
@@ -178,6 +180,10 @@ sub replace_tags()
 	$text =~ s/[\s]*<P>/<p>/g;
 	$text =~ s/<\/P>/<\/p>/g;
 	$text =~ s/SPAN/span/g;
+	$text =~ s/<B>/<strong>/g;
+	$text =~ s/<\/B>/<\/strong>/g;
+	$text =~ s/<I>/<em>/g;
+	$text =~ s/<\/I>/<\/em>/g;
 	$text =~ s/[\s]*<DL>/<dl>/g;
 	$text =~ s/[\s]*<dl>/<dl>/g;
 	$text =~ s/<\/DL>/<\/dl>/g;

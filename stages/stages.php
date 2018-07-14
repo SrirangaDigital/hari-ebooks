@@ -182,8 +182,23 @@ class Stages{
 		// $text = preg_replace("/(<I>)/i", "$1", $text);
 		// $text = preg_replace("/\n(<\/I>)/i", "$1", $text);
 
-		$text = preg_replace("/<P>\n/i", "<P>", $text);
-		$text = preg_replace("/\n<\/P>/i", "</P>", $text);
+		$text = preg_replace("/<body>/i", "<BODY>", $text);
+		$text = preg_replace("/<\/body>/i", "</BODY>", $text);
+
+		$text = preg_replace("/<P>/i", "<P>", $text);
+		$text = preg_replace("/<\/P>/i", "</P>", $text);
+		
+		$text = preg_replace("/<b>/i", "<B>", $text);
+		$text = preg_replace("/<\/b>/i", "</B>", $text);
+		
+		$text = preg_replace("/<i>/i", "<I>", $text);
+		$text = preg_replace("/<\/i>/i", "</I>", $text);
+		
+		$text = preg_replace("/<h6>/i", "<H6>", $text);
+		$text = preg_replace("/<\/h6>/i", "</H6>", $text);
+		
+		$text = preg_replace("/<br>/", "<BR />", $text);
+		$text = preg_replace("/<hr>/", "<HR />", $text);
 
 		$text = preg_replace("/<LI>\n/i", "<LI>", $text);
 		$text = preg_replace("/\n<\/LI>/i", "</LI>", $text);
@@ -205,8 +220,8 @@ class Stages{
 		$text = str_replace("</strong><strong>", "", $text);
 
 		// Remove head items
-		$text = preg_replace("/<(STYLE|META|HEAD).*\n/i", "", $text);
-		$text = preg_replace("/<\/(STYLE|META|HEAD).*\n/i", "", $text);
+		//~ $text = preg_replace("/<(STYLE|META|HEAD).*\n/i", "", $text);
+		//~ $text = preg_replace("/<\/(STYLE|META|HEAD).*\n/i", "", $text);
 		
 		return $text;
 	}
