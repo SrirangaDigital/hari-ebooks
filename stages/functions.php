@@ -21,6 +21,12 @@
 
 		$fileName = preg_replace('/.*\/(.*)\..*/', "$1", $file);
 		$content = file($file);
+
+		if (!file_exists(RAW_SRC . $bookID . '/Stage4/')) {
+			mkdir(RAW_SRC . $bookID . '/Stage4/', 0775);
+			echo "Stage4 directory created\n";
+		}
+
 		$fp = fopen(RAW_SRC . $bookID . '/Stage4/' . $fileName . '.xhtml', 'w');
 
 		fwrite($fp, '<?xml version="1.0" encoding="UTF-8"?>' . "\n");
