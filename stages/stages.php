@@ -235,6 +235,8 @@ class Stages{
 		$text = preg_replace("/<br>/", "<BR />", $text);
 		$text = preg_replace("/<hr>/", "<HR />", $text);
 
+		$text = str_replace("&nbsp;", " ", $text);
+
 		return $text;
 	}
 
