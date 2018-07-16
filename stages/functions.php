@@ -120,7 +120,7 @@
 		$line = preg_replace('/(\d+)ಂ/', '${1}0', $line);
 		$line = str_replace('ಂಂ', '00', $line);
 		
-		$line = str_replace("\'", '', $line);
+		$line = str_replace("\'", "'", $line);
 		$line = str_replace("<B/>", '', $line);
 		$line = preg_replace('/<p>\s+<\/p>/', '', $line);
 		$line = str_replace('<I/>', '', $line);
