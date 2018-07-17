@@ -250,12 +250,12 @@ mapping = {
     "²"     : "ಶಿ",
     "±É"    : "ಶೆ",
     "±Ë"    : "ಶೌ",
-    "µï"    : "ಷ್",
-    "µÀ"    : "ಷ",
-    "µÁ"    : "ಷಾ",
+    "³ï"    : "ಷ್",
+    "³À"    : "ಷ",
+    "³Á"    : "ಷಾ",
     "¶"     : "ಷಿ",
-    "µÉ"    : "ಷೆ",
-    "µË"    : "ಷೌ",
+    "³É"    : "ಷೆ",
+    "³Ë"    : "ಷೌ",
     "¸ï"    : "ಸ್",
     "¸À"    : "ಸ",
     "¸Á"    : "ಸಾ",
@@ -641,6 +641,7 @@ if __name__ == "__main__":
         # Something like this will work:
         # Ref: http://stackoverflow.com/questions/4554287/except-python-codec-errors
         sys.stdin = codecs.getreader('cp1252')(sys.stdin.detach(), errors='ignore')
+
 
         # Process each line
         for line in sys.stdin:

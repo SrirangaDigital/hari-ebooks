@@ -59,6 +59,7 @@ class Stages{
 		file_put_contents($fileName, $processedHTML);
 
 		// Convert APS data to Unicode retaining html tags
+		
 		$unicodeHTML = $this->parseHTML($processedHTML);
 
 		$unicodeHTML = preg_replace("/><p>/i", ">\n<P>", $unicodeHTML);
@@ -73,7 +74,7 @@ class Stages{
 		$fileName = RAW_SRC . $bookID . '/Stage3a/' . $baseFileName;	
 
 		$unicodeHTML = html_entity_decode($unicodeHTML);
-		
+
 		file_put_contents($fileName, $unicodeHTML);
 
 		if(file_exists(RAW_SRC . $bookID . '/Stage3/' . $baseFileName)) {
@@ -261,11 +262,10 @@ class Stages{
 
 	public function nudi2Unicode($text) {
 
+		$text = str_replace('μ', '³', $text);
 		$text = @iconv("UTF-8", "ISO-8859-1", $text);
-
-		// file_put_contents('temp.txt', $text);
 		$result = exec('echo "' . addslashes($text) . '" | ./knconverter', $output);
-
+		
 		return $result;
 	}
 
