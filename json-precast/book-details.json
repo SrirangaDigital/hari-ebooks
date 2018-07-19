@@ -1,6 +1,6 @@
 {
     "books": {
-        "H001": {
+        "001": {
             "language": "kan",
             "identifier": "hari_ebooks/H001",
             "isbn": "9789388114387",
@@ -13,7 +13,7 @@
             "pages": "216",
             "description": "Geeta-Guccha (A collection of poem in kannada translated from sanskrit)"
         },
-        "H002": {
+        "002": {
             "language": "kan",
             "identifier": "hari_ebooks/H001",
             "isbn": "9789388114387",
@@ -25,6 +25,19 @@
             "publisher": "shree Rajendra printers & publication",
             "pages": "216",
             "description": "Geeta-Guccha (A collection of poem in kannada translated from sanskrit)"
+        },
+        "020": {
+            "language": "kan",
+            "identifier": "hari_ebooks/H020",
+            "isbn": "",
+            "title": "ಅಮೆರಿಕನ್ನಡದ ಕವನಗಳು ",
+            "creators": {
+                "author": "ಸಂಪಾದಕಿ ನಾಗಲಕ್ಷ್ಮೀ ಹರಿಹರೇಶ್ವರ"
+            },
+            "category": "",
+            "publisher": "",
+            "pages": "216",
+            "description": ""
         }
     }
 }
