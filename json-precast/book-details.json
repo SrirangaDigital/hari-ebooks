@@ -51,6 +51,19 @@
             "publisher": "",
             "pages": "216",
             "description": ""
+        },
+        "021": {
+            "language": "kan",
+            "identifier": "hari_ebooks/021",
+            "isbn": "",
+            "title": "ಅಮೆರಿಕನ್ನಡದ ಪ್ರಬಂಧಗಳು",
+            "creators": {
+                "author": "ಸಂಪಾದಕಿ ನಾಗಲಕ್ಷ್ಮೀ ಹರಿಹರೇಶ್ವರ"
+            },
+            "category": "",
+            "publisher": "",
+            "pages": "506",
+            "description": ""
         }
     }
 }
