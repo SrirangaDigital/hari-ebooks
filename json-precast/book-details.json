@@ -26,6 +26,19 @@
             "pages": "216",
             "description": "Geeta-Guccha (A collection of poem in kannada translated from sanskrit)"
         },
+        "018": {
+            "language": "kan",
+            "identifier": "hari_ebooks/018",
+            "isbn": "",
+            "title": "ಮಾತಿನ ಮಲ್ಲಿಗೆ",
+            "creators": {
+                "author": "ಶಿಕಾರಿಪುರ ಹರಿಹರೇಶ್ವರ"
+            },
+            "category": "",
+            "publisher": "",
+            "pages": "",
+            "description": ""
+        },
         "019": {
             "language": "kan",
             "identifier": "hari_ebooks/019",
