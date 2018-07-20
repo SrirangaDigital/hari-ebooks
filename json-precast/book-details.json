@@ -26,6 +26,19 @@
             "pages": "216",
             "description": "Geeta-Guccha (A collection of poem in kannada translated from sanskrit)"
         },
+         "005": {
+            "language": "kan",
+            "identifier": "hari_ebooks/005",
+            "isbn": "",
+            "title": "ಶ್ರೀ ಪುರಂದರದಾಸರು (ಗೀತ ಪ್ರಧಾನ ನಾಟಕ)",
+            "creators": {
+                "author": "ನಾಗಲಕ್ಷ್ಮೀ ಹರಿಹರೇಶ್ವರ"
+            },
+            "category": "",
+            "publisher": "",
+            "pages": "",
+            "description": ""
+        },
         "018": {
             "language": "kan",
             "identifier": "hari_ebooks/018",
@@ -42,10 +55,10 @@
         "019": {
             "language": "kan",
             "identifier": "hari_ebooks/019",
-            "isbn": "",
+            "isbn": "9789388114561",
             "title": "ಅಮೆರಿಕನ್ನಡದ ಕತೆಗಳು",
             "creators": {
-                "author": "ಶಿಕಾರಿಪುರ ಹರಿಹರೇಶ್ವರ"
+                "editor": "ನಾಗಲಕ್ಷ್ಮೀ ಹರಿಹರೇಶ್ವರ"
             },
             "category": "",
             "publisher": "",
@@ -55,10 +68,10 @@
         "020": {
             "language": "kan",
             "identifier": "hari_ebooks/020",
-            "isbn": "",
+            "isbn": "9789388114578",
             "title": "ಅಮೆರಿಕನ್ನಡದ ಕವನಗಳು ",
             "creators": {
-                "author": "ಸಂಪಾದಕಿ ನಾಗಲಕ್ಷ್ಮೀ ಹರಿಹರೇಶ್ವರ"
+                "editor": "ನಾಗಲಕ್ಷ್ಮೀ ಹರಿಹರೇಶ್ವರ"
             },
             "category": "",
             "publisher": "",
@@ -68,10 +81,10 @@
         "021": {
             "language": "kan",
             "identifier": "hari_ebooks/021",
-            "isbn": "",
+            "isbn": "9789388114585",
             "title": "ಅಮೆರಿಕನ್ನಡದ ಪ್ರಬಂಧಗಳು",
             "creators": {
-                "author": "ಸಂಪಾದಕಿ ನಾಗಲಕ್ಷ್ಮೀ ಹರಿಹರೇಶ್ವರ"
+                "editor": "ನಾಗಲಕ್ಷ್ಮೀ ಹರಿಹರೇಶ್ವರ"
             },
             "category": "",
             "publisher": "",

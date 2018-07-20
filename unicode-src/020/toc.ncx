@@ -3,7 +3,7 @@
     version="2005-1" xml:lang="en">
 
    <head>
-      <meta name="dtb:uid" content="urn:isbn:"/>
+      <meta name="dtb:uid" content="urn:isbn:9789388114578"/>
       <meta name="dtb:depth" content="1"/>
       <meta name="dtb:totalPageCount" content="0"/>
       <meta name="dtb:maxPageNumber" content="0"/>
@@ -19,417 +19,420 @@
 <navLabel><text>Title Page</text></navLabel><content src="000a-title.xhtml#id-000a"/>
 </navPoint>
 <navPoint id="navPoint-2" playOrder="2">
-<navLabel><text>ಮನದಾಳದ ಮಾತು..</text></navLabel><content src="000c-preface.xhtml#id-000c.1"/>
+<navLabel><text>Copyright</text></navLabel><content src="000b-copyright.xhtml#id-000b.1"/>
 </navPoint>
 <navPoint id="navPoint-3" playOrder="3">
-<navLabel><text>ನವ ನವೋನ್ಮೇಷ</text></navLabel><content src="001-chapter001.xhtml#id-1"/>
+<navLabel><text>ಮನದಾಳದ ಮಾತು..</text></navLabel><content src="000c-preface.xhtml#id-000c.1"/>
 </navPoint>
 <navPoint id="navPoint-4" playOrder="4">
-<navLabel><text>ಸುಣ್ಣಕಲ್ಲರಳಿದ ಹಂಗೆ</text></navLabel><content src="001-chapter001.xhtml#id-2"/>
+<navLabel><text>ನವ ನವೋನ್ಮೇಷ</text></navLabel><content src="001-chapter001.xhtml#id-1"/>
 </navPoint>
 <navPoint id="navPoint-5" playOrder="5">
-<navLabel><text>ನನ್ನ ಕಂದ</text></navLabel><content src="001-chapter001.xhtml#id-3"/>
+<navLabel><text>ಸುಣ್ಣಕಲ್ಲರಳಿದ ಹಂಗೆ</text></navLabel><content src="001-chapter001.xhtml#id-2"/>
 </navPoint>
 <navPoint id="navPoint-6" playOrder="6">
-<navLabel><text>ಮೇಪಲ್ ಬಿತ್ತ</text></navLabel><content src="001-chapter001.xhtml#id-4"/>
+<navLabel><text>ನನ್ನ ಕಂದ</text></navLabel><content src="001-chapter001.xhtml#id-3"/>
 </navPoint>
 <navPoint id="navPoint-7" playOrder="7">
-<navLabel><text>ಕರಗಿಸುವ ಕಡಾಯಿ</text></navLabel><content src="001-chapter001.xhtml#id-5"/>
+<navLabel><text>ಮೇಪಲ್ ಬಿತ್ತ</text></navLabel><content src="001-chapter001.xhtml#id-4"/>
 </navPoint>
 <navPoint id="navPoint-8" playOrder="8">
-<navLabel><text>ನಡುರಾತ್ರಿಯ ನೆಮ್ಮದಿ</text></navLabel><content src="001-chapter001.xhtml#id-6"/>
+<navLabel><text>ಕರಗಿಸುವ ಕಡಾಯಿ</text></navLabel><content src="001-chapter001.xhtml#id-5"/>
 </navPoint>
 <navPoint id="navPoint-9" playOrder="9">
-<navLabel><text>ಅಮೆರಿಕನ್ನಡ</text></navLabel><content src="001-chapter001.xhtml#id-7"/>
+<navLabel><text>ನಡುರಾತ್ರಿಯ ನೆಮ್ಮದಿ</text></navLabel><content src="001-chapter001.xhtml#id-6"/>
 </navPoint>
 <navPoint id="navPoint-10" playOrder="10">
-<navLabel><text>ಕನ್ನಡ ಇಲ್ಲಿ, ಅಮೆರಿಕದಲ್ಲಿ</text></navLabel><content src="001-chapter001.xhtml#id-8"/>
+<navLabel><text>ಅಮೆರಿಕನ್ನಡ</text></navLabel><content src="001-chapter001.xhtml#id-7"/>
 </navPoint>
 <navPoint id="navPoint-11" playOrder="11">
-<navLabel><text>ದೂರ ಸರಿದಾಗ ...</text></navLabel><content src="001-chapter001.xhtml#id-9"/>
+<navLabel><text>ಕನ್ನಡ ಇಲ್ಲಿ, ಅಮೆರಿಕದಲ್ಲಿ</text></navLabel><content src="001-chapter001.xhtml#id-8"/>
 </navPoint>
 <navPoint id="navPoint-12" playOrder="12">
-<navLabel><text>ಅರ್ಪಣೆ</text></navLabel><content src="001-chapter001.xhtml#id-10"/>
+<navLabel><text>ದೂರ ಸರಿದಾಗ ...</text></navLabel><content src="001-chapter001.xhtml#id-9"/>
 </navPoint>
 <navPoint id="navPoint-13" playOrder="13">
-<navLabel><text>ಅಲ್ಲಿ - ಇಲ್ಲಿ</text></navLabel><content src="001-chapter001.xhtml#id-11"/>
+<navLabel><text>ಅರ್ಪಣೆ</text></navLabel><content src="001-chapter001.xhtml#id-10"/>
 </navPoint>
 <navPoint id="navPoint-14" playOrder="14">
-<navLabel><text>ಉನ್ಮತ್ತ ಮನ</text></navLabel><content src="001-chapter001.xhtml#id-12"/>
+<navLabel><text>ಅಲ್ಲಿ - ಇಲ್ಲಿ</text></navLabel><content src="001-chapter001.xhtml#id-11"/>
 </navPoint>
 <navPoint id="navPoint-15" playOrder="15">
-<navLabel><text>ಶಿವನಾಮ</text></navLabel><content src="001-chapter001.xhtml#id-13"/>
+<navLabel><text>ಉನ್ಮತ್ತ ಮನ</text></navLabel><content src="001-chapter001.xhtml#id-12"/>
 </navPoint>
 <navPoint id="navPoint-16" playOrder="16">
-<navLabel><text>ಹೆದ್ದಾರಿ</text></navLabel><content src="001-chapter001.xhtml#id-14"/>
+<navLabel><text>ಶಿವನಾಮ</text></navLabel><content src="001-chapter001.xhtml#id-13"/>
 </navPoint>
 <navPoint id="navPoint-17" playOrder="17">
-<navLabel><text>ಸ್ನೋ</text></navLabel><content src="001-chapter001.xhtml#id-15"/>
+<navLabel><text>ಹೆದ್ದಾರಿ</text></navLabel><content src="001-chapter001.xhtml#id-14"/>
 </navPoint>
 <navPoint id="navPoint-18" playOrder="18">
-<navLabel><text>ಸ್ಪೂರ್ತಿ</text></navLabel><content src="001-chapter001.xhtml#id-16"/>
+<navLabel><text>ಸ್ನೋ</text></navLabel><content src="001-chapter001.xhtml#id-15"/>
 </navPoint>
 <navPoint id="navPoint-19" playOrder="19">
-<navLabel><text>ಮುಖವಾಡ</text></navLabel><content src="001-chapter001.xhtml#id-17"/>
+<navLabel><text>ಸ್ಪೂರ್ತಿ</text></navLabel><content src="001-chapter001.xhtml#id-16"/>
 </navPoint>
 <navPoint id="navPoint-20" playOrder="20">
-<navLabel><text>ನಾನೂ ಜಂಕಿಆಗಿ ಬಿಟ್ಟೆ</text></navLabel><content src="001-chapter001.xhtml#id-18"/>
+<navLabel><text>ಮುಖವಾಡ</text></navLabel><content src="001-chapter001.xhtml#id-17"/>
 </navPoint>
 <navPoint id="navPoint-21" playOrder="21">
-<navLabel><text>'ನೀವಲ್ಲವೆ?'</text></navLabel><content src="001-chapter001.xhtml#id-19"/>
+<navLabel><text>ನಾನೂ ಜಂಕಿಆಗಿ ಬಿಟ್ಟೆ</text></navLabel><content src="001-chapter001.xhtml#id-18"/>
 </navPoint>
 <navPoint id="navPoint-22" playOrder="22">
-<navLabel><text>ದುಷ್ಯಂತ</text></navLabel><content src="001-chapter001.xhtml#id-20"/>
+<navLabel><text>'ನೀವಲ್ಲವೆ?'</text></navLabel><content src="001-chapter001.xhtml#id-19"/>
 </navPoint>
 <navPoint id="navPoint-23" playOrder="23">
-<navLabel><text>ಸಂಕೋಲೆ</text></navLabel><content src="001-chapter001.xhtml#id-21"/>
+<navLabel><text>ದುಷ್ಯಂತ</text></navLabel><content src="001-chapter001.xhtml#id-20"/>
 </navPoint>
 <navPoint id="navPoint-24" playOrder="24">
-<navLabel><text>ಅಲ್ಲಿ ಇಲ್ಲಿ</text></navLabel><content src="001-chapter001.xhtml#id-22"/>
+<navLabel><text>ಸಂಕೋಲೆ</text></navLabel><content src="001-chapter001.xhtml#id-21"/>
 </navPoint>
 <navPoint id="navPoint-25" playOrder="25">
-<navLabel><text>ನನ್ನ ಕಂದ</text></navLabel><content src="001-chapter001.xhtml#id-23"/>
+<navLabel><text>ಅಲ್ಲಿ ಇಲ್ಲಿ</text></navLabel><content src="001-chapter001.xhtml#id-22"/>
 </navPoint>
 <navPoint id="navPoint-26" playOrder="26">
-<navLabel><text>ತುಮುಲ</text></navLabel><content src="001-chapter001.xhtml#id-24"/>
+<navLabel><text>ನನ್ನ ಕಂದ</text></navLabel><content src="001-chapter001.xhtml#id-23"/>
 </navPoint>
 <navPoint id="navPoint-27" playOrder="27">
-<navLabel><text>ನಯಾಗರ</text></navLabel><content src="001-chapter001.xhtml#id-25"/>
+<navLabel><text>ತುಮುಲ</text></navLabel><content src="001-chapter001.xhtml#id-24"/>
 </navPoint>
 <navPoint id="navPoint-28" playOrder="28">
-<navLabel><text>ಮೊಳಕೆ</text></navLabel><content src="001-chapter001.xhtml#id-26"/>
+<navLabel><text>ನಯಾಗರ</text></navLabel><content src="001-chapter001.xhtml#id-25"/>
 </navPoint>
 <navPoint id="navPoint-29" playOrder="29">
-<navLabel><text>ಮೈಲಿಗಲ್ಲು</text></navLabel><content src="001-chapter001.xhtml#id-27"/>
+<navLabel><text>ಮೊಳಕೆ</text></navLabel><content src="001-chapter001.xhtml#id-26"/>
 </navPoint>
 <navPoint id="navPoint-30" playOrder="30">
-<navLabel><text>ವಿಕಲಕಾವ್ಯ</text></navLabel><content src="001-chapter001.xhtml#id-28"/>
+<navLabel><text>ಮೈಲಿಗಲ್ಲು</text></navLabel><content src="001-chapter001.xhtml#id-27"/>
 </navPoint>
 <navPoint id="navPoint-31" playOrder="31">
-<navLabel><text>ಋತುಲೀಲೆ</text></navLabel><content src="001-chapter001.xhtml#id-29"/>
+<navLabel><text>ವಿಕಲಕಾವ್ಯ</text></navLabel><content src="001-chapter001.xhtml#id-28"/>
 </navPoint>
 <navPoint id="navPoint-32" playOrder="32">
-<navLabel><text>ಕಾವ್ಯಾಂಜಲಿ</text></navLabel><content src="001-chapter001.xhtml#id-30"/>
+<navLabel><text>ಋತುಲೀಲೆ</text></navLabel><content src="001-chapter001.xhtml#id-29"/>
 </navPoint>
 <navPoint id="navPoint-33" playOrder="33">
-<navLabel><text>ಜೀವನ ಸಿದ್ಧಾಂತ</text></navLabel><content src="001-chapter001.xhtml#id-31"/>
+<navLabel><text>ಕಾವ್ಯಾಂಜಲಿ</text></navLabel><content src="001-chapter001.xhtml#id-30"/>
 </navPoint>
 <navPoint id="navPoint-34" playOrder="34">
-<navLabel><text>ಕನ್ನಡದ ನೆನಪು</text></navLabel><content src="001-chapter001.xhtml#id-32"/>
+<navLabel><text>ಜೀವನ ಸಿದ್ಧಾಂತ</text></navLabel><content src="001-chapter001.xhtml#id-31"/>
 </navPoint>
 <navPoint id="navPoint-35" playOrder="35">
-<navLabel><text>ಆನೆ ಬಂತೊಂದಾನೆ....</text></navLabel><content src="001-chapter001.xhtml#id-33"/>
+<navLabel><text>ಕನ್ನಡದ ನೆನಪು</text></navLabel><content src="001-chapter001.xhtml#id-32"/>
 </navPoint>
 <navPoint id="navPoint-36" playOrder="36">
-<navLabel><text>ನೆಲಗಂಧಿಯ ಹಾಡು</text></navLabel><content src="001-chapter001.xhtml#id-34"/>
+<navLabel><text>ಆನೆ ಬಂತೊಂದಾನೆ....</text></navLabel><content src="001-chapter001.xhtml#id-33"/>
 </navPoint>
 <navPoint id="navPoint-37" playOrder="37">
-<navLabel><text>ಹುಡುಕುತ್ತಿದ್ದೇನೆ</text></navLabel><content src="001-chapter001.xhtml#id-35"/>
+<navLabel><text>ನೆಲಗಂಧಿಯ ಹಾಡು</text></navLabel><content src="001-chapter001.xhtml#id-34"/>
 </navPoint>
 <navPoint id="navPoint-38" playOrder="38">
-<navLabel><text>ಕ್ಷ</text></navLabel><content src="001-chapter001.xhtml#id-36"/>
+<navLabel><text>ಹುಡುಕುತ್ತಿದ್ದೇನೆ</text></navLabel><content src="001-chapter001.xhtml#id-35"/>
 </navPoint>
 <navPoint id="navPoint-39" playOrder="39">
-<navLabel><text>ನಾದಸಂಭ್ರಮ</text></navLabel><content src="001-chapter001.xhtml#id-37"/>
+<navLabel><text>ಕ್ಷ</text></navLabel><content src="001-chapter001.xhtml#id-36"/>
 </navPoint>
 <navPoint id="navPoint-40" playOrder="40">
-<navLabel><text>ಶೂ ದ್ರ</text></navLabel><content src="001-chapter001.xhtml#id-38"/>
+<navLabel><text>ನಾದಸಂಭ್ರಮ</text></navLabel><content src="001-chapter001.xhtml#id-37"/>
 </navPoint>
 <navPoint id="navPoint-41" playOrder="41">
-<navLabel><text>ಕಿಡಿ !!</text></navLabel><content src="001-chapter001.xhtml#id-39"/>
+<navLabel><text>ಶೂ ದ್ರ</text></navLabel><content src="001-chapter001.xhtml#id-38"/>
 </navPoint>
 <navPoint id="navPoint-42" playOrder="42">
-<navLabel><text>ಮಿಡಿತ</text></navLabel><content src="001-chapter001.xhtml#id-40"/>
+<navLabel><text>ಕಿಡಿ !!</text></navLabel><content src="001-chapter001.xhtml#id-39"/>
 </navPoint>
 <navPoint id="navPoint-43" playOrder="43">
-<navLabel><text>ಆದದ್ದು ಹೋದದ್ದು</text></navLabel><content src="001-chapter001.xhtml#id-41"/>
+<navLabel><text>ಮಿಡಿತ</text></navLabel><content src="001-chapter001.xhtml#id-40"/>
 </navPoint>
 <navPoint id="navPoint-44" playOrder="44">
-<navLabel><text>ಆದದ್ದು ಒಳಿತಾಯ್ತು</text></navLabel><content src="001-chapter001.xhtml#id-42"/>
+<navLabel><text>ಆದದ್ದು ಹೋದದ್ದು</text></navLabel><content src="001-chapter001.xhtml#id-41"/>
 </navPoint>
 <navPoint id="navPoint-45" playOrder="45">
-<navLabel><text>ಎಲೆ ಹೆಣ್ಣೆ</text></navLabel><content src="001-chapter001.xhtml#id-43"/>
+<navLabel><text>ಆದದ್ದು ಒಳಿತಾಯ್ತು</text></navLabel><content src="001-chapter001.xhtml#id-42"/>
 </navPoint>
 <navPoint id="navPoint-46" playOrder="46">
-<navLabel><text>ಕವಿ ಕವಿತಾ</text></navLabel><content src="001-chapter001.xhtml#id-44"/>
+<navLabel><text>ಎಲೆ ಹೆಣ್ಣೆ</text></navLabel><content src="001-chapter001.xhtml#id-43"/>
 </navPoint>
 <navPoint id="navPoint-47" playOrder="47">
-<navLabel><text>ಬಲ್ಲೆ</text></navLabel><content src="001-chapter001.xhtml#id-45"/>
+<navLabel><text>ಕವಿ ಕವಿತಾ</text></navLabel><content src="001-chapter001.xhtml#id-44"/>
 </navPoint>
 <navPoint id="navPoint-48" playOrder="48">
-<navLabel><text>ಕರ್ನಾಟಕದಲ್ಲಿ ಅತಿಥಿ</text></navLabel><content src="001-chapter001.xhtml#id-46"/>
+<navLabel><text>ಬಲ್ಲೆ</text></navLabel><content src="001-chapter001.xhtml#id-45"/>
 </navPoint>
 <navPoint id="navPoint-49" playOrder="49">
-<navLabel><text>ಶುಭ ಜನುಮದಿನ</text></navLabel><content src="001-chapter001.xhtml#id-47"/>
+<navLabel><text>ಕರ್ನಾಟಕದಲ್ಲಿ ಅತಿಥಿ</text></navLabel><content src="001-chapter001.xhtml#id-46"/>
 </navPoint>
 <navPoint id="navPoint-50" playOrder="50">
-<navLabel><text>ಅಲ್ಲಿ+ಇಲ್ಲಿ = ಎಲ್ಲಿ?</text></navLabel><content src="001-chapter001.xhtml#id-48"/>
+<navLabel><text>ಶುಭ ಜನುಮದಿನ</text></navLabel><content src="001-chapter001.xhtml#id-47"/>
 </navPoint>
 <navPoint id="navPoint-51" playOrder="51">
-<navLabel><text>ಒಂದು ಚಳಿಗಾಲದಲ್ಲಿ</text></navLabel><content src="001-chapter001.xhtml#id-49"/>
+<navLabel><text>ಅಲ್ಲಿ+ಇಲ್ಲಿ = ಎಲ್ಲಿ?</text></navLabel><content src="001-chapter001.xhtml#id-48"/>
 </navPoint>
 <navPoint id="navPoint-52" playOrder="52">
-<navLabel><text>ಶಕ್ತಿ ವರ್ತುಲದಲ್ಲಿ....</text></navLabel><content src="001-chapter001.xhtml#id-50"/>
+<navLabel><text>ಒಂದು ಚಳಿಗಾಲದಲ್ಲಿ</text></navLabel><content src="001-chapter001.xhtml#id-49"/>
 </navPoint>
 <navPoint id="navPoint-53" playOrder="53">
-<navLabel><text>ಭಾರತವೇ, ಓ ಅಮೇರಿಕವೆ</text></navLabel><content src="001-chapter001.xhtml#id-51"/>
+<navLabel><text>ಶಕ್ತಿ ವರ್ತುಲದಲ್ಲಿ....</text></navLabel><content src="001-chapter001.xhtml#id-50"/>
 </navPoint>
 <navPoint id="navPoint-54" playOrder="54">
-<navLabel><text>ನಿರ್ದೋಷಿ</text></navLabel><content src="001-chapter001.xhtml#id-52"/>
+<navLabel><text>ಭಾರತವೇ, ಓ ಅಮೇರಿಕವೆ</text></navLabel><content src="001-chapter001.xhtml#id-51"/>
 </navPoint>
 <navPoint id="navPoint-55" playOrder="55">
-<navLabel><text>ಆಸೆ</text></navLabel><content src="001-chapter001.xhtml#id-53"/>
+<navLabel><text>ನಿರ್ದೋಷಿ</text></navLabel><content src="001-chapter001.xhtml#id-52"/>
 </navPoint>
 <navPoint id="navPoint-56" playOrder="56">
-<navLabel><text>ಶನಿ ( Saturn ) ಅವತಾರ</text></navLabel><content src="001-chapter001.xhtml#id-54"/>
+<navLabel><text>ಆಸೆ</text></navLabel><content src="001-chapter001.xhtml#id-53"/>
 </navPoint>
 <navPoint id="navPoint-57" playOrder="57">
-<navLabel><text>ಆ ನಲ್ಲ</text></navLabel><content src="001-chapter001.xhtml#id-55"/>
+<navLabel><text>ಶನಿ ( Saturn ) ಅವತಾರ</text></navLabel><content src="001-chapter001.xhtml#id-54"/>
 </navPoint>
 <navPoint id="navPoint-58" playOrder="58">
-<navLabel><text>ವಿಶ್ವ ಕನ್ನಡ</text></navLabel><content src="001-chapter001.xhtml#id-56"/>
+<navLabel><text>ಆ ನಲ್ಲ</text></navLabel><content src="001-chapter001.xhtml#id-55"/>
 </navPoint>
 <navPoint id="navPoint-59" playOrder="59">
-<navLabel><text>ಪಳೆಯುಳಿಕೆ</text></navLabel><content src="001-chapter001.xhtml#id-57"/>
+<navLabel><text>ವಿಶ್ವ ಕನ್ನಡ</text></navLabel><content src="001-chapter001.xhtml#id-56"/>
 </navPoint>
 <navPoint id="navPoint-60" playOrder="60">
-<navLabel><text>ಗರ್ಭಧಾರಣೆ</text></navLabel><content src="001-chapter001.xhtml#id-58"/>
+<navLabel><text>ಪಳೆಯುಳಿಕೆ</text></navLabel><content src="001-chapter001.xhtml#id-57"/>
 </navPoint>
 <navPoint id="navPoint-61" playOrder="61">
-<navLabel><text>ಕನಸಿನಲ್ಲಿ ಕನ್ನಡತಿ</text></navLabel><content src="001-chapter001.xhtml#id-59"/>
+<navLabel><text>ಗರ್ಭಧಾರಣೆ</text></navLabel><content src="001-chapter001.xhtml#id-58"/>
 </navPoint>
 <navPoint id="navPoint-62" playOrder="62">
-<navLabel><text>ನನ್ನೂರ ತುಂಬ ಜಾತ್ರೆ</text></navLabel><content src="001-chapter001.xhtml#id-60"/>
+<navLabel><text>ಕನಸಿನಲ್ಲಿ ಕನ್ನಡತಿ</text></navLabel><content src="001-chapter001.xhtml#id-59"/>
 </navPoint>
 <navPoint id="navPoint-63" playOrder="63">
-<navLabel><text>ಭ್ರಮೆ</text></navLabel><content src="001-chapter001.xhtml#id-61"/>
+<navLabel><text>ನನ್ನೂರ ತುಂಬ ಜಾತ್ರೆ</text></navLabel><content src="001-chapter001.xhtml#id-60"/>
 </navPoint>
 <navPoint id="navPoint-64" playOrder="64">
-<navLabel><text>ಸೋಲೂ ಗೆಲುವೇ</text></navLabel><content src="001-chapter001.xhtml#id-62"/>
+<navLabel><text>ಭ್ರಮೆ</text></navLabel><content src="001-chapter001.xhtml#id-61"/>
 </navPoint>
 <navPoint id="navPoint-65" playOrder="65">
-<navLabel><text>ಹನಿಗವನಗಳು</text></navLabel><content src="001-chapter001.xhtml#id-63"/>
+<navLabel><text>ಸೋಲೂ ಗೆಲುವೇ</text></navLabel><content src="001-chapter001.xhtml#id-62"/>
 </navPoint>
 <navPoint id="navPoint-66" playOrder="66">
-<navLabel><text>ಕೆರೆಗೆ ಹಾರ (ಕೋಲಾಟದ ಪದ)</text></navLabel><content src="001-chapter001.xhtml#id-64"/>
+<navLabel><text>ಹನಿಗವನಗಳು</text></navLabel><content src="001-chapter001.xhtml#id-63"/>
 </navPoint>
 <navPoint id="navPoint-67" playOrder="67">
-<navLabel><text>ಅಲ್ಲಿ-ಇಲ್ಲಿ</text></navLabel><content src="001-chapter001.xhtml#id-65"/>
+<navLabel><text>ಕೆರೆಗೆ ಹಾರ (ಕೋಲಾಟದ ಪದ)</text></navLabel><content src="001-chapter001.xhtml#id-64"/>
 </navPoint>
 <navPoint id="navPoint-68" playOrder="68">
-<navLabel><text>ತಡಕಾಟ</text></navLabel><content src="001-chapter001.xhtml#id-66"/>
+<navLabel><text>ಅಲ್ಲಿ-ಇಲ್ಲಿ</text></navLabel><content src="001-chapter001.xhtml#id-65"/>
 </navPoint>
 <navPoint id="navPoint-69" playOrder="69">
-<navLabel><text>ಶಿಶಿರ ಬಯಲು</text></navLabel><content src="001-chapter001.xhtml#id-67"/>
+<navLabel><text>ತಡಕಾಟ</text></navLabel><content src="001-chapter001.xhtml#id-66"/>
 </navPoint>
 <navPoint id="navPoint-70" playOrder="70">
-<navLabel><text>ಭೂತ ಭೂಗತವಲ್ಲ</text></navLabel><content src="001-chapter001.xhtml#id-68"/>
+<navLabel><text>ಶಿಶಿರ ಬಯಲು</text></navLabel><content src="001-chapter001.xhtml#id-67"/>
 </navPoint>
 <navPoint id="navPoint-71" playOrder="71">
-<navLabel><text>ತಿಮ್ಮ - ಮಲ್ಲಿ</text></navLabel><content src="001-chapter001.xhtml#id-69"/>
+<navLabel><text>ಭೂತ ಭೂಗತವಲ್ಲ</text></navLabel><content src="001-chapter001.xhtml#id-68"/>
 </navPoint>
 <navPoint id="navPoint-72" playOrder="72">
-<navLabel><text>ಹೂವು ಹೆಣ್ಣು ತಾರೆ</text></navLabel><content src="001-chapter001.xhtml#id-70"/>
+<navLabel><text>ತಿಮ್ಮ - ಮಲ್ಲಿ</text></navLabel><content src="001-chapter001.xhtml#id-69"/>
 </navPoint>
 <navPoint id="navPoint-73" playOrder="73">
-<navLabel><text>ಇಂದು</text></navLabel><content src="001-chapter001.xhtml#id-71"/>
+<navLabel><text>ಹೂವು ಹೆಣ್ಣು ತಾರೆ</text></navLabel><content src="001-chapter001.xhtml#id-70"/>
 </navPoint>
 <navPoint id="navPoint-74" playOrder="74">
-<navLabel><text>ಕಲಕಿದ ನೀರು</text></navLabel><content src="001-chapter001.xhtml#id-72"/>
+<navLabel><text>ಇಂದು</text></navLabel><content src="001-chapter001.xhtml#id-71"/>
 </navPoint>
 <navPoint id="navPoint-75" playOrder="75">
-<navLabel><text>ಬರಲಿ ಅಮೆರಿಕನ್ನಡ !</text></navLabel><content src="001-chapter001.xhtml#id-73"/>
+<navLabel><text>ಕಲಕಿದ ನೀರು</text></navLabel><content src="001-chapter001.xhtml#id-72"/>
 </navPoint>
 <navPoint id="navPoint-76" playOrder="76">
-<navLabel><text>ನಾಸ್ತಿಕ</text></navLabel><content src="001-chapter001.xhtml#id-74"/>
+<navLabel><text>ಬರಲಿ ಅಮೆರಿಕನ್ನಡ !</text></navLabel><content src="001-chapter001.xhtml#id-73"/>
 </navPoint>
 <navPoint id="navPoint-77" playOrder="77">
-<navLabel><text>ಹೆಣ್ಣಾಗಿ ಉಳಿಯುತ್ತೇನೆ</text></navLabel><content src="001-chapter001.xhtml#id-75"/>
+<navLabel><text>ನಾಸ್ತಿಕ</text></navLabel><content src="001-chapter001.xhtml#id-74"/>
 </navPoint>
 <navPoint id="navPoint-78" playOrder="78">
-<navLabel><text>ಅಮೆರಿಕನ್ನಡಿತಿಯ ಆಸೆಯ ಲಿಸ್ಟು</text></navLabel><content src="001-chapter001.xhtml#id-76"/>
+<navLabel><text>ಹೆಣ್ಣಾಗಿ ಉಳಿಯುತ್ತೇನೆ</text></navLabel><content src="001-chapter001.xhtml#id-75"/>
 </navPoint>
 <navPoint id="navPoint-79" playOrder="79">
-<navLabel><text>ನ್ಯೂಯಾರ್ಕ್</text></navLabel><content src="001-chapter001.xhtml#id-77"/>
+<navLabel><text>ಅಮೆರಿಕನ್ನಡಿತಿಯ ಆಸೆಯ ಲಿಸ್ಟು</text></navLabel><content src="001-chapter001.xhtml#id-76"/>
 </navPoint>
 <navPoint id="navPoint-80" playOrder="80">
-<navLabel><text>ತೃಪ್ತ</text></navLabel><content src="001-chapter001.xhtml#id-78"/>
+<navLabel><text>ನ್ಯೂಯಾರ್ಕ್</text></navLabel><content src="001-chapter001.xhtml#id-77"/>
 </navPoint>
 <navPoint id="navPoint-81" playOrder="81">
-<navLabel><text>ಹಾಡಲಾರೆ ಹಾರಲಾರೆ</text></navLabel><content src="001-chapter001.xhtml#id-79"/>
+<navLabel><text>ತೃಪ್ತ</text></navLabel><content src="001-chapter001.xhtml#id-78"/>
 </navPoint>
 <navPoint id="navPoint-82" playOrder="82">
-<navLabel><text>ಚುಂಬನ</text></navLabel><content src="001-chapter001.xhtml#id-80"/>
+<navLabel><text>ಹಾಡಲಾರೆ ಹಾರಲಾರೆ</text></navLabel><content src="001-chapter001.xhtml#id-79"/>
 </navPoint>
 <navPoint id="navPoint-83" playOrder="83">
-<navLabel><text>ವ್ಯಾಸಛಂದ</text></navLabel><content src="001-chapter001.xhtml#id-81"/>
+<navLabel><text>ಚುಂಬನ</text></navLabel><content src="001-chapter001.xhtml#id-80"/>
 </navPoint>
 <navPoint id="navPoint-84" playOrder="84">
-<navLabel><text>ಕನ್ನಡ ಎನೆ ಕುಣಿದಾಡುವುದೆನ್ನೆದೆ.....</text></navLabel><content src="001-chapter001.xhtml#id-82"/>
+<navLabel><text>ವ್ಯಾಸಛಂದ</text></navLabel><content src="001-chapter001.xhtml#id-81"/>
 </navPoint>
 <navPoint id="navPoint-85" playOrder="85">
-<navLabel><text>ಅಲ್ಲಿ - ಇಲ್ಲಿ</text></navLabel><content src="001-chapter001.xhtml#id-83"/>
+<navLabel><text>ಕನ್ನಡ ಎನೆ ಕುಣಿದಾಡುವುದೆನ್ನೆದೆ.....</text></navLabel><content src="001-chapter001.xhtml#id-82"/>
 </navPoint>
 <navPoint id="navPoint-86" playOrder="86">
-<navLabel><text>ಹೀಗೊಂದು ಪ್ರೇಮಕತೆ</text></navLabel><content src="001-chapter001.xhtml#id-84"/>
+<navLabel><text>ಅಲ್ಲಿ - ಇಲ್ಲಿ</text></navLabel><content src="001-chapter001.xhtml#id-83"/>
 </navPoint>
 <navPoint id="navPoint-87" playOrder="87">
-<navLabel><text>ದೊಡ್ಡವರು</text></navLabel><content src="001-chapter001.xhtml#id-85"/>
+<navLabel><text>ಹೀಗೊಂದು ಪ್ರೇಮಕತೆ</text></navLabel><content src="001-chapter001.xhtml#id-84"/>
 </navPoint>
 <navPoint id="navPoint-88" playOrder="88">
-<navLabel><text>ಸಣ್ಣವರು</text></navLabel><content src="001-chapter001.xhtml#id-86"/>
+<navLabel><text>ದೊಡ್ಡವರು</text></navLabel><content src="001-chapter001.xhtml#id-85"/>
 </navPoint>
 <navPoint id="navPoint-89" playOrder="89">
-<navLabel><text>ನಾಟ್ಯೋತ್ಸವ</text></navLabel><content src="001-chapter001.xhtml#id-87"/>
+<navLabel><text>ಸಣ್ಣವರು</text></navLabel><content src="001-chapter001.xhtml#id-86"/>
 </navPoint>
 <navPoint id="navPoint-90" playOrder="90">
-<navLabel><text>ಅಮೇರಿಕೆಯಲ್ಲಿ ಕನ್ನಡ ಗರತಿ</text></navLabel><content src="001-chapter001.xhtml#id-88"/>
+<navLabel><text>ನಾಟ್ಯೋತ್ಸವ</text></navLabel><content src="001-chapter001.xhtml#id-87"/>
 </navPoint>
 <navPoint id="navPoint-91" playOrder="91">
-<navLabel><text>ಲೋಕೋದ್ಧಾರವಾಯ್ತಲ್ಲ..!</text></navLabel><content src="001-chapter001.xhtml#id-89"/>
+<navLabel><text>ಅಮೇರಿಕೆಯಲ್ಲಿ ಕನ್ನಡ ಗರತಿ</text></navLabel><content src="001-chapter001.xhtml#id-88"/>
 </navPoint>
 <navPoint id="navPoint-92" playOrder="92">
-<navLabel><text>ಶಿಶಿರ</text></navLabel><content src="001-chapter001.xhtml#id-90"/>
+<navLabel><text>ಲೋಕೋದ್ಧಾರವಾಯ್ತಲ್ಲ..!</text></navLabel><content src="001-chapter001.xhtml#id-89"/>
 </navPoint>
 <navPoint id="navPoint-93" playOrder="93">
-<navLabel><text>ಬೇರುಗಳು</text></navLabel><content src="001-chapter001.xhtml#id-91"/>
+<navLabel><text>ಶಿಶಿರ</text></navLabel><content src="001-chapter001.xhtml#id-90"/>
 </navPoint>
 <navPoint id="navPoint-94" playOrder="94">
-<navLabel><text>ಬರೆಯೋಕಿಲ್ವೆ ಕಾಗ್ದಾನ?</text></navLabel><content src="001-chapter001.xhtml#id-92"/>
+<navLabel><text>ಬೇರುಗಳು</text></navLabel><content src="001-chapter001.xhtml#id-91"/>
 </navPoint>
 <navPoint id="navPoint-95" playOrder="95">
-<navLabel><text>ಜೆಟ್ ಲ್ಯಾಗ್</text></navLabel><content src="001-chapter001.xhtml#id-93"/>
+<navLabel><text>ಬರೆಯೋಕಿಲ್ವೆ ಕಾಗ್ದಾನ?</text></navLabel><content src="001-chapter001.xhtml#id-92"/>
 </navPoint>
 <navPoint id="navPoint-96" playOrder="96">
-<navLabel><text>ವಿರಹಿಯ ಓಲೆ ("ದೇವಿ ಭುವನ ಮನಮೋಹಿನಿ" ಮಟ್ಟು)</text></navLabel><content src="001-chapter001.xhtml#id-94"/>
+<navLabel><text>ಜೆಟ್ ಲ್ಯಾಗ್</text></navLabel><content src="001-chapter001.xhtml#id-93"/>
 </navPoint>
 <navPoint id="navPoint-97" playOrder="97">
-<navLabel><text>ನನ್ನ ಮುದ್ದು ಕಂದ</text></navLabel><content src="001-chapter001.xhtml#id-95"/>
+<navLabel><text>ವಿರಹಿಯ ಓಲೆ ("ದೇವಿ ಭುವನ ಮನಮೋಹಿನಿ" ಮಟ್ಟು)</text></navLabel><content src="001-chapter001.xhtml#id-94"/>
 </navPoint>
 <navPoint id="navPoint-98" playOrder="98">
-<navLabel><text>ಕನ್ನಡ ಕೆಳೆಯರಿರ....</text></navLabel><content src="001-chapter001.xhtml#id-96"/>
+<navLabel><text>ನನ್ನ ಮುದ್ದು ಕಂದ</text></navLabel><content src="001-chapter001.xhtml#id-95"/>
 </navPoint>
 <navPoint id="navPoint-99" playOrder="99">
-<navLabel><text>ಸಂದೇಶ</text></navLabel><content src="001-chapter001.xhtml#id-97"/>
+<navLabel><text>ಕನ್ನಡ ಕೆಳೆಯರಿರ....</text></navLabel><content src="001-chapter001.xhtml#id-96"/>
 </navPoint>
 <navPoint id="navPoint-100" playOrder="100">
-<navLabel><text>ಹೇಮಂತದ ಒಂದು ನಸುಕಿನಲ್ಲಿ</text></navLabel><content src="001-chapter001.xhtml#id-98"/>
+<navLabel><text>ಸಂದೇಶ</text></navLabel><content src="001-chapter001.xhtml#id-97"/>
 </navPoint>
 <navPoint id="navPoint-101" playOrder="101">
-<navLabel><text>ಆಸೆ</text></navLabel><content src="001-chapter001.xhtml#id-99"/>
+<navLabel><text>ಹೇಮಂತದ ಒಂದು ನಸುಕಿನಲ್ಲಿ</text></navLabel><content src="001-chapter001.xhtml#id-98"/>
 </navPoint>
 <navPoint id="navPoint-102" playOrder="102">
-<navLabel><text>ಇಲ್ಲಿ ಇಲ್ಲ</text></navLabel><content src="001-chapter001.xhtml#id-100"/>
+<navLabel><text>ಆಸೆ</text></navLabel><content src="001-chapter001.xhtml#id-99"/>
 </navPoint>
 <navPoint id="navPoint-103" playOrder="103">
-<navLabel><text>ಮೊದಲ ರಾತ್ರಿ</text></navLabel><content src="001-chapter001.xhtml#id-101"/>
+<navLabel><text>ಇಲ್ಲಿ ಇಲ್ಲ</text></navLabel><content src="001-chapter001.xhtml#id-100"/>
 </navPoint>
 <navPoint id="navPoint-104" playOrder="104">
-<navLabel><text>ನಿರೀಕ್ಷೆ</text></navLabel><content src="001-chapter001.xhtml#id-102"/>
+<navLabel><text>ಮೊದಲ ರಾತ್ರಿ</text></navLabel><content src="001-chapter001.xhtml#id-101"/>
 </navPoint>
 <navPoint id="navPoint-105" playOrder="105">
-<navLabel><text>ಉದಯವಾಗಿದೆ ಕನ್ನಡನಾಡು !</text></navLabel><content src="001-chapter001.xhtml#id-103"/>
+<navLabel><text>ನಿರೀಕ್ಷೆ</text></navLabel><content src="001-chapter001.xhtml#id-102"/>
 </navPoint>
 <navPoint id="navPoint-106" playOrder="106">
-<navLabel><text>ತ್ರಿಶಂಕು</text></navLabel><content src="001-chapter001.xhtml#id-104"/>
+<navLabel><text>ಉದಯವಾಗಿದೆ ಕನ್ನಡನಾಡು !</text></navLabel><content src="001-chapter001.xhtml#id-103"/>
 </navPoint>
 <navPoint id="navPoint-107" playOrder="107">
-<navLabel><text>ವನಸುಮ</text></navLabel><content src="001-chapter001.xhtml#id-105"/>
+<navLabel><text>ತ್ರಿಶಂಕು</text></navLabel><content src="001-chapter001.xhtml#id-104"/>
 </navPoint>
 <navPoint id="navPoint-108" playOrder="108">
-<navLabel><text>ನನ್ನ ಮುದ್ದು ಕಂದ</text></navLabel><content src="001-chapter001.xhtml#id-106"/>
+<navLabel><text>ವನಸುಮ</text></navLabel><content src="001-chapter001.xhtml#id-105"/>
 </navPoint>
 <navPoint id="navPoint-109" playOrder="109">
-<navLabel><text>ಕನ್ನಡದ ಕಾಗುಣಿತ</text></navLabel><content src="001-chapter001.xhtml#id-107"/>
+<navLabel><text>ನನ್ನ ಮುದ್ದು ಕಂದ</text></navLabel><content src="001-chapter001.xhtml#id-106"/>
 </navPoint>
 <navPoint id="navPoint-110" playOrder="110">
-<navLabel><text>ಹಾವು</text></navLabel><content src="001-chapter001.xhtml#id-108"/>
+<navLabel><text>ಕನ್ನಡದ ಕಾಗುಣಿತ</text></navLabel><content src="001-chapter001.xhtml#id-107"/>
 </navPoint>
 <navPoint id="navPoint-111" playOrder="111">
-<navLabel><text>ಹುಟ್ಬೇಕು ಇಂಗ್ಲಂಡಿನಾಗ</text></navLabel><content src="001-chapter001.xhtml#id-109"/>
+<navLabel><text>ಹಾವು</text></navLabel><content src="001-chapter001.xhtml#id-108"/>
 </navPoint>
 <navPoint id="navPoint-112" playOrder="112">
-<navLabel><text>ತಂದೆ ತಾಯಿಗಳ ತಳಮಳ</text></navLabel><content src="001-chapter001.xhtml#id-110"/>
+<navLabel><text>ಹುಟ್ಬೇಕು ಇಂಗ್ಲಂಡಿನಾಗ</text></navLabel><content src="001-chapter001.xhtml#id-109"/>
 </navPoint>
 <navPoint id="navPoint-113" playOrder="113">
-<navLabel><text>ವಿಶ್ವ ಕನ್ನಡ</text></navLabel><content src="001-chapter001.xhtml#id-111"/>
+<navLabel><text>ತಂದೆ ತಾಯಿಗಳ ತಳಮಳ</text></navLabel><content src="001-chapter001.xhtml#id-110"/>
 </navPoint>
 <navPoint id="navPoint-114" playOrder="114">
-<navLabel><text>ಸ್ಫೂರ್ತಿ</text></navLabel><content src="001-chapter001.xhtml#id-112"/>
+<navLabel><text>ವಿಶ್ವ ಕನ್ನಡ</text></navLabel><content src="001-chapter001.xhtml#id-111"/>
 </navPoint>
 <navPoint id="navPoint-115" playOrder="115">
-<navLabel><text>ಮಿಂಚು</text></navLabel><content src="001-chapter001.xhtml#id-113"/>
+<navLabel><text>ಸ್ಫೂರ್ತಿ</text></navLabel><content src="001-chapter001.xhtml#id-112"/>
 </navPoint>
 <navPoint id="navPoint-116" playOrder="116">
-<navLabel><text>ಮಹಡಿಮಹಲಲ್ಲಿ</text></navLabel><content src="001-chapter001.xhtml#id-114"/>
+<navLabel><text>ಮಿಂಚು</text></navLabel><content src="001-chapter001.xhtml#id-113"/>
 </navPoint>
 <navPoint id="navPoint-117" playOrder="117">
-<navLabel><text>ನಿಯಂತ್ರಣವಿಲ್ಲದ ಚಾಲಕರೇ</text></navLabel><content src="001-chapter001.xhtml#id-115"/>
+<navLabel><text>ಮಹಡಿಮಹಲಲ್ಲಿ</text></navLabel><content src="001-chapter001.xhtml#id-114"/>
 </navPoint>
 <navPoint id="navPoint-118" playOrder="118">
-<navLabel><text>ನಮ್ಮ ಕನ್ನಡ ನಾಡು !</text></navLabel><content src="001-chapter001.xhtml#id-116"/>
+<navLabel><text>ನಿಯಂತ್ರಣವಿಲ್ಲದ ಚಾಲಕರೇ</text></navLabel><content src="001-chapter001.xhtml#id-115"/>
 </navPoint>
 <navPoint id="navPoint-119" playOrder="119">
-<navLabel><text>ಮನದಾಸೆ</text></navLabel><content src="001-chapter001.xhtml#id-117"/>
+<navLabel><text>ನಮ್ಮ ಕನ್ನಡ ನಾಡು !</text></navLabel><content src="001-chapter001.xhtml#id-116"/>
 </navPoint>
 <navPoint id="navPoint-120" playOrder="120">
-<navLabel><text>ಆಗ</text></navLabel><content src="001-chapter001.xhtml#id-118"/>
+<navLabel><text>ಮನದಾಸೆ</text></navLabel><content src="001-chapter001.xhtml#id-117"/>
 </navPoint>
 <navPoint id="navPoint-121" playOrder="121">
-<navLabel><text>ಏನು ನಮ್ಮ ಸಾಧನೆ?</text></navLabel><content src="001-chapter001.xhtml#id-119"/>
+<navLabel><text>ಆಗ</text></navLabel><content src="001-chapter001.xhtml#id-118"/>
 </navPoint>
 <navPoint id="navPoint-122" playOrder="122">
-<navLabel><text>ಸಂಜೆ</text></navLabel><content src="001-chapter001.xhtml#id-120"/>
+<navLabel><text>ಏನು ನಮ್ಮ ಸಾಧನೆ?</text></navLabel><content src="001-chapter001.xhtml#id-119"/>
 </navPoint>
 <navPoint id="navPoint-123" playOrder="123">
-<navLabel><text>ಅಂದು ಹೀಗಿರಲಿಲ್ಲ</text></navLabel><content src="001-chapter001.xhtml#id-121"/>
+<navLabel><text>ಸಂಜೆ</text></navLabel><content src="001-chapter001.xhtml#id-120"/>
 </navPoint>
 <navPoint id="navPoint-124" playOrder="124">
-<navLabel><text>ತಿರಸ್ಕಾರದ ಹೊಣೆ</text></navLabel><content src="001-chapter001.xhtml#id-122"/>
+<navLabel><text>ಅಂದು ಹೀಗಿರಲಿಲ್ಲ</text></navLabel><content src="001-chapter001.xhtml#id-121"/>
 </navPoint>
 <navPoint id="navPoint-125" playOrder="125">
-<navLabel><text>ಎರಡು ಸಾಗರಗಳ ನಡುವೆ</text></navLabel><content src="001-chapter001.xhtml#id-123"/>
+<navLabel><text>ತಿರಸ್ಕಾರದ ಹೊಣೆ</text></navLabel><content src="001-chapter001.xhtml#id-122"/>
 </navPoint>
 <navPoint id="navPoint-126" playOrder="126">
-<navLabel><text>ತಲೆ ಹೋಕನ ತರಲೆ</text></navLabel><content src="001-chapter001.xhtml#id-124"/>
+<navLabel><text>ಎರಡು ಸಾಗರಗಳ ನಡುವೆ</text></navLabel><content src="001-chapter001.xhtml#id-123"/>
 </navPoint>
 <navPoint id="navPoint-127" playOrder="127">
-<navLabel><text>ಹೃದಯಗೀತೆ</text></navLabel><content src="001-chapter001.xhtml#id-125"/>
+<navLabel><text>ತಲೆ ಹೋಕನ ತರಲೆ</text></navLabel><content src="001-chapter001.xhtml#id-124"/>
 </navPoint>
 <navPoint id="navPoint-128" playOrder="128">
-<navLabel><text>ಗುಟ್ಟಾಗಿ ಹೇಳಿದ್ದು</text></navLabel><content src="001-chapter001.xhtml#id-126"/>
+<navLabel><text>ಹೃದಯಗೀತೆ</text></navLabel><content src="001-chapter001.xhtml#id-125"/>
 </navPoint>
 <navPoint id="navPoint-129" playOrder="129">
-<navLabel><text>ಆಗಿಹುದು ಹೀಗೆ!</text></navLabel><content src="001-chapter001.xhtml#id-127"/>
+<navLabel><text>ಗುಟ್ಟಾಗಿ ಹೇಳಿದ್ದು</text></navLabel><content src="001-chapter001.xhtml#id-126"/>
 </navPoint>
 <navPoint id="navPoint-130" playOrder="130">
-<navLabel><text>ಅಣಕು ಕವನಗಳು</text></navLabel><content src="001-chapter001.xhtml#id-128"/>
+<navLabel><text>ಆಗಿಹುದು ಹೀಗೆ!</text></navLabel><content src="001-chapter001.xhtml#id-127"/>
 </navPoint>
 <navPoint id="navPoint-131" playOrder="131">
-<navLabel><text>ನಾಯಿಮರಿ</text></navLabel><content src="001-chapter001.xhtml#id-129"/>
+<navLabel><text>ಅಣಕು ಕವನಗಳು</text></navLabel><content src="001-chapter001.xhtml#id-128"/>
 </navPoint>
 <navPoint id="navPoint-132" playOrder="132">
-<navLabel><text>ಜನ್ಮ ಭೂಮಿ</text></navLabel><content src="001-chapter001.xhtml#id-130"/>
+<navLabel><text>ನಾಯಿಮರಿ</text></navLabel><content src="001-chapter001.xhtml#id-129"/>
 </navPoint>
 <navPoint id="navPoint-133" playOrder="133">
-<navLabel><text>ಸ್ತ್ರೀ</text></navLabel><content src="001-chapter001.xhtml#id-131"/>
+<navLabel><text>ಜನ್ಮ ಭೂಮಿ</text></navLabel><content src="001-chapter001.xhtml#id-130"/>
 </navPoint>
 <navPoint id="navPoint-134" playOrder="134">
-<navLabel><text>''ಕವಿ ಮತ್ತು ಭೌತ ವಿಜ್ಞಾನಿ''</text></navLabel><content src="001-chapter001.xhtml#id-132"/>
+<navLabel><text>ಸ್ತ್ರೀ</text></navLabel><content src="001-chapter001.xhtml#id-131"/>
 </navPoint>
 <navPoint id="navPoint-135" playOrder="135">
-<navLabel><text>''ಪ್ರಭೂ ಈ ರಾತ್ರಿ''</text></navLabel><content src="001-chapter001.xhtml#id-133"/>
+<navLabel><text>''ಕವಿ ಮತ್ತು ಭೌತ ವಿಜ್ಞಾನಿ''</text></navLabel><content src="001-chapter001.xhtml#id-132"/>
 </navPoint>
 <navPoint id="navPoint-136" playOrder="136">
-<navLabel><text>ರತ್ನ- ಮದಿರಾ ವಿಲಾಸ</text></navLabel><content src="001-chapter001.xhtml#id-134"/>
+<navLabel><text>''ಪ್ರಭೂ ಈ ರಾತ್ರಿ''</text></navLabel><content src="001-chapter001.xhtml#id-133"/>
 </navPoint>
 <navPoint id="navPoint-137" playOrder="137">
-<navLabel><text>ಸಿಹಿ-ಅಲ್ಲಾ-ಕಹಿ</text></navLabel><content src="001-chapter001.xhtml#id-135"/>
+<navLabel><text>ರತ್ನ- ಮದಿರಾ ವಿಲಾಸ</text></navLabel><content src="001-chapter001.xhtml#id-134"/>
 </navPoint>
 <navPoint id="navPoint-138" playOrder="138">
-<navLabel><text>ಆ-ಸೆರೆ</text></navLabel><content src="001-chapter001.xhtml#id-136"/>
+<navLabel><text>ಸಿಹಿ-ಅಲ್ಲಾ-ಕಹಿ</text></navLabel><content src="001-chapter001.xhtml#id-135"/>
 </navPoint>
 <navPoint id="navPoint-139" playOrder="139">
+<navLabel><text>ಆ-ಸೆರೆ</text></navLabel><content src="001-chapter001.xhtml#id-136"/>
+</navPoint>
+<navPoint id="navPoint-140" playOrder="140">
 <navLabel><text>ಆ-ಪರಿಚಿತ</text></navLabel><content src="001-chapter001.xhtml#id-137"/>
 </navPoint>
    </navMap>

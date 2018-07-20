@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <package xmlns="http://www.idpf.org/2007/opf" version="3.0" xml:lang="en" unique-identifier="isbn">
 	<metadata  xmlns:dc="http://purl.org/dc/elements/1.1/">
-		<dc:title>ಅಮೆರಿಕನ್ನಡದ ಕವನಗಳು </dc:title>
+		<dc:title>ಶ್ರೀ ಪುರಂದರದಾಸರು (ಗೀತ ಪ್ರಧಾನ ನಾಟಕ)</dc:title>
 		<dc:language>kan</dc:language>
-		<dc:identifier id="isbn">urn:isbn:9789388114578</dc:identifier>
+		<dc:identifier id="isbn">urn:isbn:</dc:identifier>
 		
-		<dc:creator id="editor1">ನಾಗಲಕ್ಷ್ಮೀ ಹರಿಹರೇಶ್ವರ</dc:creator>
-		<meta refines="#editor1" property="role" scheme="marc:relators">edt</meta>    
+		<dc:creator id="author1">ನಾಗಲಕ್ಷ್ಮೀ ಹರಿಹರೇಶ್ವರ</dc:creator>
+		<meta refines="#author1" property="role" scheme="marc:relators">aut</meta>    
 				
 		<dc:creator id="bookDesigner1">Sriranga Digital Software Technologies Private Limited</dc:creator>
 		<meta refines="#bookDesigner1" property="role" scheme="marc:relators">bkd</meta>    
@@ -18,14 +18,13 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilitySummary">The publication is missing alternative text for complex diagrams.</meta>
 		<meta property="schema:accessibilityAPI">ARIA</meta>
-		<meta property="dcterms:modified">2018-07-20T19:24:59Z</meta>
+		<meta property="dcterms:modified">2018-07-20T18:45:17Z</meta>
 	</metadata>
 	<manifest>
 		<item id="id-000a-title_xhtml" href="000a-title.xhtml" media-type="application/xhtml+xml" />
 		<item id="id-000b-copyright_xhtml" href="000b-copyright.xhtml" media-type="application/xhtml+xml" />
 		<item id="id-000c-preface_xhtml" href="000c-preface.xhtml" media-type="application/xhtml+xml" />
 		<item id="id-001-chapter001_xhtml" href="001-chapter001.xhtml" media-type="application/xhtml+xml" />
-		<item id="id-999-aside_xhtml" href="999-aside.xhtml" media-type="application/xhtml+xml" />
 		<item id="id-css_AdobeDevanagari-Bold_otf" href="css/AdobeDevanagari-Bold.otf" media-type="application/vnd.ms-opentype" />
 		<item id="id-css_AdobeDevanagari-BoldItalic_otf" href="css/AdobeDevanagari-BoldItalic.otf" media-type="application/vnd.ms-opentype" />
 		<item id="id-css_AdobeDevanagari-Italic_otf" href="css/AdobeDevanagari-Italic.otf" media-type="application/vnd.ms-opentype" />
@@ -44,7 +43,6 @@
 		<itemref idref="id-000b-copyright_xhtml" linear="yes" />
 		<itemref idref="id-000c-preface_xhtml" linear="yes" />
 		<itemref idref="id-001-chapter001_xhtml" linear="yes" />
-		<itemref idref="id-999-aside_xhtml" linear="yes" />
 
 	</spine>
 </package>
