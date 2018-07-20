@@ -26,9 +26,22 @@
             "pages": "216",
             "description": "Geeta-Guccha (A collection of poem in kannada translated from sanskrit)"
         },
+        "019": {
+            "language": "kan",
+            "identifier": "hari_ebooks/019",
+            "isbn": "",
+            "title": "ಅಮೆರಿಕನ್ನಡದ ಕತೆಗಳು",
+            "creators": {
+                "author": "ಶಿಕಾರಿಪುರ ಹರಿಹರೇಶ್ವರ"
+            },
+            "category": "",
+            "publisher": "",
+            "pages": "438",
+            "description": ""
+        }, 
         "020": {
             "language": "kan",
-            "identifier": "hari_ebooks/H020",
+            "identifier": "hari_ebooks/020",
             "isbn": "",
             "title": "ಅಮೆರಿಕನ್ನಡದ ಕವನಗಳು ",
             "creators": {
