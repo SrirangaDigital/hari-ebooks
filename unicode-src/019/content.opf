@@ -24,7 +24,6 @@
 		<item id="id-000a-title_xhtml" href="000a-title.xhtml" media-type="application/xhtml+xml" />
 		<item id="id-000b-copyright_xhtml" href="000b-copyright.xhtml" media-type="application/xhtml+xml" />
 		<item id="id-000c-preface_xhtml" href="000c-preface.xhtml" media-type="application/xhtml+xml" />
-		<item id="id-000d-preface_xhtml" href="000d-preface.xhtml" media-type="application/xhtml+xml" />
 		<item id="id-001-chapter001_xhtml" href="001-chapter001.xhtml" media-type="application/xhtml+xml" />
 		<item id="id-css_AdobeDevanagari-Bold_otf" href="css/AdobeDevanagari-Bold.otf" media-type="application/vnd.ms-opentype" />
 		<item id="id-css_AdobeDevanagari-BoldItalic_otf" href="css/AdobeDevanagari-BoldItalic.otf" media-type="application/vnd.ms-opentype" />
@@ -43,7 +42,6 @@
 		<itemref idref="id-000a-title_xhtml" linear="yes" />
 		<itemref idref="id-000b-copyright_xhtml" linear="yes" />
 		<itemref idref="id-000c-preface_xhtml" linear="yes" />
-		<itemref idref="id-000d-preface_xhtml" linear="yes" />
 		<itemref idref="id-001-chapter001_xhtml" linear="yes" />
 
 	</spine>
