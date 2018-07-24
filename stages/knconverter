@@ -274,8 +274,9 @@ mapping = {
     "½"     : "ಳಿ",
     "¼É"    : "ಳೆ",
     "¼Ë"    : "ಳೌ",
-    "0"     : "ಂ"
-    }
+    "0"     : "ಂ",
+	"+"     : "ಽ"
+}
 
 # These when joined will be broken as per unicode
 broken_cases = {

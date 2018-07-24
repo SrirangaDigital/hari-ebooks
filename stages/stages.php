@@ -266,6 +266,7 @@ class Stages{
 	public function nudi2Unicode($text) {
 		$text = str_replace('μ', '³', $text);
 		$text = str_replace('µ', '³', $text);
+		$text = str_replace('„', '+', $text);
 		$text = trim($text); 
 		$text = @iconv("UTF-8", "ISO-8859-1", $text);
 		$result = exec('echo "' . addslashes($text) . '" | ./knconverter', $output);
