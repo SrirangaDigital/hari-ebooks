@@ -1,6 +1,6 @@
 #!/usr/bin/perl
 
-$count = 28;
+$count = 36;
 
 
 for($i=1;$i<=$count;$i++)
@@ -23,7 +23,7 @@ for($i=1;$i<=$count;$i++)
 	print OUT "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n";
 	print OUT "<html xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"en\" lang=\"en\" xmlns:epub=\"http://www.idpf.org/2007/ops\">\n";
 	print OUT "<head>\n" ;
-	print OUT "\t<title>ಮಾತಿನ ಚಾವಡಿ</title>\n";
+	print OUT "\t<title></title>\n";
 	print OUT "\t<link rel=\"stylesheet\" type=\"text/css\" href=\"css/style.css\" />\n";
 	print OUT "</head>\n";
 	print OUT "<body class=\"maintext\">\n";
