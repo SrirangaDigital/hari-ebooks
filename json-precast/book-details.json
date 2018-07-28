@@ -15,7 +15,7 @@
         },
         "002": {
             "language": "kan",
-            "identifier": "hari_ebooks/H001",
+            "identifier": "hari_ebooks/002",
             "isbn": "9789388114387",
             "title": "ಮುಕ್ತಕ ಕನ್ನಡ ",
             "creators": {
@@ -25,6 +25,32 @@
             "publisher": "shree Rajendra printers & publication",
             "pages": "216",
             "description": "Geeta-Guccha (A collection of poem in kannada translated from sanskrit)"
+        },
+        "003": {
+            "language": "kan",
+            "identifier": "hari_ebooks/003",
+            "isbn": "9789388114400",
+            "title": "ಮಾತೇ ಮುತ್ತು ",
+            "creators": {
+                "author": "Shikaripura Harihareshwara"
+            },
+            "category": "",
+            "publisher": "Sri Sadhguru Printers",
+            "pages": "186",
+            "description": "A collection of essays in Kannada"
+        },
+        "004": {
+            "language": "kan",
+            "identifier": "hari_ebooks/004",
+            "isbn": "9789388114417",
+            "title": "ತಿರುಗಾಟ  ",
+            "creators": {
+                "author": "Shikaripura Harihareshwara"
+            },
+            "category": "",
+            "publisher": "Keerthan Graphics Mysore",
+            "pages": "164",
+            "description": "A Book published by shikaripura harihareswara"
         },
          "005": {
             "language": "kan",
