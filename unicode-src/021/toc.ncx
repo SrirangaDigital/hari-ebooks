@@ -69,7 +69,7 @@
 <navLabel><text>LOGO - ಕಂಪ್ಯೂಟರ್ ಭಾಷೆ</text></navLabel><content src="001-chapter001.xhtml#id-013.02"/>
 </navPoint>
 <navPoint id="navPoint-19" playOrder="19">
-<navLabel><text>ಕನ್ನಡ ವರ್ಣಮಾಲೆ LOGO ಪ್ರೊಸೀಜರ್‍ಗಳಾಗಿ:</text></navLabel><content src="001-chapter001.xhtml#id-013.03"/>
+<navLabel><text>ಕನ್ನಡ ವರ್ಣಮಾಲೆ LOGO ಪ್ರೊಸೀಜರ್ ‍ಗಳಾಗಿ:</text></navLabel><content src="001-chapter001.xhtml#id-013.03"/>
 </navPoint>
 </navPoint>
 <navPoint id="navPoint-20" playOrder="20">
@@ -118,7 +118,7 @@
 <navLabel><text>ತಿಮ್ಮ ಅಮೆರಿಕಾಕ್ಕೆ ಬಂದ .. .. ..</text></navLabel><content src="002-chapter002.xhtml#id-026"/>
 </navPoint>
 <navPoint id="navPoint-35" playOrder="35">
-<navLabel><text>ಟಾಪ್‍ಲೆಸ್ ಟಾಂಗಾ</text></navLabel><content src="002-chapter002.xhtml#id-027"/>
+<navLabel><text>ಟಾಪ್‍ಲೆಸ್ ಟಾಂಗಾ(Topless Tonga)</text></navLabel><content src="002-chapter002.xhtml#id-027"/>
 </navPoint>
 <navPoint id="navPoint-36" playOrder="36">
 <navLabel><text>ಸಾರ್ವಜನಿಕ ಪುಸ್ತಕಾಲಯಗಳು</text></navLabel><content src="002-chapter002.xhtml#id-028"/>
@@ -373,7 +373,7 @@
 </navPoint>
 </navPoint>
 <navPoint id="navPoint-120" playOrder="120">
-<navLabel><text>ಎಕ್ಸರ್‍ಮೇನಿಯಾ</text></navLabel><content src="003-chapter003.xhtml#id-070"/>
+<navLabel><text>ಎಕ್ಸರ್ ‍ಮೇನಿಯಾ</text></navLabel><content src="003-chapter003.xhtml#id-070"/>
 </navPoint>
 <navPoint id="navPoint-121" playOrder="121">
 <navLabel><text>'ವಿದೇಶದಲ್ಲಿ ಕನ್ನಡಿಗ'</text></navLabel><content src="003-chapter003.xhtml#id-071"/>
@@ -463,7 +463,7 @@
 <navLabel><text>ವಿಪ್ಲವ</text></navLabel><content src="004-chapter004.xhtml#id-091"/>
 </navPoint>
 <navPoint id="navPoint-150" playOrder="150">
-<navLabel><text>ತ್ರಿಶಂಕು ಸ್ವರ್ಗವೋ, ವೈಕುಂಠವೋ?</text></navLabel><content src="004-chapter004.xhtml#id-092"/>
+<navLabel><text>ತ್ರಿಶಂಕು ಸ್ವರ್ಗವೋ, ವೈಕುಂಠವೋ?(ಒಂದು ವಿವೇಚನೆ)</text></navLabel><content src="004-chapter004.xhtml#id-092"/>
 </navPoint>
 <navPoint id="navPoint-151" playOrder="151">
 <navLabel><text>ನನ್ನ 'ಪ್ರಶ್'</text></navLabel><content src="004-chapter004.xhtml#id-093"/>

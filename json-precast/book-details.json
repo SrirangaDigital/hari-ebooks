@@ -65,6 +65,32 @@
             "pages": "",
             "description": ""
         },
+         "010": {
+            "language": "kan",
+            "identifier": "hari_ebooks/010",
+            "isbn": "9789388114479",
+            "title": "ಜಾನ್​ನ  ಸುವಾರ್ತೆ ",
+            "creators": {
+                "author": "ನಾಗಲಕ್ಷ್ಮೀ ಹರಿಹರೇಶ್ವರ"
+            },
+            "category": "",
+            "publisher": "",
+            "pages": "321",
+            "description": "Ondu Adhyana(A study of St.John's Gospel in the Bible) in Kannada by Shikaripura Harihareswara"
+        },
+         "011": {
+            "language": "kan",
+            "identifier": "hari_ebooks/011",
+            "isbn": "9789388114486",
+            "title": "ಮೊದಲ ಹೆಜ್ಜೆಗಳು",
+            "creators": {
+                "author": "ನಾಗಲಕ್ಷ್ಮೀ ಹರಿಹರೇಶ್ವರ"
+            },
+            "category": "",
+            "publisher": "",
+            "pages": "72",
+            "description": "A collectios of poems in kannada by Shikaripura Harihareshwara"
+        },
         "018": {
             "language": "kan",
             "identifier": "hari_ebooks/018",

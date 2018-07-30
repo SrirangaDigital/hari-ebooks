@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns:ncx="http://www.daisy.org/z3986/2005/ncx/" xmlns="http://www.daisy.org/z3986/2005/ncx/"
+    version="2005-1" xml:lang="en">
+
+   <head>
+      <meta name="dtb:uid" content="urn:isbn:9789388114479"/>
+      <meta name="dtb:depth" content="1"/>
+      <meta name="dtb:totalPageCount" content="0"/>
+      <meta name="dtb:maxPageNumber" content="0"/>
+   </head>
+
+   <docTitle>
+      <text>ಜಾನ್​ನ  ಸುವಾರ್ತೆ </text>
+   </docTitle>
+
+   <navMap>
+		
+<navPoint id="navPoint-1" playOrder="1">
+<navLabel><text>Title Page</text></navLabel><content src="000a-title.xhtml#id-000a"/>
+</navPoint>
+<navPoint id="navPoint-2" playOrder="2">
+<navLabel><text>Copyright</text></navLabel><content src="000b-copyright.xhtml#id-000b.1"/>
+</navPoint>
+<navPoint id="navPoint-3" playOrder="3">
+<navLabel><text>ಬೈಬಲ್‍ನಲ್ಲಿ ಜಾನ್‍ನ ಸುವಾರ್ತೆ ߞ ಒಂದು ಅಧ್ಯಯನ</text></navLabel><content src="000c-Introduction.xhtml#id-000c.1"/>
+</navPoint>
+<navPoint id="navPoint-4" playOrder="4">
+<navLabel><text>ಜಾನ್‌ನ ಸುವಾರ್ತೆಗೊಂದು ಉಪಕ್ರಮ</text></navLabel><content src="000d-preface.xhtml#id-000d.1"/>
+</navPoint>
+<navPoint id="navPoint-5" playOrder="5">
+<navLabel><text>ಪ್ರಸ್ತಾವನೆ</text></navLabel><content src="000e-preface.xhtml#id-000e.1"/>
+</navPoint>
+<navPoint id="navPoint-6" playOrder="6">
+<navLabel><text>ಬೈಬಲ್‍ನಲ್ಲಿ ಜಾನ್‍ನ ಸುವಾರ್ತೆ — ಒಂದು ಅಧ್ಯಯನ</text></navLabel><content src="000f-preface.xhtml#id-000f.1"/>
+</navPoint>
+<navPoint id="navPoint-7" playOrder="7">
+<navLabel><text>ಕೃತಜ್ಞತಾ ಸಮರ್ಪಣೆ</text></navLabel><content src="000g-preface.xhtml#id-000g.1"/>
+</navPoint>
+<navPoint id="navPoint-8" playOrder="8">
+<navLabel><text>ಪ್ರಕಾಶಕರ ಮಾತು</text></navLabel><content src="000h-preface.xhtml#id-000h.1"/>
+</navPoint>
+<navPoint id="navPoint-9" playOrder="9">
+<navLabel><text>೧‌:: –  ನಾಂದಿ</text></navLabel><content src="001-chapter001.xhtml#id-001"/>
+</navPoint>
+<navPoint id="navPoint-10" playOrder="10">
+<navLabel><text>೨ :: –  ಗುರು-ಶಿಷ್ಯರ ಮೊದಲ ಸಮಾಗಮ</text></navLabel><content src="002-chapter002.xhtml#id-002"/>
+</navPoint>
+<navPoint id="navPoint-11" playOrder="11">
+<navLabel><text>೩ :: –  ಈ ಸುವಾರ್ತೆಯ ಕರ್ತೃ ನಮಗೆ ಹೇಗನಿಸುತ್ತಾನೆ?</text></navLabel><content src="003-chapter003.xhtml#id-003"/>
+</navPoint>
+<navPoint id="navPoint-12" playOrder="12">
+<navLabel><text>೪ :: –  ಎಲ್ಲಿಂದ ಬಂದ ಇವ?</text></navLabel><content src="004-chapter004.xhtml#id-004"/>
+</navPoint>
+<navPoint id="navPoint-13" playOrder="13">
+<navLabel><text>೫ :: –  ತಂದೆ</text></navLabel><content src="005-chapter005.xhtml#id-005"/>
+<navPoint id="navPoint-14" playOrder="14">
+<navLabel><text>ತ್ರಿಮೂರ್ತಿ ತತ್ತ್ವ:</text></navLabel><content src="005-chapter005.xhtml#id-005.1"/>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-15" playOrder="15">
+<navLabel><text>೬ :: –  ಈ ಅನಾದಿಗೆ ಮೊದಲು ಏನು ಇತ್ತು?</text></navLabel><content src="006-chapter006.xhtml#id-006"/>
+</navPoint>
+<navPoint id="navPoint-16" playOrder="16">
+<navLabel><text>೭ :: –  ಪರಸ್ಪರ ಪ್ರೀತಿಸುತ್ತಿರಿ</text></navLabel><content src="007-chapter007.xhtml#id-007"/>
+<navPoint id="navPoint-17" playOrder="17">
+<navLabel><text>'ಪ್ರೀತಿ' ಪದ ಬೈಬಲ್‍ನಲ್ಲಿ ಯಾವ ಯಾವ ಅರ್ಥದಲ್ಲಿ ಬಳಕೆಯಾಗಿದೆ?</text></navLabel><content src="007-chapter007.xhtml#id-007.1"/>
+</navPoint>
+<navPoint id="navPoint-18" playOrder="18">
+<navLabel><text>ದೇವರು ನಮ್ಮನ್ನು 'ಪ್ರೀತಿ'ಸುತ್ತಾನೆ:</text></navLabel><content src="007-chapter007.xhtml#id-007.2"/>
+</navPoint>
+<navPoint id="navPoint-19" playOrder="19">
+<navLabel><text>ನಾವು ದೇವರನ್ನು 'ಪ್ರೀತಿ'ಸುತ್ತೇವೆ; 'ಪ್ರೀತಿ'ಸ ಬೇಕು.</text></navLabel><content src="007-chapter007.xhtml#id-007.3"/>
+</navPoint>
+<navPoint id="navPoint-20" playOrder="20">
+<navLabel><text>ದೇವರು ಯೇಸುವನ್ನು 'ಪ್ರೀತಿ'ಸುತ್ತಾನೆ.</text></navLabel><content src="007-chapter007.xhtml#id-007.4"/>
+</navPoint>
+<navPoint id="navPoint-21" playOrder="21">
+<navLabel><text>ಯೇಸು ದೇವರನ್ನು 'ಪ್ರೀತಿ'ಸುತ್ತಾನೆ.</text></navLabel><content src="007-chapter007.xhtml#id-007.5"/>
+</navPoint>
+<navPoint id="navPoint-22" playOrder="22">
+<navLabel><text>ಯೇಸು ನಮ್ಮನ್ನು 'ಪ್ರೀತಿ'ಸುತ್ತಾನೆ.</text></navLabel><content src="007-chapter007.xhtml#id-007.6"/>
+</navPoint>
+<navPoint id="navPoint-23" playOrder="23">
+<navLabel><text>ನಾವು ಯೇಸುವನ್ನು 'ಪ್ರೀತಿ'ಸುತ್ತೇವೆ; 'ಪ್ರೀತಿ'ಸ ಬೇಕು.</text></navLabel><content src="007-chapter007.xhtml#id-007.7"/>
+</navPoint>
+<navPoint id="navPoint-24" playOrder="24">
+<navLabel><text>ನಾವು ಇತರರನ್ನು 'ಪ್ರೀತಿ'ಸುತ್ತೇವೆ; 'ಪ್ರೀತಿ'ಸಬೇಕು.</text></navLabel><content src="007-chapter007.xhtml#id-007.8"/>
+</navPoint>
+<navPoint id="navPoint-25" playOrder="25">
+<navLabel><text>ಬೆಳೆಸಿರಿ ಸ್ನೇಹವ!</text></navLabel><content src="007-chapter007.xhtml#id-007.9"/>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-26" playOrder="26">
+<navLabel><text>೮ :: –  ಯೇಸು ಯಾರು ಯಾರೊಂದಿಗೆ ಮಾತನಾಡಿದ?</text></navLabel><content src="008-chapter008.xhtml#id-008"/>
+</navPoint>
+<navPoint id="navPoint-27" playOrder="27">
+<navLabel><text>೯ :: –  ಜಾನ್‍ನಲ್ಲಿ ಭಗವಂತನ ಅವತಾರದ ಕಲ್ಪನೆ</text></navLabel><content src="009-chapter009.xhtml#id-009"/>
+<navPoint id="navPoint-28" playOrder="28">
+<navLabel><text>ವಿವಿಧ ಧರ್ಮಗಳಲ್ಲಿ ಅವತಾರದ ಕಲ್ಪನೆ:</text></navLabel><content src="009-chapter009.xhtml#id-009.1"/>
+</navPoint>
+<navPoint id="navPoint-29" playOrder="29">
+<navLabel><text>ಜಾ಼ರತುಷ್ಟ್ರ ಧರ್ಮ:</text></navLabel><content src="009-chapter009.xhtml#id-009.2"/>
+</navPoint>
+<navPoint id="navPoint-30" playOrder="30">
+<navLabel><text>ಬೌದ್ಧಧರ್ಮ:</text></navLabel><content src="009-chapter009.xhtml#id-009.3"/>
+</navPoint>
+<navPoint id="navPoint-31" playOrder="31">
+<navLabel><text>ಜೈನಧರ್ಮ:</text></navLabel><content src="009-chapter009.xhtml#id-009.4"/>
+</navPoint>
+<navPoint id="navPoint-32" playOrder="32">
+<navLabel><text>ಇಸ್ಲಾಮ್:</text></navLabel><content src="009-chapter009.xhtml#id-009.5"/>
+</navPoint>
+<navPoint id="navPoint-33" playOrder="33">
+<navLabel><text>ಸೂಫೀ ಪಂಥ:</text></navLabel><content src="009-chapter009.xhtml#id-009.6"/>
+</navPoint>
+<navPoint id="navPoint-34" playOrder="34">
+<navLabel><text>ಯಹೂದೀ ಧರ್ಮ:</text></navLabel><content src="009-chapter009.xhtml#id-009.7"/>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-35" playOrder="35">
+<navLabel><text>೧೦ :: –  'ಪವಿತ್ರಾತ್ಮ'ದ ಕಲ್ಪನೆ</text></navLabel><content src="010-chapter010.xhtml#id-010"/>
+<navPoint id="navPoint-36" playOrder="36">
+<navLabel><text>ಬೈಬಲ್ ಆಧಾರಿತ ನಂಬಿಕೆ:</text></navLabel><content src="010-chapter010.xhtml#id-010.1"/>
+</navPoint>
+<navPoint id="navPoint-37" playOrder="37">
+<navLabel><text>ಹಳೆಯ ಒಡಂಬಡಿಕೆಯ ಕಾಲದಲ್ಲಿ:</text></navLabel><content src="010-chapter010.xhtml#id-010.2"/>
+</navPoint>
+<navPoint id="navPoint-38" playOrder="38">
+<navLabel><text>ಹೊಸ ಒಡಂಬಡಿಕೆಯ ಕಾಲದಲ್ಲಿ:</text></navLabel><content src="010-chapter010.xhtml#id-010.3"/>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-39" playOrder="39">
+<navLabel><text>೧೧ :: –  ಯಹೂದಿಗಳೋ 'ಜೂಡಿಯನ್'ರೋ?</text></navLabel><content src="011-chapter011.xhtml#id-011"/>
+<navPoint id="navPoint-40" playOrder="40">
+<navLabel><text>ಇಸ್ರೇಲಿಯನ್:</text></navLabel><content src="011-chapter011.xhtml#id-011.1"/>
+</navPoint>
+<navPoint id="navPoint-41" playOrder="41">
+<navLabel><text>ಜೂಡಿಯನ್ ಧರ್ಮ:</text></navLabel><content src="011-chapter011.xhtml#id-011.2"/>
+</navPoint>
+<navPoint id="navPoint-42" playOrder="42">
+<navLabel><text>ಜುಡಾಯಿಸಮ್:</text></navLabel><content src="011-chapter011.xhtml#id-011.3"/>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-43" playOrder="43">
+<navLabel><text>೧೨ :: –  ಫರಿಸಾಯರ ವಿಚಾರಧಾರೆಯಲ್ಲಿ ಪುನರುತ್ಥಾನ</text></navLabel><content src="012-chapter012.xhtml#id-012"/>
+<navPoint id="navPoint-44" playOrder="44">
+<navLabel><text>ಜೋಬ್:</text></navLabel><content src="012-chapter012.xhtml#id-012.1"/>
+</navPoint>
+<navPoint id="navPoint-45" playOrder="45">
+<navLabel><text>ಪ್ರವಾದಿ ಈಶಾ:</text></navLabel><content src="012-chapter012.xhtml#id-012.2"/>
+</navPoint>
+<navPoint id="navPoint-46" playOrder="46">
+<navLabel><text>ಕೀರ್ತನೆಗಳಲ್ಲಿ:</text></navLabel><content src="012-chapter012.xhtml#id-012.3"/>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-47" playOrder="47">
+<navLabel><text>೧೩ :: –  ಸುವಾರ್ತೆಗಳಲ್ಲಿ ಫ಼ರಿಸಾಯರ ಉಲ್ಲೇಖಗಳು</text></navLabel><content src="013-chapter013.xhtml#id-013"/>
+<navPoint id="navPoint-48" playOrder="48">
+<navLabel><text>ಫಾ಼ರಿಸೀಗಳು (ಫ಼ರಿಸಾಯರು):</text></navLabel><content src="013-chapter013.xhtml#id-013.1"/>
+</navPoint>
+<navPoint id="navPoint-49" playOrder="49">
+<navLabel><text>ಸೆಡ್ಯೂಸೀಯರು:</text></navLabel><content src="013-chapter013.xhtml#id-013.2"/>
+</navPoint>
+<navPoint id="navPoint-50" playOrder="50">
+<navLabel><text>ಯೇಸುವೊಂದಿಗೆ ಸಹಮತ:</text></navLabel><content src="013-chapter013.xhtml#id-013.3"/>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-51" playOrder="51">
+<navLabel><text>೧೪ :: –   ಸುವಾರ್ತೆಗಳಲ್ಲಿ ಯಹೂದೀ ಜನರ ಪಂಗಡಗಳು</text></navLabel><content src="014-chapter014.xhtml#id-014"/>
+<navPoint id="navPoint-52" playOrder="52">
+<navLabel><text>ಎಪಿಕ್ಯೂರಿಯನ್ನರು:</text></navLabel><content src="014-chapter014.xhtml#id-014.1"/>
+</navPoint>
+<navPoint id="navPoint-53" playOrder="53">
+<navLabel><text>ಎಸ್ಸೆನ್ನರು:</text></navLabel><content src="014-chapter014.xhtml#id-014.2"/>
+</navPoint>
+<navPoint id="navPoint-54" playOrder="54">
+<navLabel><text>ಗೆಲಾಟಿಯನ್ನರು:</text></navLabel><content src="014-chapter014.xhtml#id-014.3"/>
+</navPoint>
+<navPoint id="navPoint-55" playOrder="55">
+<navLabel><text>ಜೆನ್‍ಟೈಲ್ಲರು:</text></navLabel><content src="014-chapter014.xhtml#id-014.4"/>
+</navPoint>
+<navPoint id="navPoint-56" playOrder="56">
+<navLabel><text>ನಜ಼ರೀನ್ನರು:</text></navLabel><content src="014-chapter014.xhtml#id-014.5"/>
+</navPoint>
+<navPoint id="navPoint-57" playOrder="57">
+<navLabel><text>ನಿಕೊಲೇಷಿಯನ್ನರು:</text></navLabel><content src="014-chapter014.xhtml#id-014.6"/>
+</navPoint>
+<navPoint id="navPoint-58" playOrder="58">
+<navLabel><text>ಫಾ಼ರಿಸೀಯರು(ಫ಼ರಿಸಾಯರು):</text></navLabel><content src="014-chapter014.xhtml#id-014.7"/>
+</navPoint>
+<navPoint id="navPoint-59" playOrder="59">
+<navLabel><text>ಬಹಿಷ್ಕೃತರು:</text></navLabel><content src="014-chapter014.xhtml#id-014.8"/>
+</navPoint>
+<navPoint id="navPoint-60" playOrder="60">
+<navLabel><text>ಬೇಬಿಲೋನಿಯನ್ನರು:</text></navLabel><content src="014-chapter014.xhtml#id-014.9"/>
+</navPoint>
+<navPoint id="navPoint-61" playOrder="61">
+<navLabel><text>ಲೆವಿಯನ್ನರು:</text></navLabel><content src="014-chapter014.xhtml#id-014.10"/>
+</navPoint>
+<navPoint id="navPoint-62" playOrder="62">
+<navLabel><text>ಸಮೇರಿಯನ್ನರು:</text></navLabel><content src="014-chapter014.xhtml#id-014.11"/>
+</navPoint>
+<navPoint id="navPoint-63" playOrder="63">
+<navLabel><text>ಸೆಡ್ಯೂಸಿಯನ್ನರು:</text></navLabel><content src="014-chapter014.xhtml#id-014.12"/>
+</navPoint>
+<navPoint id="navPoint-64" playOrder="64">
+<navLabel><text>ಸ್ಟೋಯ್‍ಕ್‍ರು:</text></navLabel><content src="014-chapter014.xhtml#id-014.13"/>
+</navPoint>
+<navPoint id="navPoint-65" playOrder="65">
+<navLabel><text>ಹತ್ತು-ನಗರವಾಸಿಗಳು:</text></navLabel><content src="014-chapter014.xhtml#id-014.14"/>
+</navPoint>
+<navPoint id="navPoint-66" playOrder="66">
+<navLabel><text>ಹಿರಿಯರು:</text></navLabel><content src="014-chapter014.xhtml#id-014.15"/>
+</navPoint>
+<navPoint id="navPoint-67" playOrder="67">
+<navLabel><text>ಹೆರೋದ್‍ನ ಅಭಿಮಾನಿಗಳು:</text></navLabel><content src="014-chapter014.xhtml#id-014.16"/>
+</navPoint>
+<navPoint id="navPoint-68" playOrder="68">
+<navLabel><text>ಧಾರ್ಮಿಕ ಪಂಗಡಗಳಿಗೆ ಸಂಬಂಧಿಸಿದ ವ್ಯಕ್ತಿಗಳು:</text></navLabel><content src="014-chapter014.xhtml#id-014.17"/>
+<navPoint id="navPoint-69" playOrder="69">
+<navLabel><text>ಪರಮೋಚ್ಚ ಧಾರ್ಮಿಕ ಪರಿಷತ್ತು:</text></navLabel><content src="014-chapter014.xhtml#id-014.17.1"/>
+</navPoint>
+<navPoint id="navPoint-70" playOrder="70">
+<navLabel><text>ಪಿತಾಮಹರು:</text></navLabel><content src="014-chapter014.xhtml#id-014.17.2"/>
+</navPoint>
+<navPoint id="navPoint-71" playOrder="71">
+<navLabel><text>ಮುಖ್ಯ ಪುರೋಹಿತ:</text></navLabel><content src="014-chapter014.xhtml#id-014.17.3"/>
+</navPoint>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-72" playOrder="72">
+<navLabel><text>೧೫ :: –   ಯಹೂದಿಯರ ಕೆಲವು ಮುಖ್ಯ ಹಬ್ಬ ಹುಣ್ಣಿಮೆಗಳು</text></navLabel><content src="015-chapter015.xhtml#id-015"/>
+<navPoint id="navPoint-73" playOrder="73">
+<navLabel><text>ಕಹಳೆ ಮೊಳಗುವ(ಟ್ರುಂಪೆಟ್ಸ್) ದಿನ:</text></navLabel><content src="015-chapter015.xhtml#id-015.1"/>
+</navPoint>
+<navPoint id="navPoint-74" playOrder="74">
+<navLabel><text>'ಕೈ ದಾಟಿಸುವ' (ಪಾಸ್ ಓವರ್) ಸಮಾರಾಧನೆ:</text></navLabel><content src="015-chapter015.xhtml#id-015.2"/>
+</navPoint>
+<navPoint id="navPoint-75" playOrder="75">
+<navLabel><text>ಗುಡಾರ ಕಟ್ಟಿದ (ಟೇಬರ್‍ನಕಲ್) ದಿನಾಚರಣೆ:</text></navLabel><content src="015-chapter015.xhtml#id-015.3"/>
+</navPoint>
+<navPoint id="navPoint-76" playOrder="76">
+<navLabel><text>ಪ್ರಾಯಶ್ಚಿತ್ತ (ಅಟೋನ್‍ಮೆಂಟ್) ದಿನಾಚರಣೆ:</text></navLabel><content src="015-chapter015.xhtml#id-015.4"/>
+</navPoint>
+<navPoint id="navPoint-77" playOrder="77">
+<navLabel><text>ಫಲಪುಷ್ಪ(ಫ಼ಸ್ಟ್ ಫ್ರೂಟ್) ದಿನಾಚರಣೆ:</text></navLabel><content src="015-chapter015.xhtml#id-015.5"/>
+</navPoint>
+<navPoint id="navPoint-78" playOrder="78">
+<navLabel><text>ಸಮರ್ಪಣಾ (ಡೆಡಿಕೇಷನ್) ದಿನಾಚರಣೆ:</text></navLabel><content src="015-chapter015.xhtml#id-015.6"/>
+</navPoint>
+<navPoint id="navPoint-79" playOrder="79">
+<navLabel><text>ವಿಶೇಷ ರೊಟ್ಟಿಯ (ಅನ್ ಲೀವನ್‍ಡ್ ಬ್ರೆಡ್) ಹಬ್ಬ:</text></navLabel><content src="015-chapter015.xhtml#id-015.7"/>
+</navPoint>
+<navPoint id="navPoint-80" playOrder="80">
+<navLabel><text>ಸಬ್ಬತ್:</text></navLabel><content src="015-chapter015.xhtml#id-015.8"/>
+</navPoint>
+<navPoint id="navPoint-81" playOrder="81">
+<navLabel><text>ಸಿದ್ಧತೆಯ (ಪ್ರಿಪರೇಷನ್) ದಿನಾಚರಣೆ:</text></navLabel><content src="015-chapter015.xhtml#id-015.9"/>
+</navPoint>
+<navPoint id="navPoint-82" playOrder="82">
+<navLabel><text>ಸುಗ್ಗಿ ಹಬ್ಬದ (ಪೆಂಟಾಕಾಸ್ಟ್) ದಿನಾಚರಣೆ:</text></navLabel><content src="015-chapter015.xhtml#id-015.10"/>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-83" playOrder="83">
+<navLabel><text>೧೬ :: –   ದೇವಾಲಯ ಮತ್ತು ಪವಿತ್ರ ಸ್ಥಳಗಳನ್ನು ಅಶುದ್ಧಿಗೊಳಿಸುವ ಅಪವಿತ್ರಿಕರಣ</text></navLabel><content src="016-chapter016.xhtml#id-016"/>
+<navPoint id="navPoint-84" playOrder="84">
+<navLabel><text>ದೈವದೂಷಣೆ: (ಬ್ಲಾಸ್ಫೆಮಿ)</text></navLabel><content src="016-chapter016.xhtml#id-016.1"/>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-85" playOrder="85">
+<navLabel><text>೧೭ :: –   ಪ್ರಾರ್ಥನೆ</text></navLabel><content src="017-chapter017.xhtml#id-017"/>
+</navPoint>
+<navPoint id="navPoint-86" playOrder="86">
+<navLabel><text>೧೮ :: –  ಮರುಹುಟ್ಟು ಇಲ್ಲದಿರೆ ಒಳ ನುಸುಳಲಾರಿರೋ!</text></navLabel><content src="018-chapter018.xhtml#id-018"/>
+</navPoint>
+<navPoint id="navPoint-87" playOrder="87">
+<navLabel><text>೧೯ :: –   ನೀರಡಿಕೆಯಾಗುವುದೇನು?</text></navLabel><content src="019-chapter019.xhtml#id-019"/>
+</navPoint>
+<navPoint id="navPoint-88" playOrder="88">
+<navLabel><text>೨೦ :: –   ಜೈರಾಸನ ಪ್ರಸಂಗ</text></navLabel><content src="020-chapter020.xhtml#id-020"/>
+</navPoint>
+<navPoint id="navPoint-89" playOrder="89">
+<navLabel><text>೨೧ :: –   ಜಾನ್ ಮತ್ತು ಇತರ ಸುವಾರ್ತೆಗಳಲ್ಲಿನ 'ಮೇರಿ'ಯರು</text></navLabel><content src="021-chapter021.xhtml#id-021"/>
+<navPoint id="navPoint-90" playOrder="90">
+<navLabel><text>ಯೇಸುವಿನ ತಾಯಿ ಮೇರಿ:</text></navLabel><content src="021-chapter021.xhtml#id-021.1"/>
+</navPoint>
+<navPoint id="navPoint-91" playOrder="91">
+<navLabel><text>ಮಾರ್ಥಾಳ ಸೋದರಿ ಮೇರಿ:</text></navLabel><content src="021-chapter021.xhtml#id-021.2"/>
+</navPoint>
+<navPoint id="navPoint-92" playOrder="92">
+<navLabel><text>ಮೇರಿ ಮಗ್ದಲಿನಾ:</text></navLabel><content src="021-chapter021.xhtml#id-021.3"/>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-93" playOrder="93">
+<navLabel><text>೨೨ :: –   ಯೇಸುವಿನ ತಾಯಿ, 'ಮೇರಿ'</text></navLabel><content src="022-chapter022.xhtml#id-022"/>
+<navPoint id="navPoint-94" playOrder="94">
+<navLabel><text>ಮೋಕ್ಷವಾಸಿ ಮರಿಯಮ್ಮ:</text></navLabel><content src="022-chapter022.xhtml#id-022.1"/>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-95" playOrder="95">
+<navLabel><text>೨೩ :: –  ಕಾಲ ಕೂಡಿ ಬರಬೇಕು!</text></navLabel><content src="023-chapter023.xhtml#id-023"/>
+</navPoint>
+<navPoint id="navPoint-96" playOrder="96">
+<navLabel><text>೨೪ :: –   ಬೈಬಲ್‍ನಲ್ಲಿ ಬರುವ 'ಸಂದೇಹಿ'ಗಳು</text></navLabel><content src="024-chapter024.xhtml#id-024"/>
+<navPoint id="navPoint-97" playOrder="97">
+<navLabel><text>ಬೈಬಲ್‍ನಲ್ಲಿ ಉಲ್ಲೇಖಿತರಾದ ಇನ್ನಿತರ 'ಸಂದೇಹಿ'ಗಳ ಕತೆಗಳು:</text></navLabel><content src="024-chapter024.xhtml#id-024.1"/>
+<navPoint id="navPoint-98" playOrder="98">
+<navLabel><text>ಅಬ್ರಹಾಮ್:</text></navLabel><content src="024-chapter024.xhtml#id-024.1.1"/>
+</navPoint>
+<navPoint id="navPoint-99" playOrder="99">
+<navLabel><text>ಅಬ್ರಹಾಮ್‍ನ ಹೆಂಡತಿ ಸಾರಾ(ಹ್):</text></navLabel><content src="024-chapter024.xhtml#id-024.1.2"/>
+</navPoint>
+<navPoint id="navPoint-100" playOrder="100">
+<navLabel><text>ಮೋಸೆಸ್:</text></navLabel><content src="024-chapter024.xhtml#id-024.1.3"/>
+</navPoint>
+<navPoint id="navPoint-101" playOrder="101">
+<navLabel><text>ಇಸ್ರೇಲಿಯರು:</text></navLabel><content src="024-chapter024.xhtml#id-024.1.4"/>
+</navPoint>
+<navPoint id="navPoint-102" playOrder="102">
+<navLabel><text>ಗಿಡಿಯೋನ್:</text></navLabel><content src="024-chapter024.xhtml#id-024.1.5"/>
+</navPoint>
+<navPoint id="navPoint-103" playOrder="103">
+<navLabel><text>ಜ಼ಕಾರಿಯಾ(ಹ್):</text></navLabel><content src="024-chapter024.xhtml#id-024.1.6"/>
+</navPoint>
+<navPoint id="navPoint-104" playOrder="104">
+<navLabel><text>ಮೇರಿ:</text></navLabel><content src="024-chapter024.xhtml#id-024.1.7"/>
+</navPoint>
+<navPoint id="navPoint-105" playOrder="105">
+<navLabel><text>ಜೋಸೆಫ್:</text></navLabel><content src="024-chapter024.xhtml#id-024.1.8"/>
+</navPoint>
+<navPoint id="navPoint-106" playOrder="106">
+<navLabel><text>ಯೇಸು-ವಿರೋಧೀ ಫ಼ರಿಸಾಯರು:</text></navLabel><content src="024-chapter024.xhtml#id-024.1.9"/>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-107" playOrder="107">
+<navLabel><text>ನರೇಂದ್ರ:</text></navLabel><content src="024-chapter024.xhtml#id-024.3"/>
+</navPoint>
+<navPoint id="navPoint-108" playOrder="108">
+<navLabel><text>ಗೋದಾ:</text></navLabel><content src="024-chapter024.xhtml#id-024.4"/>
+</navPoint>
+<navPoint id="navPoint-109" playOrder="109">
+<navLabel><text>ಕೋಳೂರು ಕೊಡಗೂಸು:</text></navLabel><content src="024-chapter024.xhtml#id-024.5"/>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-110" playOrder="110">
+<navLabel><text>೨೫ :: –  ವಿಶ್ವಾಸಘಾತುಕತನ</text></navLabel><content src="025-chapter025.xhtml#id-025"/>
+<navPoint id="navPoint-111" playOrder="111">
+<navLabel><text>ಹಳೆಯ ಒಡಂಬಡಿಕೆಯಲ್ಲಿ:</text></navLabel><content src="025-chapter025.xhtml#id-025.1"/>
+</navPoint>
+<navPoint id="navPoint-112" playOrder="112">
+<navLabel><text>ಹೊಸ ಒಡಂಬಡಿಕೆಯಲ್ಲಿ:</text></navLabel><content src="025-chapter025.xhtml#id-025.2"/>
+</navPoint>
+<navPoint id="navPoint-113" playOrder="113">
+<navLabel><text>ಸುಗಂಧದ್ರವ್ಯವನ್ನೇಕೆ ಹೀಗೆ ವ್ಯರ್ಥಮಾಡುತ್ತೀರಿ?:</text></navLabel><content src="025-chapter025.xhtml#id-025.3"/>
+</navPoint>
+<navPoint id="navPoint-114" playOrder="114">
+<navLabel><text>ಯೇಸುವಿನ ನಿಗೂಢ ವರ್ತನೆ:</text></navLabel><content src="025-chapter025.xhtml#id-025.4"/>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-115" playOrder="115">
+<navLabel><text>೨೬ :: –  ಕ್ಷಮೆ</text></navLabel><content src="026-chapter026.xhtml#id-026"/>
+<navPoint id="navPoint-116" playOrder="116">
+<navLabel><text>ಹಳೆಯ ಒಡಂಬಡಿಕೆಗಳಲ್ಲಿ ಕ್ಷಮಾಗುಣದ ಪ್ರಸ್ತಾಪಗಳು:</text></navLabel><content src="026-chapter026.xhtml#id-026.1"/>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-117" playOrder="117">
+<navLabel><text>೨೭ :: –  ಜಾನ್‍ನ ಸುವಾರ್ತೆ ಮತ್ತು ಹಳೆಯ ಒಡಂಬಡಿಕೆ</text></navLabel><content src="027-chapter027.xhtml#id-027"/>
+<navPoint id="navPoint-118" playOrder="118">
+<navLabel><text>ಮಿದ್ರಾಷ್ ಮತ್ತು ಟಾರ್ಗುಮ್:</text></navLabel><content src="027-chapter027.xhtml#id-027.1"/>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-119" playOrder="119">
+<navLabel><text>೨೮ :: –  ಶಿಷ್ಯೋತ್ತಮರ ಪಾದಪೂಜೆ</text></navLabel><content src="028-chapter028.xhtml#id-028"/>
+</navPoint>
+<navPoint id="navPoint-120" playOrder="120">
+<navLabel><text>೨೯ :: –  ಅಭಿವ್ಯಕ್ತಿಯ ತೊಡಕು</text></navLabel><content src="029-chapter029.xhtml#id-029"/>
+</navPoint>
+<navPoint id="navPoint-121" playOrder="121">
+<navLabel><text>೩೦ :: –  ನೋಡುವುದು</text></navLabel><content src="030-chapter030.xhtml#id-030"/>
+</navPoint>
+<navPoint id="navPoint-122" playOrder="122">
+<navLabel><text>೩೧ :: –  ಸ್ವರ್ಗದ ರಾಜ್ಯ</text></navLabel><content src="031-chapter031.xhtml#id-031"/>
+</navPoint>
+<navPoint id="navPoint-123" playOrder="123">
+<navLabel><text>೩೨ :: –  ಸತ್ತವನು ಎದ್ದು ಬಂದಾಗ :: ಲಜ಼ರಸ್‌ನ ಕಥೆ</text></navLabel><content src="032-chapter032.xhtml#id-032"/>
+</navPoint>
+<navPoint id="navPoint-124" playOrder="124">
+<navLabel><text>೩೩ :: –  ಯೇಸು ಕಲಿಸಿದ ದೇವರ ಪ್ರಾರ್ಥನೆ</text></navLabel><content src="033-chapter033.xhtml#id-033"/>
+<navPoint id="navPoint-125" playOrder="125">
+<navLabel><text>ದೇವರ ಪ್ರಾರ್ಥನೆ:</text></navLabel><content src="033-chapter033.xhtml#id-033.1"/>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-126" playOrder="126">
+<navLabel><text>೩೪ :: –  ಹಿತ್ತಲ ಗಿಡ ಮದ್ದಲ್ಲ</text></navLabel><content src="034-chapter034.xhtml#id-034"/>
+</navPoint>
+<navPoint id="navPoint-127" playOrder="127">
+<navLabel><text>೩೫ :: –  ಬೆಟ್ಟದ ಮೇಲಿನ ಉಪದೇಶ</text></navLabel><content src="035-chapter035.xhtml#id-035"/>
+</navPoint>
+<navPoint id="navPoint-128" playOrder="128">
+<navLabel><text>೩೬ :: –  ದಶಾಜ್ಞೆಗಳು ಮತ್ತು ಅವುಗಳಿಗೆ ಯೇಸುವಿನ ತಿದ್ದುಪಡಿ</text></navLabel><content src="036-chapter036.xhtml#id-036"/>
+<navPoint id="navPoint-129" playOrder="129">
+<navLabel><text>ಸಮರ್ಥನೆಗಳು:</text></navLabel><content src="036-chapter036.xhtml#id-036.1"/>
+</navPoint>
+<navPoint id="navPoint-130" playOrder="130">
+<navLabel><text>ತಿದ್ದುಪಡಿಗಳು:</text></navLabel><content src="036-chapter036.xhtml#id-036.2"/>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-131" playOrder="131">
+<navLabel><text>೩೭ :: –  ಯೇಸು ಹೇಳಿದ ಸಾಮತಿಗಳು</text></navLabel><content src="037-chapter037.xhtml#id-037"/>
+<navPoint id="navPoint-132" playOrder="132">
+<navLabel><text>ಹಾಗಾದರೆ ಜಾನ್‌ನಲ್ಲಿ ಸಾಮತಿಗಳು ಇಲ್ಲವೇನು?</text></navLabel><content src="037-chapter037.xhtml#id-037.1"/>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-133" playOrder="133">
+<navLabel><text>೩೮ :: –  ಯೇಸು ತೋರಿದ ಪವಾಡಗಳು</text></navLabel><content src="038-chapter038.xhtml#id-038"/>
+<navPoint id="navPoint-134" playOrder="134">
+<navLabel><text>ಸಬ್ಬತ್‍ನಲ್ಲಿ ನಡೆಸಿದ ಪವಾಡಗಳು:</text></navLabel><content src="038-chapter038.xhtml#id-038.1"/>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-135" playOrder="135">
+<navLabel><text>೩೯ :: –  ಜಾನ್‍ಗೆ ಮಹತ್ವವೆನಿಸಿದ ಸಂಕೇತಗಳು</text></navLabel><content src="039-chapter039.xhtml#id-039"/>
+<navPoint id="navPoint-136" playOrder="136">
+<navLabel><text>ಜಾನ್‍ನಲ್ಲಿ ಇರುವ ಸಂಕೇತಗಳು/ಕುರುಹುಗಳು:</text></navLabel><content src="039-chapter039.xhtml#id-039.1"/>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-137" playOrder="137">
+<navLabel><text>೪೦ :: –   ಕ್ರೈಸ್ತ ಮತೀಯ ಆಚರಣೆಗಳಲ್ಲಿ ಜಾನ್‍ನ ಸುವಾರ್ತೆಯ ಬಳಕೆ</text></navLabel><content src="040-chapter040.xhtml#id-040"/>
+<navPoint id="navPoint-138" playOrder="138">
+<navLabel><text>ಸಂಸ್ಕಾರ ವಿಧಿ:</text></navLabel><content src="040-chapter040.xhtml#id-040.1"/>
+</navPoint>
+<navPoint id="navPoint-139" playOrder="139">
+<navLabel><text>ಆಶೀರ್ವಚನಗಳು:</text></navLabel><content src="040-chapter040.xhtml#id-040.2"/>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-140" playOrder="140">
+<navLabel><text>೪೧ :: –  ಜಾನ್‍ನ ಸುವಾರ್ತೆಯ ಶೈಲಿ :: ಒಂದು ಸಂಖ್ಯಾಶಾಸ್ತ್ರೀಯ ಅಧ್ಯಯನ</text></navLabel><content src="041-chapter041.xhtml#id-041"/>
+<navPoint id="navPoint-141" playOrder="141">
+<navLabel><text>ನಾನಿದ್ದೇನೆ:</text></navLabel><content src="041-chapter041.xhtml#id-041.1"/>
+</navPoint>
+<navPoint id="navPoint-142" playOrder="142">
+<navLabel><text>ಅಹಂ ಏವ ಸ್ವಯಂ ಇದಂ ವದಾಮಿ:</text></navLabel><content src="041-chapter041.xhtml#id-041.2"/>
+</navPoint>
+<navPoint id="navPoint-143" playOrder="143">
+<navLabel><text>ತಾನು ಮತ್ತು ತನ್ನ ತಂದೆ:</text></navLabel><content src="041-chapter041.xhtml#id-041.3"/>
+</navPoint>
+<navPoint id="navPoint-144" playOrder="144">
+<navLabel><text>ತಾನು ಅವತರಿಸಿರುವುದು ಯಾವ ಉದ್ದೇಶಕ್ಕಾಗಿ?</text></navLabel><content src="041-chapter041.xhtml#id-041.4"/>
+</navPoint>
+<navPoint id="navPoint-145" playOrder="145">
+<navLabel><text>ಸತ್ಯಕ್ಕೇ ಕೊನೆಗೆ ಜಯ:</text></navLabel><content src="041-chapter041.xhtml#id-041.5"/>
+</navPoint>
+<navPoint id="navPoint-146" playOrder="146">
+<navLabel><text>ಪವಾಡಗಳು:</text></navLabel><content src="041-chapter041.xhtml#id-041.6"/>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-147" playOrder="147">
+<navLabel><text>೪೨ :: –   ಮನುಕುಲೋದ್ಧಾರಕ</text></navLabel><content src="042-chapter042.xhtml#id-042"/>
+<navPoint id="navPoint-148" playOrder="148">
+<navLabel><text>ಯೇಸು ಮತ್ತು ಕೃಷ್ಣ:</text></navLabel><content src="042-chapter042.xhtml#id-042.1"/>
+</navPoint>
+<navPoint id="navPoint-149" playOrder="149">
+<navLabel><text>ಸಾಕ್ರಟಿಸ್, ಯೇಸು ಮತ್ತು ಗಾಂಧಿ:</text></navLabel><content src="042-chapter042.xhtml#id-042.2"/>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-150" playOrder="150">
+<navLabel><text>೪೩ :: –  ಉಪಸಂಹಾರ</text></navLabel><content src="043-chapter043.xhtml#id-043"/>
+</navPoint>
+<navPoint id="navPoint-151" playOrder="151">
+<navLabel><text>ಅನುಬಂಧಗಳು</text></navLabel><content src="044-chapter044.xhtml#id-044"/>
+<navPoint id="navPoint-152" playOrder="152">
+<navLabel><text>೧ :: ಬೈಬಲ್‌ನ ವಿವಿಧ ಭಾಗಗಳ ಶೀರ್ಷಿಕೆಗಳು</text></navLabel><content src="044-chapter044.xhtml#id-044.1"/>
+<navPoint id="navPoint-153" playOrder="153">
+<navLabel><text>ಹಳೆಯ ಒಡಂಬಡಿಕೆ: (Old Testament)</text></navLabel><content src="044-chapter044.xhtml#id-044.1.1"/>
+</navPoint>
+<navPoint id="navPoint-154" playOrder="154">
+<navLabel><text>ಹೊಸ ಒಡಂಬಡಿಕೆ: (New Testament)</text></navLabel><content src="044-chapter044.xhtml#id-044.1.2"/>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-155" playOrder="155">
+<navLabel><text>೨ :: ಕ್ರೈಸ್ತಮತೀಯ ಕನ್ನಡ ಪಾರಿಭಾಷಿಕ ಪದಗಳು ಮತ್ತು ಅವುಗಳ ಪರ್ಯಾಯ ಇಂಗ್ಲೀಷ್ ಪದಗಳು</text></navLabel><content src="044-chapter044.xhtml#id-044.2"/>
+<navPoint id="navPoint-156" playOrder="156">
+<navLabel><text>ಅಧಿಕಾರ:</text></navLabel><content src="044-chapter044.xhtml#id-044.2.1"/>
+</navPoint>
+<navPoint id="navPoint-157" playOrder="157">
+<navLabel><text>ಆಚರಣೆ:</text></navLabel><content src="044-chapter044.xhtml#id-044.2.2"/>
+</navPoint>
+<navPoint id="navPoint-158" playOrder="158">
+<navLabel><text>ಜನಾಂಗ:</text></navLabel><content src="044-chapter044.xhtml#id-044.2.3"/>
+</navPoint>
+<navPoint id="navPoint-159" playOrder="159">
+<navLabel><text>ದಾರ್ಶನಿಕ ಚಿಂತನೆ:</text></navLabel><content src="044-chapter044.xhtml#id-044.2.4"/>
+</navPoint>
+<navPoint id="navPoint-160" playOrder="160">
+<navLabel><text>ದೇವರು:</text></navLabel><content src="044-chapter044.xhtml#id-044.2.5"/>
+</navPoint>
+<navPoint id="navPoint-161" playOrder="161">
+<navLabel><text>ದೇವಾಲಯ:</text></navLabel><content src="044-chapter044.xhtml#id-044.2.6"/>
+</navPoint>
+<navPoint id="navPoint-162" playOrder="162">
+<navLabel><text>ದೇವಾಲಯದ ಭಾಗಗಳು:</text></navLabel><content src="044-chapter044.xhtml#id-044.2.7"/>
+</navPoint>
+<navPoint id="navPoint-163" playOrder="163">
+<navLabel><text>ಧಾರ್ಮಿಕ ಅಧಿಕಾರಿ:</text></navLabel><content src="044-chapter044.xhtml#id-044.2.8"/>
+</navPoint>
+<navPoint id="navPoint-164" playOrder="164">
+<navLabel><text>ಧಾರ್ಮಿಕ ಚಿಂತನೆ:</text></navLabel><content src="044-chapter044.xhtml#id-044.2.9"/>
+</navPoint>
+<navPoint id="navPoint-165" playOrder="165">
+<navLabel><text>ಧಾರ್ಮಿಕ ಪಂಗಡ:</text></navLabel><content src="044-chapter044.xhtml#id-044.2.10"/>
+</navPoint>
+<navPoint id="navPoint-166" playOrder="166">
+<navLabel><text>ಧಾರ್ಮಿಕ ಸಂಘಟನೆ:</text></navLabel><content src="044-chapter044.xhtml#id-044.2.11"/>
+</navPoint>
+<navPoint id="navPoint-167" playOrder="167">
+<navLabel><text>ಪೂಜೆ, ಪೂಜಾ ವಿಧಿ:</text></navLabel><content src="044-chapter044.xhtml#id-044.2.12"/>
+</navPoint>
+<navPoint id="navPoint-168" playOrder="168">
+<navLabel><text>ಪೂಜೆಯ ಉಡುಪು:</text></navLabel><content src="044-chapter044.xhtml#id-044.2.13"/>
+</navPoint>
+<navPoint id="navPoint-169" playOrder="169">
+<navLabel><text>ಪ್ರದೇಶ/ನಗರ:</text></navLabel><content src="044-chapter044.xhtml#id-044.2.14"/>
+</navPoint>
+<navPoint id="navPoint-170" playOrder="170">
+<navLabel><text>ಪೌರಾಣಿಕ ಪ್ರದೇಶ/ನಗರ:</text></navLabel><content src="044-chapter044.xhtml#id-044.2.15"/>
+</navPoint>
+<navPoint id="navPoint-171" playOrder="171">
+<navLabel><text>ಬೈಬಲ್ ಸಂಬಂಧಿತ ಪುಸ್ತಕಗಳು/ಭಾಗಗಳು:</text></navLabel><content src="044-chapter044.xhtml#id-044.2.16"/>
+</navPoint>
+<navPoint id="navPoint-172" playOrder="172">
+<navLabel><text>ಭಾಷೆ:</text></navLabel><content src="044-chapter044.xhtml#id-044.2.17"/>
+</navPoint>
+<navPoint id="navPoint-173" playOrder="173">
+<navLabel><text>ರಾಜಕೀಯ ಪಂಗಡ:</text></navLabel><content src="044-chapter044.xhtml#id-044.2.18"/>
+</navPoint>
+<navPoint id="navPoint-174" playOrder="174">
+<navLabel><text>ವ್ಯಕ್ತಿಗಳು:</text></navLabel><content src="044-chapter044.xhtml#id-044.2.19"/>
+</navPoint>
+<navPoint id="navPoint-175" playOrder="175">
+<navLabel><text>ಐತಿಹ್ಯ ವ್ಯಕ್ತಿ: (Mythical Persons)</text></navLabel><content src="044-chapter044.xhtml#id-044.2.20"/>
+</navPoint>
+<navPoint id="navPoint-176" playOrder="176">
+<navLabel><text>ಧಾರ್ಮಿಕ ವ್ಯಕ್ತಿ:</text></navLabel><content src="044-chapter044.xhtml#id-044.2.21"/>
+</navPoint>
+<navPoint id="navPoint-177" playOrder="177">
+<navLabel><text>ಬೈಬಲ್‍ನ ವಿಶೇಷ ವ್ಯಕ್ತಿಗಳು:</text></navLabel><content src="044-chapter044.xhtml#id-044.2.22"/>
+</navPoint>
+<navPoint id="navPoint-178" playOrder="178">
+<navLabel><text>ಸುವಾರ್ತೆಯ ಇತರ ವ್ಯಕ್ತಿಗಳು:</text></navLabel><content src="044-chapter044.xhtml#id-044.2.23"/>
+</navPoint>
+<navPoint id="navPoint-179" playOrder="179">
+<navLabel><text>ಪೌರಾಣಿಕ ವ್ಯಕ್ತಿ:</text></navLabel><content src="044-chapter044.xhtml#id-044.2.24"/>
+</navPoint>
+<navPoint id="navPoint-180" playOrder="180">
+<navLabel><text>ಸಂತರು (Saints):</text></navLabel><content src="044-chapter044.xhtml#id-044.2.25"/>
+</navPoint>
+<navPoint id="navPoint-181" playOrder="181">
+<navLabel><text>ಸಂಸ್ಕಾರ:</text></navLabel><content src="044-chapter044.xhtml#id-044.2.26"/>
+</navPoint>
+<navPoint id="navPoint-182" playOrder="182">
+<navLabel><text>ಹಬ್ಬಗಳು:</text></navLabel><content src="044-chapter044.xhtml#id-044.2.27"/>
+</navPoint>
+<navPoint id="navPoint-183" playOrder="183">
+<navLabel><text>ಹಿಬ್ರೂ ಪಂಚಾಂಗ:</text></navLabel><content src="044-chapter044.xhtml#id-044.2.28"/>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-184" playOrder="184">
+<navLabel><text>೩ :: ಕ್ರೈಸ್ತಮತೀಯ ಕನ್ನಡ ಪಾರಿಭಾಷಿಕ ಪದಗಳ ವಿವರಣೆ</text></navLabel><content src="044-chapter044.xhtml#id-044.3"/>
+</navPoint>
+<navPoint id="navPoint-185" playOrder="185">
+<navLabel><text>೪ :: ಕ್ರೈಸ್ತಮತೀಯ ಅನುದಿನದ ಪ್ರಾರ್ಥನೆಗಳು ಮತ್ತು ಕೆಲವು ಸಂಸ್ಕೃತ ರೂಪಗಳು</text></navLabel><content src="044-chapter044.xhtml#id-044.4"/>
+</navPoint>
+<navPoint id="navPoint-186" playOrder="186">
+<navLabel><text>೫ :: ಪ್ರಾರ್ಥನೆ</text></navLabel><content src="044-chapter044.xhtml#id-044.5"/>
+<navPoint id="navPoint-187" playOrder="187">
+<navLabel><text>'ನಮೋ ಮರಿಯಾ' ಪ್ರಾರ್ಥನೆ:</text></navLabel><content src="044-chapter044.xhtml#id-044.5.1"/>
+</navPoint>
+<navPoint id="navPoint-188" playOrder="188">
+<navLabel><text>ವಿಶ್ವಾಸದ ಪ್ರಾರ್ಥನೆ:</text></navLabel><content src="044-chapter044.xhtml#id-044.5.2"/>
+</navPoint>
+<navPoint id="navPoint-189" playOrder="189">
+<navLabel><text>ದಶಾಜ್ಞೆಗಳು:</text></navLabel><content src="044-chapter044.xhtml#id-044.5.3"/>
+</navPoint>
+<navPoint id="navPoint-190" playOrder="190">
+<navLabel><text>ಪಶ್ಚಾತ್ತಾಪದ ಪ್ರಾರ್ಥನೆ:</text></navLabel><content src="044-chapter044.xhtml#id-044.5.4"/>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-191" playOrder="191">
+<navLabel><text>೬ :: ಇದೇ ಲೇಖಕರ ಇತರ ಕೃತಿಗಳು</text></navLabel><content src="044-chapter044.xhtml#id-044.6"/>
+<navPoint id="navPoint-192" playOrder="192">
+<navLabel><text>ಪ್ರಕಟಿತ ಕೃತಿಗಳು:</text></navLabel><content src="044-chapter044.xhtml#id-044.6.1"/>
+</navPoint>
+<navPoint id="navPoint-193" playOrder="193">
+<navLabel><text>ಪ್ರಧಾನ ಸಂಪಾದಕ:</text></navLabel><content src="044-chapter044.xhtml#id-044.6.2"/>
+</navPoint>
+<navPoint id="navPoint-194" playOrder="194">
+<navLabel><text>ಸಹ-ಸಂಪಾದಕ:</text></navLabel><content src="044-chapter044.xhtml#id-044.6.3"/>
+</navPoint>
+<navPoint id="navPoint-195" playOrder="195">
+<navLabel><text>ಪ್ರಕಟಣೆಯ ವಿವಿಧ ಹಂತಗಳಲ್ಲಿ:</text></navLabel><content src="044-chapter044.xhtml#id-044.6.4"/>
+</navPoint>
+</navPoint>
+</navPoint>
+   </navMap>
+</ncx>
