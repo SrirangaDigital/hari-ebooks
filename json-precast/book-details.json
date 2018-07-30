@@ -91,6 +91,19 @@
             "pages": "72",
             "description": "A collectios of poems in kannada by Shikaripura Harihareshwara"
         },
+         "013": {
+            "language": "kan",
+            "identifier": "hari_ebooks/013",
+            "isbn": "9789388114509",
+            "title": "ಗೀತ ಗುಚ್ಛ ",
+            "creators": {
+                "author": "ನಾಗಲಕ್ಷ್ಮೀ ಹರಿಹರೇಶ್ವರ"
+            },
+            "category": "",
+            "publisher": "",
+            "pages": "216",
+            "description": "Geeta-Guccha (A collection of poem in kannada translated from sanskrit)"
+        },
         "018": {
             "language": "kan",
             "identifier": "hari_ebooks/018",
