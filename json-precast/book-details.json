@@ -130,6 +130,32 @@
             "pages": "294",
             "description": "[To the Memory of Shikaripura Harihareswara]- Collected and Edited by Smt: Nagalakshmi Harihareswara"
         },
+         "015": {
+            "language": "kan",
+            "identifier": "hari_ebooks/015",
+            "isbn": "9789388114523",
+            "title": "ಮಾತಿನ ಚಾವಡಿ ",
+            "creators": {
+                "author": "ನಾಗಲಕ್ಷ್ಮೀ ಹರಿಹರೇಶ್ವರ"
+            },
+            "category": "",
+            "publisher": "",
+            "pages": "252",
+            "description": "A Platform for Speeches A collection of Essays and Book Reviews in Kannada"
+        },
+         "016": {
+            "language": "kan",
+            "identifier": "hari_ebooks/016",
+            "isbn": "9789388114530",
+            "title": "ನಮ್ಮ ಕಾಶ್ಮೀರ   ",
+            "creators": {
+                "author": "ನಾಗಲಕ್ಷ್ಮೀ ಹರಿಹರೇಶ್ವರ"
+            },
+            "category": "",
+            "publisher": "",
+            "pages": "176",
+            "description": "A Book published by shikaripura harihareswara"
+        },
         "018": {
             "language": "kan",
             "identifier": "hari_ebooks/018",
