@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns:ncx="http://www.daisy.org/z3986/2005/ncx/" xmlns="http://www.daisy.org/z3986/2005/ncx/"
+    version="2005-1" xml:lang="en">
+
+   <head>
+      <meta name="dtb:uid" content="urn:isbn:9789388114523"/>
+      <meta name="dtb:depth" content="1"/>
+      <meta name="dtb:totalPageCount" content="0"/>
+      <meta name="dtb:maxPageNumber" content="0"/>
+   </head>
+
+   <docTitle>
+      <text>ಮಾತಿನ ಚಾವಡಿ   </text>
+   </docTitle>
+
+   <navMap>
+		
+<navPoint id="navPoint-1" playOrder="1">
+<navLabel><text>Title Page</text></navLabel><content src="000a-title.xhtml#id-000a"/>
+</navPoint>
+<navPoint id="navPoint-2" playOrder="2">
+<navLabel><text>Copyright</text></navLabel><content src="000b-copyright.xhtml#id-000b.1"/>
+</navPoint>
+<navPoint id="navPoint-3" playOrder="3">
+<navLabel><text>ಪ್ರಸ್ತಾವನೆ</text></navLabel><content src="000c-preface.xhtml#id-000c.1"/>
+</navPoint>
+<navPoint id="navPoint-4" playOrder="4">
+<navLabel><text>ಕೃತಜ್ಞತೆ</text></navLabel><content src="000d-preface.xhtml#id-000d.1"/>
+</navPoint>
+<navPoint id="navPoint-5" playOrder="5">
+<navLabel><text>ಪ್ರಕಾಶಕರ ಮಾತು</text></navLabel><content src="000e-preface.xhtml#id-000e.1"/>
+</navPoint>
+<navPoint id="navPoint-6" playOrder="6">
+<navLabel><text>೦೧ –  :: ಜ್ಞಾನತೀರ್ಥ ದರ್ಶನದ ಸವಿನೆನಪುಗಳು'ಥೇಮ್ಸ್ ನದಿಯ ನಾಡಿನಲ್ಲಿ'</text></navLabel><content src="001-chapter001.xhtml#id-001"/>
+</navPoint>
+<navPoint id="navPoint-7" playOrder="7">
+<navLabel><text>೦೨ –  :: ಕಥನ ಕೌಶಲ್ಯದ ಕುಸುರಿಯ ಕೆಲಸ 'ಜೋಗವ್ವ'</text></navLabel><content src="002-chapter002.xhtml#id-002"/>
+</navPoint>
+<navPoint id="navPoint-8" playOrder="8">
+<navLabel><text>೦೩ –  :: ಉಪಯುಕ್ತ ಮಾಹಿತಿಗಳ ಒಂದು ಕಿರಿ ಉಗ್ರಾಣ 'ಜೀವಿ ಕಂಡ ಅಮೆರಿಕಾ'</text></navLabel><content src="003-chapter003.xhtml#id-003"/>
+</navPoint>
+<navPoint id="navPoint-9" playOrder="9">
+<navLabel><text>೦೪ –  :: ವಿಷ್ಣುಪಾರಮ್ಯ ಸಾರುವ ಅಪೂರ್ವ ಕನ್ನಡ ಕಾವ್ಯ 'ಕರ್ಣಾಟಕ ಭಾಗವತ'</text></navLabel><content src="004-chapter004.xhtml#id-004"/>
+<navPoint id="navPoint-10" playOrder="10">
+<navLabel><text>ನಾರಾಯಣ ಕವಿಯ ಭಾಗವತಗಳು:</text></navLabel><content src="004-chapter004.xhtml#id-004.01"/>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-11" playOrder="11">
+<navLabel><text>೦೫ –  :: ಮುಗ್ಧ ಮನಸ್ಸಿಗೆ ಹರ್ಷೋಲ್ಲಾಸದ ಗ್ರಾಸ 'ಮಕ್ಕಳ ಸಾಹಿತ್ಯ ಪುಸ್ತಕಗಳು'</text></navLabel><content src="005-chapter005.xhtml#id-005"/>
+<navPoint id="navPoint-12" playOrder="12">
+<navLabel><text>ಮಕ್ಕಳ ಸಾಹಿತ್ಯ ಸಂಪದದ ಕೆಲವು ಪುಟ್ಟ ಹೊತ್ತಿಗೆಗಳು:</text></navLabel><content src="005-chapter005.xhtml#id-005.01"/>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-13" playOrder="13">
+<navLabel><text>೦೬ –  :: ಪಶ್ಚಿಮಾಭಿಮುಖಕ್ಕೊಂದು ಪೂರ್ವಸ್ಮರಣೆ'ಈ ಇ ಆ ಅ'</text></navLabel><content src="006-chapter006.xhtml#id-006"/>
+</navPoint>
+<navPoint id="navPoint-14" playOrder="14">
+<navLabel><text>೦೭ –  :: ಕಥೆಯಾಗಿ ಹೋದ ಪ್ರಾತಃಸ್ಮರಣೀಯರು'ವೇದಜೀವಿ ಗುಂಡಾವಧಾನಿಗಳು'</text></navLabel><content src="007-chapter007.xhtml#id-007"/>
+</navPoint>
+<navPoint id="navPoint-15" playOrder="15">
+<navLabel><text>೦೮ –  :: ನವಿರು ಮನಸ್ಸಿನ ಬಂಧುರ ಅಭಿವ್ಯಕ್ತಿ ಜಯಪ್ಪ ಹೊನ್ನಾಳಿ</text></navLabel><content src="008-chapter008.xhtml#id-008"/>
+<navPoint id="navPoint-16" playOrder="16">
+<navLabel><text>ಹುಲ್ಲಿನ ಮನೆ:</text></navLabel><content src="008-chapter008.xhtml#id-008.01"/>
+</navPoint>
+<navPoint id="navPoint-17" playOrder="17">
+<navLabel><text>ಎಲ್ಲಿ ಹೋಯ್ತ ನಿನ್ನ ಪ್ರೀತಿ?</text></navLabel><content src="008-chapter008.xhtml#id-008.02"/>
+</navPoint>
+<navPoint id="navPoint-18" playOrder="18">
+<navLabel><text>ಕುವೆಂಪು ನುಡಿನಮನ:</text></navLabel><content src="008-chapter008.xhtml#id-008.03"/>
+</navPoint>
+<navPoint id="navPoint-19" playOrder="19">
+<navLabel><text>'ಹೂರಣ-ತೋರಣ':</text></navLabel><content src="008-chapter008.xhtml#id-008.04"/>
+</navPoint>
+<navPoint id="navPoint-20" playOrder="20">
+<navLabel><text>'ಭಾವ ಬೆಳದಿಂಗಳು':</text></navLabel><content src="008-chapter008.xhtml#id-008.05"/>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-21" playOrder="21">
+<navLabel><text>೦೯ –  :: ತೇಜ ನಿನದಗಳ ಅಂಕುರಾರ್ಪಣ 'ಚುಟುಕು ವರ್ಷಿಣಿ'</text></navLabel><content src="009-chapter009.xhtml#id-009"/>
+<navPoint id="navPoint-22" playOrder="22">
+<navLabel><text>ತೇಜಸ್ವಿನಿ ಅರಸ್ ಅವರಿಗೆ ಸಂದ ಪ್ರಶಸ್ತಿಗಳು:</text></navLabel><content src="009-chapter009.xhtml#id-009-01"/>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-23" playOrder="23">
+<navLabel><text>೧೦ –  :: ತಿಳಿನಗೆಯ ಹಾಲ್ಗಡಲು 'ನಿಶ್ಶಬ್ದ ಸಂಗೀತ'</text></navLabel><content src="010-chapter010.xhtml#id-010"/>
+</navPoint>
+<navPoint id="navPoint-24" playOrder="24">
+<navLabel><text>೧೧ –  :: ಬೆಚ್ಚನೆಯ ಚಿಂತನೆಗಳ ಪ್ರಯೋಗದ ಕೆಚ್ಚು 'ಮೀನಿನ ಹೆಜ್ಜೆ' ಮತ್ತು 'ಮಾಯಾವಿ ಸರೋವರ'</text></navLabel><content src="011-chapter011.xhtml#id-011"/>
+<navPoint id="navPoint-25" playOrder="25">
+<navLabel><text>ಮಾಯಾವಿ ಸರೋವರ:</text></navLabel><content src="011-chapter011.xhtml#id-0011-01"/>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-26" playOrder="26">
+<navLabel><text>೧೨ –  :: ವಿದ್ವತ್‍ಪೂರ್ಣ ಸಮೀಕ್ಷೆಗಳ ಸಮಾಹಾರ 'ಸಂಸ್ತವ' ಮತ್ತು 'ತತ್ತ್ವಾರ್ಥಚಿಂತನ'</text></navLabel><content src="012-chapter012.xhtml#id-012"/>
+<navPoint id="navPoint-27" playOrder="27">
+<navLabel><text>'ತತ್ತ್ವಾರ್ಥಚಿಂತನ'</text></navLabel><content src="012-chapter012.xhtml#id-0012.01"/>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-28" playOrder="28">
+<navLabel><text>೧೩ –  :: ಕುಡಿಕೆಯಲಿ ಕಡಲನಡಗಿಸಿ ಇಡುವ ಬಯಕೆ'ವಚನ ಉತ್ಸವ'</text></navLabel><content src="013-chapter013.xhtml#id-013"/>
+</navPoint>
+<navPoint id="navPoint-29" playOrder="29">
+<navLabel><text>೧೪ –  :: ವ್ಯಾವಹಾರಿಕ ಮಿಥ್ಯೆಯಲ್ಲಿ ಆಧ್ಯಾತ್ಮಿಕ ತಥ್ಯ ದರ್ಶಿಸಿದವನ ನಡೆ 'ಕನಕದಾಸ'</text></navLabel><content src="014-chapter014.xhtml#id-014"/>
+<navPoint id="navPoint-30" playOrder="30">
+<navLabel><text>ಮೋಹನ ತರಂಗಿಣಿ:</text></navLabel><content src="014-chapter014.xhtml#id-014.01"/>
+</navPoint>
+<navPoint id="navPoint-31" playOrder="31">
+<navLabel><text>ನಳಚರಿತ್ರೆ:</text></navLabel><content src="014-chapter014.xhtml#id-014.02"/>
+</navPoint>
+<navPoint id="navPoint-32" playOrder="32">
+<navLabel><text>ಹರಿಭಕ್ತಿಸಾರ:</text></navLabel><content src="014-chapter014.xhtml#id-014.03"/>
+</navPoint>
+<navPoint id="navPoint-33" playOrder="33">
+<navLabel><text>ರಾಮಧಾನ್ಯಚರಿತ್ರೆ:</text></navLabel><content src="014-chapter014.xhtml#id-014.04"/>
+</navPoint>
+<navPoint id="navPoint-34" playOrder="34">
+<navLabel><text>ಕನಕದಾಸರ ಕೀರ್ತನೆಗಳು:</text></navLabel><content src="014-chapter014.xhtml#id-014.05"/>
+</navPoint>
+<navPoint id="navPoint-35" playOrder="35">
+<navLabel><text>ಪರಾಮರ್ಶನ ಗ್ರಂಥ ಸೂಚಿ:</text></navLabel><content src="014-chapter014.xhtml#id-014.06"/>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-36" playOrder="36">
+<navLabel><text>೧೫ –  :: ನೋಡಲು ಹಿಂಜರಿಯುವ ನಾಣ್ಯದಇನ್ನೊಂದು ಮುಖ'ಮಾಂಗಲ್ಯ'</text></navLabel><content src="015-chapter015.xhtml#id-015"/>
+</navPoint>
+<navPoint id="navPoint-37" playOrder="37">
+<navLabel><text>೧೬ –  :: ಅಭಿವ್ಯಕ್ತಿಯ ಬಂಧುರ ಹಂದರ 'ಭಾವನಮನ'</text></navLabel><content src="016-chapter016.xhtml#id-016"/>
+</navPoint>
+<navPoint id="navPoint-38" playOrder="38">
+<navLabel><text>೧೭ –  :: ಸಾಂಸ್ಕೃತಿಕ ಪರ್ಯಟನೆಯ ದಾಖಲಾತಿಗಳು 'ಹೆರೋದಾತನ ದಿನಚರಿ'</text></navLabel><content src="017-chapter017.xhtml#id-017"/>
+<navPoint id="navPoint-39" playOrder="39">
+<navLabel><text>ಪ್ರಸ್ತುತ ಗ್ರಂಥದ ಕಥಾ ವಸ್ತುವೇನು?</text></navLabel><content src="017-chapter017.xhtml#id-0017-01"/>
+</navPoint>
+<navPoint id="navPoint-40" playOrder="40">
+<navLabel><text>ನನ್ನ ಪ್ರಶ್ನೆ: ಈ ಗ್ರಂಥವನ್ನು ನೀವು ಅನುವಾದಿಸಿದ್ದು ಯಾಕೆ?</text></navLabel><content src="017-chapter017.xhtml#id-0017-02"/>
+</navPoint>
+<navPoint id="navPoint-41" playOrder="41">
+<navLabel><text>ನನ್ನ ಪ್ರಶ್ನೆ: ಬರೆಯ ತೊಡಗಿದಾಗ ನಿಮ್ಮ ಆಕಾಂಕ್ಷೆ ಏನಾಗಿತ್ತು?</text></navLabel><content src="017-chapter017.xhtml#id-0017-03"/>
+</navPoint>
+<navPoint id="navPoint-42" playOrder="42">
+<navLabel><text>ನನ್ನ ಪ್ರಶ್ನೆ: ನೀವೇ ಗುರುತಿಸುವುದಾದರೆ, ನಿಮ್ಮ ಈ ಗ್ರಂಥದವೈಶಿಷ್ಟ್ಯಗಳೇನು?</text></navLabel><content src="017-chapter017.xhtml#id-0017-04"/>
+</navPoint>
+<navPoint id="navPoint-43" playOrder="43">
+<navLabel><text>ನನ್ನ ಪ್ರಶ್ನೆ: ನೀವು ಈ ಪುಸ್ತಕವನ್ನು ಬರೆಯಲು ಏಷ್ಟು ಕಾಲ ತೆಗೆದುಕೊಂಡಿರಿ?</text></navLabel><content src="017-chapter017.xhtml#id-0017-05"/>
+</navPoint>
+<navPoint id="navPoint-44" playOrder="44">
+<navLabel><text>ನನ್ನ ಪ್ರಶ್ನೆ: ಕತೆಗಳೆ ತುಂಬಿರುವ ಈ ಪುಸ್ತಕದಲ್ಲಿ ಅವುಗಳನ್ನು ಹೇಳಲು ನೀವು ಯಾವ ಶೈಲಿಯನ್ನ ಸೂಕ್ತವೆಂದು ಕಂಡುಕೊಂಡಿರಿ?</text></navLabel><content src="017-chapter017.xhtml#id-0017-06"/>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-45" playOrder="45">
+<navLabel><text>೧೮ –  :: ಬಗೆ ಬಗೆಯ ಬಣ್ಣದ ಕಾರಂಜಿಗಳು 'ಮಹಿಳಾ ಕಥಾಲೋಕ'- ಒಂದು ಅವಲೋಕನ</text></navLabel><content src="018-chapter018.xhtml#id-018"/>
+</navPoint>
+<navPoint id="navPoint-46" playOrder="46">
+<navLabel><text>೧೯ –  :: ಚಿಂತನೆಯ ಅಲೆಗಳು ಮತ್ತು ಎಳೆಗಳು 'ಪ್ರಬಂಧ ವೈವಿಧ್ಯ'- ಒಂದು ಅವಲೋಕನ</text></navLabel><content src="019-chapter019.xhtml#id-019"/>
+</navPoint>
+<navPoint id="navPoint-47" playOrder="47">
+<navLabel><text>೨೦ –  :: ಸೃಜನಶೀಲ ಪ್ರತಿಭೆಗೊದಗಿದ ಕಾಣ್ಕೆ 'ಯೇಸು ಮಹಾದರ್ಶನ'</text></navLabel><content src="020-chapter020.xhtml#id-020"/>
+</navPoint>
+<navPoint id="navPoint-48" playOrder="48">
+<navLabel><text>೨೧ –  :: ಮಾನವೀಯ ಪರಿಕಲ್ಪನೆಯ ವಿನ್ಯಾಸಗಳು 'ಕಾವ್ಯವಲ್ಲರಿ ಮತ್ತು ಅನಿವಾಸಿ ಕತೆಗಳು'</text></navLabel><content src="021-chapter021.xhtml#id-021"/>
+<navPoint id="navPoint-49" playOrder="49">
+<navLabel><text>ಅನಿವಾಸಿ ಮತ್ತು ಇತರೆ ಕತೆಗಳು:</text></navLabel><content src="021-chapter021.xhtml#id-021.01"/>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-50" playOrder="50">
+<navLabel><text>೨೨ –  :: ಹೆಂಗರುಳಿನ ಹಂಬಲದ ತುಡಿತ-ಮಿಡಿತಗಳು'ಫ್ಲವರ್ ಇನ್ ದಿ ಫರ್ನೆಸ್'</text></navLabel><content src="022-chapter022.xhtml#id-022"/>
+</navPoint>
+<navPoint id="navPoint-51" playOrder="51">
+<navLabel><text>೨೩  –  :: ಹಾಡು ಹಕ್ಕಿಯ ಹಾರಾಟ 'ಮೌಲ್ಯ'</text></navLabel><content src="023-chapter023.xhtml#id-023"/>
+</navPoint>
+<navPoint id="navPoint-52" playOrder="52">
+<navLabel><text>೨೪ –  :: ಆಚರಣೆ ಉತ್ಸವ ಸಂಭ್ರಮಕ್ಕೊಂದು ಕೈಪಿಡಿ'ಹಿಂದೂ ವೆಡಿಂಗ್ ರಿಚುಯಲ್ಸ್'</text></navLabel><content src="024-chapter024.xhtml#id-024"/>
+</navPoint>
+<navPoint id="navPoint-53" playOrder="53">
+<navLabel><text>೨೫ –  :: ಪದಸಾಂದ್ರತೆಯ ಕಸರತ್ತು 'ಚುಕ್ಕಿ ಚೆಂದ'</text></navLabel><content src="025-chapter025.xhtml#id-025"/>
+</navPoint>
+<navPoint id="navPoint-54" playOrder="54">
+<navLabel><text>೨೬ –  :: ಜೀವನೋತ್ಸಾಹದ ಚುರುಕಿನ ಹನಿಗಳು 'ಅವಿನಾಶಿ'</text></navLabel><content src="026-chapter026.xhtml#id-026"/>
+</navPoint>
+<navPoint id="navPoint-55" playOrder="55">
+<navLabel><text>೨೭ –  :: ಸೋಮರಾಜರಸಚರಿತಾಮೃತ 'ಭರದ್ವಾಜ'</text></navLabel><content src="027-chapter027.xhtml#id-027"/>
+<navPoint id="navPoint-56" playOrder="56">
+<navLabel><text>ಯಾವುದೀ ವಿಶೇಷ ಪ್ರಶಸ್ತಿ?:</text></navLabel><content src="027-chapter027.xhtml#id-027.01"/>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-57" playOrder="57">
+<navLabel><text>೨೮ –  :: ಎದ್ದು, ಗೆದ್ದು, ಸುದ್ದಿಮಾಡಿದವರ ಮೇಲೆ ಬಿದ್ದ ಬೆಳಕು 'ಕಳಲೆಯ ದಳವಾಯಿಗಳು'</text></navLabel><content src="028-chapter028.xhtml#id-028"/>
+</navPoint>
+   </navMap>
+</ncx>
