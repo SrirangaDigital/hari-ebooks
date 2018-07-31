@@ -34,12 +34,9 @@
 <navLabel><text>ಪ್ರಕಾಶಕರ ಮಾತು</text></navLabel><content src="000c-preface.xhtml#id-000c.4"/>
 </navPoint>
 <navPoint id="navPoint-7" playOrder="7">
-<navLabel><text>ಶ್ರೀ ಪುರಂದರದಾಸರು</text></navLabel><content src="001-chapter001.xhtml#id-001"/>
-</navPoint>
-<navPoint id="navPoint-8" playOrder="8">
 <navLabel><text>ಅನುಬಂಧ</text></navLabel><content src="001-chapter001.xhtml#id-002"/>
 </navPoint>
-<navPoint id="navPoint-9" playOrder="9">
+<navPoint id="navPoint-8" playOrder="8">
 <navLabel><text>ಇದೇ ಲೇಖಕರ ಇತರ ಕೃತಿಗಳು</text></navLabel><content src="001-chapter001.xhtml#id-003"/>
 </navPoint>
    </navMap>

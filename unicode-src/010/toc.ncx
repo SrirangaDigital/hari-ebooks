@@ -22,7 +22,7 @@
 <navLabel><text>Copyright</text></navLabel><content src="000b-copyright.xhtml#id-000b.1"/>
 </navPoint>
 <navPoint id="navPoint-3" playOrder="3">
-<navLabel><text>ಬೈಬಲ್‍ನಲ್ಲಿ ಜಾನ್‍ನ ಸುವಾರ್ತೆ ߞ ಒಂದು ಅಧ್ಯಯನ</text></navLabel><content src="000c-Introduction.xhtml#id-000c.1"/>
+<navLabel><text>ಬೈಬಲ್‍ನಲ್ಲಿ ಜಾನ್‍ನ ಸುವಾರ್ತೆ</text></navLabel><content src="000c-Introduction.xhtml#id-000c.1"/>
 </navPoint>
 <navPoint id="navPoint-4" playOrder="4">
 <navLabel><text>ಜಾನ್‌ನ ಸುವಾರ್ತೆಗೊಂದು ಉಪಕ್ರಮ</text></navLabel><content src="000d-preface.xhtml#id-000d.1"/>
@@ -31,7 +31,7 @@
 <navLabel><text>ಪ್ರಸ್ತಾವನೆ</text></navLabel><content src="000e-preface.xhtml#id-000e.1"/>
 </navPoint>
 <navPoint id="navPoint-6" playOrder="6">
-<navLabel><text>ಬೈಬಲ್‍ನಲ್ಲಿ ಜಾನ್‍ನ ಸುವಾರ್ತೆ — ಒಂದು ಅಧ್ಯಯನ</text></navLabel><content src="000f-preface.xhtml#id-000f.1"/>
+<navLabel><text>ಬೈಬಲ್‍ನಲ್ಲಿ ಜಾನ್‍ನ ಸುವಾರ್ತೆ</text></navLabel><content src="000f-preface.xhtml#id-000f.1"/>
 </navPoint>
 <navPoint id="navPoint-7" playOrder="7">
 <navLabel><text>ಕೃತಜ್ಞತಾ ಸಮರ್ಪಣೆ</text></navLabel><content src="000g-preface.xhtml#id-000g.1"/>
