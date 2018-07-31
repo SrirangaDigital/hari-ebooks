@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns:ncx="http://www.daisy.org/z3986/2005/ncx/" xmlns="http://www.daisy.org/z3986/2005/ncx/"
+    version="2005-1" xml:lang="en">
+
+   <head>
+      <meta name="dtb:uid" content="urn:isbn:9789388114530"/>
+      <meta name="dtb:depth" content="1"/>
+      <meta name="dtb:totalPageCount" content="0"/>
+      <meta name="dtb:maxPageNumber" content="0"/>
+   </head>
+
+   <docTitle>
+      <text>ನಮ್ಮ ಕಾಶ್ಮೀರ   </text>
+   </docTitle>
+
+   <navMap>
+		
+<navPoint id="navPoint-1" playOrder="1">
+<navLabel><text>Title Page</text></navLabel><content src="000a-title.xhtml#id-000a"/>
+</navPoint>
+<navPoint id="navPoint-2" playOrder="2">
+<navLabel><text>Copyright</text></navLabel><content src="000b-copyright.xhtml#id-000b.1"/>
+</navPoint>
+<navPoint id="navPoint-3" playOrder="3">
+<navLabel><text>ಮಹಾಪ್ರಜ್ಞ ಹರಿಹರೇಶ್ವರರ 'ನಮ್ಮ ಕಾಶ್ಮೀರ'</text></navLabel><content src="000c-preface.xhtml#id-000c.1"/>
+</navPoint>
+<navPoint id="navPoint-4" playOrder="4">
+<navLabel><text>ಪ್ರಸ್ತಾವನೆ</text></navLabel><content src="000d-preface.xhtml#id-000d.1"/>
+</navPoint>
+<navPoint id="navPoint-5" playOrder="5">
+<navLabel><text>ಪ್ರಕಾಶಕರ ಮಾತು</text></navLabel><content src="000e-preface.xhtml#id-000e.1"/>
+</navPoint>
+<navPoint id="navPoint-6" playOrder="6">
+<navLabel><text>೦೧ –  :: ಪ್ರಸ್ತಾವನೆ</text></navLabel><content src="001-chapter001.xhtml#id-001"/>
+</navPoint>
+<navPoint id="navPoint-7" playOrder="7">
+<navLabel><text>೦೨ – :: ಕಾಶ್ಮೀರದ ಹುಟ್ಟಿನ ಕತೆ</text></navLabel><content src="002-chapter002.xhtml#id-002"/>
+</navPoint>
+<navPoint id="navPoint-8" playOrder="8">
+<navLabel><text>೦೩ – :: ಕಾಶ್ಮೀರದ ಕವಿ ಬಿಲ್ಹಣ ಬರೆದ `ಚೌರ-ಪಂಚಾಶಿಕಾ'ದಿಂದ ಆಯ್ದ ಪದ್ಯಗಳು</text></navLabel><content src="003-chapter003.xhtml#id-003"/>
+</navPoint>
+<navPoint id="navPoint-9" playOrder="9">
+<navLabel><text>೦೪ –  :: ಕಾಳಿದಾಸ ಕಾಶ್ಮೀರದಲ್ಲಿ ಹುಟ್ಟಿ ಬೆಳೆದವನೇ?</text></navLabel><content src="004-chapter004.xhtml#id-004"/>
+</navPoint>
+<navPoint id="navPoint-10" playOrder="10">
+<navLabel><text>೦೫ –  :: ಕನ್ನಡ ನಾಡಿಗೆ ವಲಸೆ ಬಂದು ಇಲ್ಲಿಯೇ ಉಳಿದ ಕಾಶ್ಮೀರದ ಶಿವಶರಣರು</text></navLabel><content src="005-chapter005.xhtml#id-005"/>
+</navPoint>
+<navPoint id="navPoint-11" playOrder="11">
+<navLabel><text>೦೬ –  :: ಮುಸ್ಲಿಂ ಋಷಿ ಅಲ್-ಬಿರೂನಿ ಕಂಡ ಕಾಶ್ಮೀರ</text></navLabel><content src="006-chapter006.xhtml#id-006"/>
+<navPoint id="navPoint-12" playOrder="12">
+<navLabel><text>ಅಲ್-ಬಿರೂನಿ ಓದಿದ ಭಗವದ್ಗೀತೆ:</text></navLabel><content src="006-chapter006.xhtml#id-006-1"/>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-13" playOrder="13">
+<navLabel><text>೦೭ –  :: ಶಿಲ್ಹಣನ ಕಾವ್ಯ</text></navLabel><content src="007-chapter007.xhtml#id-007"/>
+</navPoint>
+<navPoint id="navPoint-14" playOrder="14">
+<navLabel><text>೦೮ –  :: ಕಾಶ್ಮೀರದ ಅನುಭಾವಿ, ಲಲ್ಲೇಶ್ವರಿ</text></navLabel><content src="008-chapter008.xhtml#id-008"/>
+<navPoint id="navPoint-15" playOrder="15">
+<navLabel><text>ಷೋಡಶೋಪಚಾರದಿ ಹೇಗೆ, ಏನು ನಡೆಸುವೆ ಪೂಜೆ?</text></navLabel><content src="008-chapter008.xhtml#id-008.01"/>
+</navPoint>
+<navPoint id="navPoint-16" playOrder="16">
+<navLabel><text>ಲಲ್ಲ ಮತ್ತು ಸೂಫೀಧರ್ಮ:</text></navLabel><content src="008-chapter008.xhtml#id-008.02"/>
+</navPoint>
+<navPoint id="navPoint-17" playOrder="17">
+<navLabel><text>ವಚನಗಳ ಅಧ್ಯಯನ:</text></navLabel><content src="008-chapter008.xhtml#id-008.03"/>
+</navPoint>
+<navPoint id="navPoint-18" playOrder="18">
+<navLabel><text>ಲಲ್ಲಳ ಜೀವನ ಶೈಲಿ:</text></navLabel><content src="008-chapter008.xhtml#id-008.04"/>
+</navPoint>
+<navPoint id="navPoint-19" playOrder="19">
+<navLabel><text>ಲಲ್ಲಳ ಗುರು:</text></navLabel><content src="008-chapter008.xhtml#id-008.05"/>
+</navPoint>
+<navPoint id="navPoint-20" playOrder="20">
+<navLabel><text>ಲಲ್ಲಳ ಸಾಧನೆಯ ಸೂಚಕಗಳು:</text></navLabel><content src="008-chapter008.xhtml#id-008.06"/>
+</navPoint>
+<navPoint id="navPoint-21" playOrder="21">
+<navLabel><text>ಪೂಜೆಯ ಬಗ್ಗೆ ಲಲ್ಲ:</text></navLabel><content src="008-chapter008.xhtml#id-008.07"/>
+</navPoint>
+<navPoint id="navPoint-22" playOrder="22">
+<navLabel><text>ಕಾಶ್ಮೀರದ ಶೈವ ದರ್ಶನ ಮತ್ತು ಲಲ್ಲ:</text></navLabel><content src="008-chapter008.xhtml#id-008.08"/>
+</navPoint>
+<navPoint id="navPoint-23" playOrder="23">
+<navLabel><text>ಬೆಡಗಿನ ವಚನಗಳು:</text></navLabel><content src="008-chapter008.xhtml#id-008.09"/>
+</navPoint>
+<navPoint id="navPoint-24" playOrder="24">
+<navLabel><text>ಕಾಶ್ಮೀರದ ಉಲ್ಲೇಖಗಳು:</text></navLabel><content src="008-chapter008.xhtml#id-008.10"/>
+</navPoint>
+<navPoint id="navPoint-25" playOrder="25">
+<navLabel><text>ಸಾಮಾನ್ಯ ನೀತಿಮಾತುಗಳು:</text></navLabel><content src="008-chapter008.xhtml#id-008.11"/>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-26" playOrder="26">
+<navLabel><text>೦೯ –  :: ಕಾಶ್ಮೀರಿಗಳ ಮದುವೆ</text></navLabel><content src="009-chapter009.xhtml#id-009"/>
+<navPoint id="navPoint-27" playOrder="27">
+<navLabel><text>ವಧುವಿಗೆ ವರನ ಬೆಣ್ಣೆಯ ಮಾತು</text></navLabel><content src="009-chapter009.xhtml#id-009.01"/>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-28" playOrder="28">
+<navLabel><text>೧೦ –  :: ಕಾಶ್ಮೀರದ ಸಂಸ್ಕೃತ ಕವಿಗಳು</text></navLabel><content src="010-chapter010.xhtml#id-010"/>
+<navPoint id="navPoint-29" playOrder="29">
+<navLabel><text>ಭಲ್ಹಟ:</text></navLabel><content src="010-chapter010.xhtml#id-010.01"/>
+</navPoint>
+<navPoint id="navPoint-30" playOrder="30">
+<navLabel><text>ಉತ್ಪಲ:</text></navLabel><content src="010-chapter010.xhtml#id-010.02"/>
+</navPoint>
+<navPoint id="navPoint-31" playOrder="31">
+<navLabel><text>ಕಲ್ಹಣ:</text></navLabel><content src="010-chapter010.xhtml#id-010.03"/>
+</navPoint>
+<navPoint id="navPoint-32" playOrder="32">
+<navLabel><text>ಉದ್ಭಟ:</text></navLabel><content src="010-chapter010.xhtml#id-010.04"/>
+</navPoint>
+<navPoint id="navPoint-33" playOrder="33">
+<navLabel><text>ಕ್ಷೇಮೇಂದ್ರ:</text></navLabel><content src="010-chapter010.xhtml#id-010.05"/>
+</navPoint>
+<navPoint id="navPoint-34" playOrder="34">
+<navLabel><text>ರೂಹಿಯಕ:</text></navLabel><content src="010-chapter010.xhtml#id-010.06"/>
+</navPoint>
+<navPoint id="navPoint-35" playOrder="35">
+<navLabel><text>ಬಿಲ್ಹಣ:</text></navLabel><content src="010-chapter010.xhtml#id-010.07"/>
+</navPoint>
+<navPoint id="navPoint-36" playOrder="36">
+<navLabel><text>ಮಮ್ಮಟ:</text></navLabel><content src="010-chapter010.xhtml#id-010.08"/>
+</navPoint>
+<navPoint id="navPoint-37" playOrder="37">
+<navLabel><text>ರತ್ನಾಕರ:</text></navLabel><content src="010-chapter010.xhtml#id-010.09"/>
+</navPoint>
+<navPoint id="navPoint-38" playOrder="38">
+<navLabel><text>ಅಭಿನಂದ:</text></navLabel><content src="010-chapter010.xhtml#id-010.10"/>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-39" playOrder="39">
+<navLabel><text>೧೧ –  :: ಕಾಶ್ಮೀರ ಶೈವ ಸಿದ್ಧಾಂತ</text></navLabel><content src="011-chapter011.xhtml#id-011"/>
+</navPoint>
+<navPoint id="navPoint-40" playOrder="40">
+<navLabel><text>೧೨ –  :: ಕಾಶ್ಮೀರದಲ್ಲಿ ಶಾರದೆ</text></navLabel><content src="012-chapter012.xhtml#id-012"/>
+</navPoint>
+<navPoint id="navPoint-41" playOrder="41">
+<navLabel><text>೧೩ –  :: ಕ್ಷೇಮೇಂದ್ರ</text></navLabel><content src="013-chapter013.xhtml#id-013"/>
+<navPoint id="navPoint-42" playOrder="42">
+<navLabel><text>೧. ಶಶಿವಂಶ</text></navLabel><content src="013-chapter013.xhtml#id-013.01"/>
+</navPoint>
+<navPoint id="navPoint-43" playOrder="43">
+<navLabel><text>೨. ಸುವೃತ್ತತಿಲಕ:</text></navLabel><content src="013-chapter013.xhtml#id-013.02"/>
+</navPoint>
+<navPoint id="navPoint-44" playOrder="44">
+<navLabel><text>೩. ಪದ್ಯಕಾದಂಬರಿ:</text></navLabel><content src="013-chapter013.xhtml#id-013.03"/>
+</navPoint>
+<navPoint id="navPoint-45" playOrder="45">
+<navLabel><text>೪. ಚಿತ್ರಭಾರತ ನಾಟಕ</text></navLabel><content src="013-chapter013.xhtml#id-013.04"/>
+</navPoint>
+<navPoint id="navPoint-46" playOrder="46">
+<navLabel><text>೫. ಲಾವಣ್ಯವತಿ ಕಾವ್ಯ</text></navLabel><content src="013-chapter013.xhtml#id-013.05"/>
+</navPoint>
+<navPoint id="navPoint-47" playOrder="47">
+<navLabel><text>೬. ಕನಕ ಜಾನಕಿ</text></navLabel><content src="013-chapter013.xhtml#id-013.06"/>
+</navPoint>
+<navPoint id="navPoint-48" playOrder="48">
+<navLabel><text>೭. ದೇಶೋಪದೇಶ</text></navLabel><content src="013-chapter013.xhtml#id-013.07"/>
+</navPoint>
+<navPoint id="navPoint-49" playOrder="49">
+<navLabel><text>೮. ಮುಕ್ತಾವಲಿ</text></navLabel><content src="013-chapter013.xhtml#id-013.08"/>
+</navPoint>
+<navPoint id="navPoint-50" playOrder="50">
+<navLabel><text>೯. ಅಮೃತರಂಗ ಕಾವ್ಯ</text></navLabel><content src="013-chapter013.xhtml#id-013.09"/>
+</navPoint>
+<navPoint id="navPoint-51" playOrder="51">
+<navLabel><text>೧೦. ಚತುರ್ವರ್ಗ ಸಂಗ್ರಹ</text></navLabel><content src="013-chapter013.xhtml#id-013.10"/>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-52" playOrder="52">
+<navLabel><text>೧೪ –  :: ನೀರಾಜನ ವಿಧಿ</text></navLabel><content src="014-chapter014.xhtml#id-014"/>
+<navPoint id="navPoint-53" playOrder="53">
+<navLabel><text>ಬೃಹತ್ ಸಂಹಿತೆಯಲ್ಲಿ ನೀರಾಜನ ವಿಧಿ:</text></navLabel><content src="014-chapter014.xhtml#id-014.01"/>
+</navPoint>
+<navPoint id="navPoint-54" playOrder="54">
+<navLabel><text>ಅಭಿನವ ಚಂದ್ರನ ಕನ್ನಡ 'ಅಶ್ವಶಾಸ್ತ್ರ' ಗ್ರಂಥದಲ್ಲಿ ನೀರಾಜನ ವಿಧಿ:</text></navLabel><content src="014-chapter014.xhtml#id-014.02"/>
+</navPoint>
+<navPoint id="navPoint-55" playOrder="55">
+<navLabel><text>'ಕಂಠೀರವ ನರಸರಾಜ ವಿಜಯ'ದಲ್ಲಿ ನವರಾತ್ರಿಯ ಉತ್ಸವ:</text></navLabel><content src="014-chapter014.xhtml#id-014.03"/>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-56" playOrder="56">
+<navLabel><text>ನಮ್ಮ ಕಾಶ್ಮೀರ ಅನುಬಂಧಗಳು</text></navLabel><content src="015-chapter015.xhtml#id-015"/>
+<navPoint id="navPoint-57" playOrder="57">
+<navLabel><text>೦೧ –  : ಕನ್ನಡದ ಕೆಲವು ಶಾಸನಗಳಲ್ಲಿ 'ಕಾಶ್ಮೀರ'</text></navLabel><content src="015-chapter015.xhtml#id-001.01"/>
+</navPoint>
+<navPoint id="navPoint-58" playOrder="58">
+<navLabel><text>೦೨ :: ಹರಿಹರನ ಶಿವಗಣದ ರಗಳೆಗಳಲ್ಲಿ 'ಕಾಶ್ಮೀರ''</text></navLabel><content src="015-chapter015.xhtml#id-015.02"/>
+</navPoint>
+<navPoint id="navPoint-59" playOrder="59">
+<navLabel><text>೦೩ –  :: ಪ್ರಾಚೀನ ಕನ್ನಡ ಕಾವ್ಯಗಳಲ್ಲಿ 'ಕಾಶ್ಮೀರ</text></navLabel><content src="015-chapter015.xhtml#id-015.03"/>
+</navPoint>
+<navPoint id="navPoint-60" playOrder="60">
+<navLabel><text>೦೪ –  :: ಕೇಸರಿಯ ಇತಿಹಾಸ:</text></navLabel><content src="015-chapter015.xhtml#id-015.04"/>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-61" playOrder="61">
+<navLabel><text>ಇದೇ ಲೇಖಕರ ಇತರ ಕೃತಿಗಳು</text></navLabel><content src="016-chapter016.xhtml#id-016"/>
+<navPoint id="navPoint-62" playOrder="62">
+<navLabel><text>ಪ್ರಕಟಿತ ಕೃತಿಗಳು:</text></navLabel><content src="016-chapter016.xhtml#id-016.01"/>
+</navPoint>
+<navPoint id="navPoint-63" playOrder="63">
+<navLabel><text>ಪ್ರಧಾನ ಸಂಪಾದಕ:</text></navLabel><content src="016-chapter016.xhtml#id-016.02"/>
+</navPoint>
+<navPoint id="navPoint-64" playOrder="64">
+<navLabel><text>ಸಹ-ಸಂಪಾದಕ:</text></navLabel><content src="016-chapter016.xhtml#id-016.03"/>
+</navPoint>
+<navPoint id="navPoint-65" playOrder="65">
+<navLabel><text>ಪ್ರಕಟಣೆಯ ವಿವಿಧ ಹಂತಗಳಲ್ಲಿ:</text></navLabel><content src="016-chapter016.xhtml#id-016.04"/>
+</navPoint>
+</navPoint>
+   </navMap>
+</ncx>
