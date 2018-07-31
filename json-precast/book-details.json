@@ -55,15 +55,15 @@
          "005": {
             "language": "kan",
             "identifier": "hari_ebooks/005",
-            "isbn": "",
+            "isbn": "9789388114424",
             "title": "ಶ್ರೀ ಪುರಂದರದಾಸರು (ಗೀತ ಪ್ರಧಾನ ನಾಟಕ)",
             "creators": {
                 "author": "ನಾಗಲಕ್ಷ್ಮೀ ಹರಿಹರೇಶ್ವರ"
             },
             "category": "",
             "publisher": "",
-            "pages": "",
-            "description": ""
+            "pages": "76",
+            "description": "A Book published by shikaripura harihareswara"
         },
          "010": {
             "language": "kan",
@@ -91,6 +91,19 @@
             "pages": "72",
             "description": "A collectios of poems in kannada by Shikaripura Harihareshwara"
         },
+         "012": {
+            "language": "kan",
+            "identifier": "hari_ebooks/011",
+            "isbn": "9789388114493",
+            "title": "ಗುಬ್ಬಿ ಗುಬ್ಬಚ್ಚಿ (ಒಂದು ವಿವೇಚನೆ)",
+            "creators": {
+                "author": "ನಾಗಲಕ್ಷ್ಮೀ ಹರಿಹರೇಶ್ವರ"
+            },
+            "category": "",
+            "publisher": "",
+            "pages": "160",
+            "description": "(A literary linguistics discussion in Kannada) by Shikaripura Harihareshwara"
+        },
          "013": {
             "language": "kan",
             "identifier": "hari_ebooks/013",
@@ -103,6 +116,19 @@
             "publisher": "",
             "pages": "216",
             "description": "Geeta-Guccha (A collection of poem in kannada translated from sanskrit)"
+        },
+         "014": {
+            "language": "kan",
+            "identifier": "hari_ebooks/014",
+            "isbn": "9789388114516",
+            "title": "ಮೌನ ಮಾತನಾಡಿಸಿದಾಗ  ",
+            "creators": {
+                "author": "ನಾಗಲಕ್ಷ್ಮೀ ಹರಿಹರೇಶ್ವರ"
+            },
+            "category": "",
+            "publisher": "",
+            "pages": "294",
+            "description": "[To the Memory of Shikaripura Harihareswara]- Collected and Edited by Smt: Nagalakshmi Harihareswara"
         },
         "018": {
             "language": "kan",
