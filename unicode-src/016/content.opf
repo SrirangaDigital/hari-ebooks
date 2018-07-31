@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <package xmlns="http://www.idpf.org/2007/opf" version="3.0" xml:lang="en" unique-identifier="isbn">
 	<metadata  xmlns:dc="http://purl.org/dc/elements/1.1/">
-		<dc:title>ಮಾತಿನ ಚಾವಡಿ   </dc:title>
+		<dc:title>ನಮ್ಮ ಕಾಶ್ಮೀರ   </dc:title>
 		<dc:language>kan</dc:language>
-		<dc:identifier id="isbn">urn:isbn:9789388114523</dc:identifier>
-		<dc:description>A Platform for Speeches A collection of Essays and Book Reviews in Kannada</dc:description>
+		<dc:identifier id="isbn">urn:isbn:9789388114530</dc:identifier>
+		<dc:description>A Book published by shikaripura harihareswara</dc:description>
 		
 		<dc:creator id="author1">ನಾಗಲಕ್ಷ್ಮೀ ಹರಿಹರೇಶ್ವರ</dc:creator>
 		<meta refines="#author1" property="role" scheme="marc:relators">aut</meta>    
@@ -19,11 +19,7 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilitySummary">The publication is missing alternative text for complex diagrams.</meta>
 		<meta property="schema:accessibilityAPI">ARIA</meta>
-<<<<<<< HEAD
-		<meta property="dcterms:modified">2018-07-31T16:20:57Z</meta>
-=======
-		<meta property="dcterms:modified">2018-07-31T16:19:56Z</meta>
->>>>>>> f3e8ef6cef1c3ea0b0b9a24e0acc6f22c7a58225
+		<meta property="dcterms:modified">2018-07-31T18:01:33Z</meta>
 	</metadata>
 	<manifest>
 		<item id="id-000a-title_xhtml" href="000a-title.xhtml" media-type="application/xhtml+xml" />
@@ -48,18 +44,6 @@
 		<item id="id-014-chapter014_xhtml" href="014-chapter014.xhtml" media-type="application/xhtml+xml" />
 		<item id="id-015-chapter015_xhtml" href="015-chapter015.xhtml" media-type="application/xhtml+xml" />
 		<item id="id-016-chapter016_xhtml" href="016-chapter016.xhtml" media-type="application/xhtml+xml" />
-		<item id="id-017-chapter017_xhtml" href="017-chapter017.xhtml" media-type="application/xhtml+xml" />
-		<item id="id-018-chapter018_xhtml" href="018-chapter018.xhtml" media-type="application/xhtml+xml" />
-		<item id="id-019-chapter019_xhtml" href="019-chapter019.xhtml" media-type="application/xhtml+xml" />
-		<item id="id-020-chapter020_xhtml" href="020-chapter020.xhtml" media-type="application/xhtml+xml" />
-		<item id="id-021-chapter021_xhtml" href="021-chapter021.xhtml" media-type="application/xhtml+xml" />
-		<item id="id-022-chapter022_xhtml" href="022-chapter022.xhtml" media-type="application/xhtml+xml" />
-		<item id="id-023-chapter023_xhtml" href="023-chapter023.xhtml" media-type="application/xhtml+xml" />
-		<item id="id-024-chapter024_xhtml" href="024-chapter024.xhtml" media-type="application/xhtml+xml" />
-		<item id="id-025-chapter025_xhtml" href="025-chapter025.xhtml" media-type="application/xhtml+xml" />
-		<item id="id-026-chapter026_xhtml" href="026-chapter026.xhtml" media-type="application/xhtml+xml" />
-		<item id="id-027-chapter027_xhtml" href="027-chapter027.xhtml" media-type="application/xhtml+xml" />
-		<item id="id-028-chapter028_xhtml" href="028-chapter028.xhtml" media-type="application/xhtml+xml" />
 		<item id="id-999-aside_xhtml" href="999-aside.xhtml" media-type="application/xhtml+xml" />
 		<item id="id-css_AdobeDevanagari-Bold_otf" href="css/AdobeDevanagari-Bold.otf" media-type="application/vnd.ms-opentype" />
 		<item id="id-css_AdobeDevanagari-BoldItalic_otf" href="css/AdobeDevanagari-BoldItalic.otf" media-type="application/vnd.ms-opentype" />
@@ -69,7 +53,6 @@
 		<item id="id-css_GentiumPlus-R_ttf" href="css/GentiumPlus-R.ttf" media-type="application/vnd.ms-opentype" />
 		<item id="id-css_NUDIUNI01K_ttf" href="css/NUDIUNI01K.ttf" media-type="application/vnd.ms-opentype" />
 		<item id="id-css_style_css" href="css/style.css" media-type="text/css" />
-		<item properties="cover-image" id="id-images_cover_jpg" href="images/cover.jpg" media-type="image/jpeg" />
 		<item id="id-toc_ncx" href="toc.ncx" media-type="application/x-dtbncx+xml" />
 		<item properties="nav" id="id-toc_xhtml" href="toc.xhtml" media-type="application/xhtml+xml" />
 
@@ -97,18 +80,6 @@
 		<itemref idref="id-014-chapter014_xhtml" linear="yes" />
 		<itemref idref="id-015-chapter015_xhtml" linear="yes" />
 		<itemref idref="id-016-chapter016_xhtml" linear="yes" />
-		<itemref idref="id-017-chapter017_xhtml" linear="yes" />
-		<itemref idref="id-018-chapter018_xhtml" linear="yes" />
-		<itemref idref="id-019-chapter019_xhtml" linear="yes" />
-		<itemref idref="id-020-chapter020_xhtml" linear="yes" />
-		<itemref idref="id-021-chapter021_xhtml" linear="yes" />
-		<itemref idref="id-022-chapter022_xhtml" linear="yes" />
-		<itemref idref="id-023-chapter023_xhtml" linear="yes" />
-		<itemref idref="id-024-chapter024_xhtml" linear="yes" />
-		<itemref idref="id-025-chapter025_xhtml" linear="yes" />
-		<itemref idref="id-026-chapter026_xhtml" linear="yes" />
-		<itemref idref="id-027-chapter027_xhtml" linear="yes" />
-		<itemref idref="id-028-chapter028_xhtml" linear="yes" />
 		<itemref idref="id-999-aside_xhtml" linear="yes" />
 
 	</spine>
