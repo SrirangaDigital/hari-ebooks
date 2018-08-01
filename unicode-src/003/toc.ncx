@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns:ncx="http://www.daisy.org/z3986/2005/ncx/" xmlns="http://www.daisy.org/z3986/2005/ncx/"
+    version="2005-1" xml:lang="en">
+
+   <head>
+      <meta name="dtb:uid" content="urn:isbn:9789388114400"/>
+      <meta name="dtb:depth" content="1"/>
+      <meta name="dtb:totalPageCount" content="0"/>
+      <meta name="dtb:maxPageNumber" content="0"/>
+   </head>
+
+   <docTitle>
+      <text>ಮಾತೇ ಮುತ್ತು </text>
+   </docTitle>
+
+   <navMap>
+		
+<navPoint id="navPoint-1" playOrder="1">
+<navLabel><text>Title Page</text></navLabel><content src="000a-title.xhtml#id-000a"/>
+</navPoint>
+<navPoint id="navPoint-2" playOrder="2">
+<navLabel><text>Copyright</text></navLabel><content src="000b-copyright.xhtml#id-000b.1"/>
+</navPoint>
+<navPoint id="navPoint-3" playOrder="3">
+<navLabel><text>ನುಡಿ ತೋರಣ</text></navLabel><content src="000d-preface.xhtml#id-000d.1"/>
+</navPoint>
+<navPoint id="navPoint-4" playOrder="4">
+<navLabel><text>ಪ್ರಸ್ತಾವನೆ</text></navLabel><content src="000e-preface.xhtml#id-000e.1"/>
+</navPoint>
+<navPoint id="navPoint-5" playOrder="5">
+<navLabel><text>ಪ್ರಕಾಶಕರ ಮಾತು</text></navLabel><content src="000f-preface.xhtml#id-000f.1"/>
+</navPoint>
+<navPoint id="navPoint-6" playOrder="6">
+<navLabel><text>೦೧ –  :: ಶಿಲಾಶಾಸನಗಳ ಕವಿಗಳು ಕಂಡ ಗಣೇಶ</text></navLabel><content src="001-chapter001.xhtml#id-001"/>
+<navPoint id="navPoint-7" playOrder="7">
+<navLabel><text>ಶಾಸನದ ಕವಿಗಳು:</text></navLabel><content src="001-chapter001.xhtml#id-001.01"/>
+</navPoint>
+<navPoint id="navPoint-8" playOrder="8">
+<navLabel><text>ಬಾಲಗಣೇಶ:</text></navLabel><content src="001-chapter001.xhtml#id-001.02"/>
+</navPoint>
+<navPoint id="navPoint-9" playOrder="9">
+<navLabel><text>ಗಜಮುಖ ಗಣೇಶ:</text></navLabel><content src="001-chapter001.xhtml#id-001.03"/>
+</navPoint>
+<navPoint id="navPoint-10" playOrder="10">
+<navLabel><text>ಸರ್ವೋಚ್ಚ ದೇವತೆಯಾಗಿ ಗಣಪತಿ:</text></navLabel><content src="001-chapter001.xhtml#id-001.04"/>
+</navPoint>
+<navPoint id="navPoint-11" playOrder="11">
+<navLabel><text>ಆಕರ ಮತ್ತು ಪರಾಮರ್ಶನ ಗ್ರಂಥಗಳು:</text></navLabel><content src="001-chapter001.xhtml#id-001.05"/>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-12" playOrder="12">
+<navLabel><text>೦೨ –  :: ದೇವರಿಗೆ ಯಾರು ಯಾರು ಇಷ್ಟ?</text></navLabel><content src="002-chapter002.xhtml#id-002"/>
+</navPoint>
+<navPoint id="navPoint-13" playOrder="13">
+<navLabel><text>೦೩ –  :: ಶತರುದ್ರೀಯ ಒಂದು ಅಧ್ಯಯನ</text></navLabel><content src="003-chapter003.xhtml#id-003"/>
+<navPoint id="navPoint-14" playOrder="14">
+<navLabel><text>ಯಾರು ಈ ರುದ್ರ?</text></navLabel><content src="003-chapter003.xhtml#id-003.01"/>
+</navPoint>
+<navPoint id="navPoint-15" playOrder="15">
+<navLabel><text>ಈ ರುದ್ರ ಬರಸಿಡಿಲಲ್ಲದೆ ಇನ್ನೇನು?</text></navLabel><content src="003-chapter003.xhtml#id-003.02"/>
+</navPoint>
+<navPoint id="navPoint-16" playOrder="16">
+<navLabel><text>ನುಡಿನಮನದೊಡಗೂಡಿದ ಅಭಿಷೇಕ:</text></navLabel><content src="003-chapter003.xhtml#id-003.03"/>
+</navPoint>
+<navPoint id="navPoint-17" playOrder="17">
+<navLabel><text>ರುದ್ರನಿಗೆ ನೀರಿನಿಂದಲೇ ಅಭಿಷೇಕ?</text></navLabel><content src="003-chapter003.xhtml#id-003.04"/>
+</navPoint>
+<navPoint id="navPoint-18" playOrder="18">
+<navLabel><text>ಎಲ್ಲೆಲ್ಲೂ, ಶಿವನೇ, ನೀನು ನೀನೇ!</text></navLabel><content src="003-chapter003.xhtml#id-003.05"/>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-19" playOrder="19">
+<navLabel><text>೦೪ –  :: ಹರಿಹರನು ಬೆಳಗಿದ ಭಕ್ತನೊಬ್ಬನ ಚಿತ್ರ: ಇಳೆಯಾಂಡ ಗುಡಿಮಾರ</text></navLabel><content src="004-chapter004.xhtml#id-004"/>
+<navPoint id="navPoint-20" playOrder="20">
+<navLabel><text>ಆಕರಗಳು</text></navLabel><content src="004-chapter004.xhtml#id-004.01"/>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-21" playOrder="21">
+<navLabel><text>೦೫ – :: ಕೆಲವು ಕವಿಗಳ ದೃಷ್ಟಿಯಲ್ಲಿ ವಸಂತ!</text></navLabel><content src="005-chapter005.xhtml#id-005"/>
+<navPoint id="navPoint-22" playOrder="22">
+<navLabel><text>ಅಮೆರಿಕಾದ ಕೆಲವು ಕವಿಗಳು ಕಂಡ ವಸಂತ:</text></navLabel><content src="005-chapter005.xhtml#id-005.01"/>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-23" playOrder="23">
+<navLabel><text>೦೬ –  :: ವಿನಾಯಕ ಕೃಷ್ಣ ಗೋಕಾಕರ 'ಇಂದಿಲ್ಲ ನಾಳೆ' </text></navLabel><content src="006-chapter006.xhtml#id-006"/>
+<navPoint id="navPoint-24" playOrder="24">
+<navLabel><text>ಆಕರ ಮತ್ತು ಪರಾಮರ್ಶನ ಗ್ರಂಥಗಳು:</text></navLabel><content src="006-chapter006.xhtml#id-006.01"/>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-25" playOrder="25">
+<navLabel><text>೦೭ – :: ಡಾ| ಜಿ. ಎಸ್. ಶಿವರುದ್ರಪ್ಪನವರ ಕಾವ್ಯದಲ್ಲಿವಿಡಂಬನೆಯ ಸೊಗಸು</text></navLabel><content src="007-chapter007.xhtml#id-007"/>
+<navPoint id="navPoint-26" playOrder="26">
+<navLabel><text>ಹಾರೈಕೆ</text></navLabel><content src="007-chapter007.xhtml#id-007.01"/>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-27" playOrder="27">
+<navLabel><text>೦೮ – :: ಪುತಿನ ಕಾವ್ಯ - ಒಂದು ಸಮೀಕ್ಷೆ</text></navLabel><content src="008-chapter008.xhtml#id-008"/>
+</navPoint>
+<navPoint id="navPoint-28" playOrder="28">
+<navLabel><text>ಅನುಬಂಧ - ಡಾ| ಪುತಿನ ಪ್ರತಿಷ್ಠಾನ- ಒಂದು ಇಣುಕು ನೋಟ!</text></navLabel><content src="008-chapter008.xhtml#id-008a"/>
+<navPoint id="navPoint-29" playOrder="29">
+<navLabel><text>ಪ್ರತಿಷ್ಠಾನದ ಕಾರ್ಯಕಾರೀ ಸಮಿತಿ:</text></navLabel><content src="008-chapter008.xhtml#id-008a.01"/>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-30" playOrder="30">
+<navLabel><text>ಪ್ರತಿಷ್ಠಾನವು ಈವರೆಗೆ ಕೈಕೊಂಡ ಕಾರ್ಯಕ್ರಮಗಳು</text></navLabel><content src="008-chapter008.xhtml#id-008b"/>
+<navPoint id="navPoint-31" playOrder="31">
+<navLabel><text>೧. ಪುತಿನ ಸಾಂಸ್ಕೃತಿಕ ಸ್ಮರಣಾಲಯ: </text></navLabel><content src="008-chapter008.xhtml#id-008b.01"/>
+</navPoint>
+<navPoint id="navPoint-32" playOrder="32">
+<navLabel><text>೨. ಪುತಿನ ಪ್ರತಿಷ್ಠಾನದ ಪ್ರಕಟಣೆಗಳು: </text></navLabel><content src="008-chapter008.xhtml#id-008b.02"/>
+</navPoint>
+<navPoint id="navPoint-33" playOrder="33">
+<navLabel><text>೩. ಪುತಿನ ಪುರಸ್ಕಾರ: </text></navLabel><content src="008-chapter008.xhtml#id-008b.03"/>
+</navPoint>
+<navPoint id="navPoint-34" playOrder="34">
+<navLabel><text>೪. ಪುತಿನ ಸುವರ್ಣಪದಕ: </text></navLabel><content src="008-chapter008.xhtml#id-008b.04"/>
+</navPoint>
+<navPoint id="navPoint-35" playOrder="35">
+<navLabel><text>೫. ಪುತಿನ ರಂಗಮಂದಿರ: </text></navLabel><content src="008-chapter008.xhtml#id-008b.05"/>
+</navPoint>
+<navPoint id="navPoint-36" playOrder="36">
+<navLabel><text>ಸಂಪನ್ಮೂಲಗಳ ಕ್ರೋಢೀಕರಣ ಮತ್ತು ಮನವಿ: </text></navLabel><content src="008-chapter008.xhtml#id-008b.06"/>
+</navPoint>
+<navPoint id="navPoint-37" playOrder="37">
+<navLabel><text>ಕನ್ನಡಿಗರಲ್ಲಿ ಒಂದು ಮನವಿ: </text></navLabel><content src="008-chapter008.xhtml#id-008b.07"/>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-38" playOrder="38">
+<navLabel><text>೦೯ –  :: ಗೋಪಾಲ ಕೃಷ್ಣ ಅಡಿಗರ 'ನನ್ನ ಅವತಾರ'</text></navLabel><content src="009-chapter009.xhtml#id-009"/>
+</navPoint>
+<navPoint id="navPoint-39" playOrder="39">
+<navLabel><text>೧೦ –  :: ಕೆ.ಎಸ್. ನರಸಿಂಹಸ್ವಾಮಿಗಳು: ಒಂದು ನೆನಪು</text></navLabel><content src="010-chapter010.xhtml#id-010"/>
+</navPoint>
+<navPoint id="navPoint-40" playOrder="40">
+<navLabel><text>೧೧ –  :: ಕತೆಗಾರ 'ಅನಕೃ''</text></navLabel><content src="011-chapter011.xhtml#id-011"/>
+<navPoint id="navPoint-41" playOrder="41">
+<navLabel><text>ಆಕರ ಮತ್ತು ಪರಾಮರ್ಶನ ಗ್ರಂಥಗಳು:</text></navLabel><content src="011-chapter011.xhtml#id-011.01"/>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-42" playOrder="42">
+<navLabel><text>೧೨ –  :: ಚಂದ್ರಶೇಖರ ಕಂಬಾರ - ಒಂದು ವಿವೇಚನೆ</text></navLabel><content src="012-chapter012.xhtml#id-012"/>
+</navPoint>
+<navPoint id="navPoint-43" playOrder="43">
+<navLabel><text>೧೨ –  :: ೧೩ :: ಬನ್ನಂಜೆಯವರ ಸಾಹಿತ್ಯ ಸಾಧನೆ</text></navLabel><content src="013-chapter013.xhtml#id-013"/>
+</navPoint>
+<navPoint id="navPoint-44" playOrder="44">
+<navLabel><text>೧೪ –  :: ರಂಗಸಂಗೀತದ ಕೆಲವು ಆಯಾಮಗಳು</text></navLabel><content src="014-chapter014.xhtml#id-014"/>
+<navPoint id="navPoint-45" playOrder="45">
+<navLabel><text>ಆಕರ ಗ್ರಂಥಗಳ ಮತ್ತು ಅಧ್ಯಯನ ಸಾಮಗ್ರಿಗಳ ಸಂಕ್ಷಿಪ್ತ ವಿವರಣಾತ್ಮಕ ಸೂಚಿ:</text></navLabel><content src="014-chapter014.xhtml#id-014.01"/>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-46" playOrder="46">
+<navLabel><text>೧೫ –  :: ಬೇಕು: ಕನ್ನಡ ಸಾಹಿತ್ಯ ಮಾಹಿತಿಗೊಂದು ಒಳ್ಳೆಯ ಜಾಲತಾಣ</text></navLabel><content src="015-chapter015.xhtml#id-015"/>
+</navPoint>
+<navPoint id="navPoint-47" playOrder="47">
+<navLabel><text>೧೬ –  :: ಬರೆಯಬಲ್ಲವರಿಗೆ ಪ್ರೋತ್ಸಾಹದ ಪೋಷಣೆ</text></navLabel><content src="016-chapter016.xhtml#id-016"/>
+</navPoint>
+<navPoint id="navPoint-48" playOrder="48">
+<navLabel><text>ಇದೇ ಲೇಖಕರ ಇತರ ಕೃತಿಗಳು</text></navLabel><content src="017-chapter017.xhtml#id-017"/>
+<navPoint id="navPoint-49" playOrder="49">
+<navLabel><text>ಪ್ರಕಟಿತ ಕೃತಿಗಳು:</text></navLabel><content src="017-chapter017.xhtml#id-017.01"/>
+</navPoint>
+<navPoint id="navPoint-50" playOrder="50">
+<navLabel><text>ಪ್ರಧಾನ ಸಂಪಾದಕ:</text></navLabel><content src="017-chapter017.xhtml#id-017.02"/>
+</navPoint>
+<navPoint id="navPoint-51" playOrder="51">
+<navLabel><text>ಸಹ-ಸಂಪಾದಕ:</text></navLabel><content src="017-chapter017.xhtml#id-017.03"/>
+</navPoint>
+<navPoint id="navPoint-52" playOrder="52">
+<navLabel><text>ಪ್ರಕಟಣೆಯ ವಿವಿಧ ಹಂತಗಳಲ್ಲಿ:</text></navLabel><content src="017-chapter017.xhtml#id-017.04"/>
+</navPoint>
+</navPoint>
+   </navMap>
+</ncx>

@@ -10,7 +10,7 @@
    </head>
 
    <docTitle>
-      <text>ಮಾತಿನ ಚಾವಡಿ   </text>
+      <text>ಮಾತಿನ ಚಾವಡಿ </text>
    </docTitle>
 
    <navMap>
@@ -60,25 +60,25 @@
 <navPoint id="navPoint-15" playOrder="15">
 <navLabel><text>೦೮ –  :: ನವಿರು ಮನಸ್ಸಿನ ಬಂಧುರ ಅಭಿವ್ಯಕ್ತಿ ಜಯಪ್ಪ ಹೊನ್ನಾಳಿ</text></navLabel><content src="008-chapter008.xhtml#id-008"/>
 <navPoint id="navPoint-16" playOrder="16">
-<navLabel><text>ಹುಲ್ಲಿನ ಮನೆ:</text></navLabel><content src="008-chapter008.xhtml#id-008.01"/>
+<navLabel><text>ಹುಲ್ಲಿನ ಮನೆ: </text></navLabel><content src="008-chapter008.xhtml#id-008.01"/>
 </navPoint>
 <navPoint id="navPoint-17" playOrder="17">
 <navLabel><text>ಎಲ್ಲಿ ಹೋಯ್ತ ನಿನ್ನ ಪ್ರೀತಿ?</text></navLabel><content src="008-chapter008.xhtml#id-008.02"/>
 </navPoint>
 <navPoint id="navPoint-18" playOrder="18">
-<navLabel><text>ಕುವೆಂಪು ನುಡಿನಮನ:</text></navLabel><content src="008-chapter008.xhtml#id-008.03"/>
+<navLabel><text>ಕುವೆಂಪು ನುಡಿನಮನ: </text></navLabel><content src="008-chapter008.xhtml#id-008.03"/>
 </navPoint>
 <navPoint id="navPoint-19" playOrder="19">
-<navLabel><text>'ಹೂರಣ-ತೋರಣ':</text></navLabel><content src="008-chapter008.xhtml#id-008.04"/>
+<navLabel><text>'ಹೂರಣ-ತೋರಣ': </text></navLabel><content src="008-chapter008.xhtml#id-008.04"/>
 </navPoint>
 <navPoint id="navPoint-20" playOrder="20">
-<navLabel><text>'ಭಾವ ಬೆಳದಿಂಗಳು':</text></navLabel><content src="008-chapter008.xhtml#id-008.05"/>
+<navLabel><text>'ಭಾವ ಬೆಳದಿಂಗಳು': </text></navLabel><content src="008-chapter008.xhtml#id-008.05"/>
 </navPoint>
 </navPoint>
 <navPoint id="navPoint-21" playOrder="21">
 <navLabel><text>೦೯ –  :: ತೇಜ ನಿನದಗಳ ಅಂಕುರಾರ್ಪಣ 'ಚುಟುಕು ವರ್ಷಿಣಿ'</text></navLabel><content src="009-chapter009.xhtml#id-009"/>
 <navPoint id="navPoint-22" playOrder="22">
-<navLabel><text>ತೇಜಸ್ವಿನಿ ಅರಸ್ ಅವರಿಗೆ ಸಂದ ಪ್ರಶಸ್ತಿಗಳು:</text></navLabel><content src="009-chapter009.xhtml#id-009-01"/>
+<navLabel><text>ತೇಜಸ್ವಿನಿ ಅರಸ್ ಅವರಿಗೆ ಸಂದ ಪ್ರಶಸ್ತಿಗಳು: </text></navLabel><content src="009-chapter009.xhtml#id-009-01"/>
 </navPoint>
 </navPoint>
 <navPoint id="navPoint-23" playOrder="23">
@@ -87,7 +87,7 @@
 <navPoint id="navPoint-24" playOrder="24">
 <navLabel><text>೧೧ –  :: ಬೆಚ್ಚನೆಯ ಚಿಂತನೆಗಳ ಪ್ರಯೋಗದ ಕೆಚ್ಚು 'ಮೀನಿನ ಹೆಜ್ಜೆ' ಮತ್ತು 'ಮಾಯಾವಿ ಸರೋವರ'</text></navLabel><content src="011-chapter011.xhtml#id-011"/>
 <navPoint id="navPoint-25" playOrder="25">
-<navLabel><text>ಮಾಯಾವಿ ಸರೋವರ:</text></navLabel><content src="011-chapter011.xhtml#id-0011-01"/>
+<navLabel><text>ಮಾಯಾವಿ ಸರೋವರ: </text></navLabel><content src="011-chapter011.xhtml#id-0011-01"/>
 </navPoint>
 </navPoint>
 <navPoint id="navPoint-26" playOrder="26">
@@ -102,26 +102,26 @@
 <navPoint id="navPoint-29" playOrder="29">
 <navLabel><text>೧೪ –  :: ವ್ಯಾವಹಾರಿಕ ಮಿಥ್ಯೆಯಲ್ಲಿ ಆಧ್ಯಾತ್ಮಿಕ ತಥ್ಯ ದರ್ಶಿಸಿದವನ ನಡೆ 'ಕನಕದಾಸ'</text></navLabel><content src="014-chapter014.xhtml#id-014"/>
 <navPoint id="navPoint-30" playOrder="30">
-<navLabel><text>ಮೋಹನ ತರಂಗಿಣಿ:</text></navLabel><content src="014-chapter014.xhtml#id-014.01"/>
+<navLabel><text>ಮೋಹನ ತರಂಗಿಣಿ: </text></navLabel><content src="014-chapter014.xhtml#id-014.01"/>
 </navPoint>
 <navPoint id="navPoint-31" playOrder="31">
-<navLabel><text>ನಳಚರಿತ್ರೆ:</text></navLabel><content src="014-chapter014.xhtml#id-014.02"/>
+<navLabel><text>ನಳಚರಿತ್ರೆ: </text></navLabel><content src="014-chapter014.xhtml#id-014.02"/>
 </navPoint>
 <navPoint id="navPoint-32" playOrder="32">
-<navLabel><text>ಹರಿಭಕ್ತಿಸಾರ:</text></navLabel><content src="014-chapter014.xhtml#id-014.03"/>
+<navLabel><text>ಹರಿಭಕ್ತಿಸಾರ: </text></navLabel><content src="014-chapter014.xhtml#id-014.03"/>
 </navPoint>
 <navPoint id="navPoint-33" playOrder="33">
-<navLabel><text>ರಾಮಧಾನ್ಯಚರಿತ್ರೆ:</text></navLabel><content src="014-chapter014.xhtml#id-014.04"/>
+<navLabel><text>ರಾಮಧಾನ್ಯಚರಿತ್ರೆ: </text></navLabel><content src="014-chapter014.xhtml#id-014.04"/>
 </navPoint>
 <navPoint id="navPoint-34" playOrder="34">
-<navLabel><text>ಕನಕದಾಸರ ಕೀರ್ತನೆಗಳು:</text></navLabel><content src="014-chapter014.xhtml#id-014.05"/>
+<navLabel><text>ಕನಕದಾಸರ ಕೀರ್ತನೆಗಳು: </text></navLabel><content src="014-chapter014.xhtml#id-014.05"/>
 </navPoint>
 <navPoint id="navPoint-35" playOrder="35">
-<navLabel><text>ಪರಾಮರ್ಶನ ಗ್ರಂಥ ಸೂಚಿ:</text></navLabel><content src="014-chapter014.xhtml#id-014.06"/>
+<navLabel><text>ಪರಾಮರ್ಶನ ಗ್ರಂಥ ಸೂಚಿ: </text></navLabel><content src="014-chapter014.xhtml#id-014.06"/>
 </navPoint>
 </navPoint>
 <navPoint id="navPoint-36" playOrder="36">
-<navLabel><text>೧೫ –  :: ನೋಡಲು ಹಿಂಜರಿಯುವ ನಾಣ್ಯದಇನ್ನೊಂದು ಮುಖ'ಮಾಂಗಲ್ಯ'</text></navLabel><content src="015-chapter015.xhtml#id-015"/>
+<navLabel><text>೧೫ –  :: ನೋಡಲು ಹಿಂಜರಿಯುವ ನಾಣ್ಯದ ಇನ್ನೊಂದು ಮುಖ'ಮಾಂಗಲ್ಯ'</text></navLabel><content src="015-chapter015.xhtml#id-015"/>
 </navPoint>
 <navPoint id="navPoint-37" playOrder="37">
 <navLabel><text>೧೬ –  :: ಅಭಿವ್ಯಕ್ತಿಯ ಬಂಧುರ ಹಂದರ 'ಭಾವನಮನ'</text></navLabel><content src="016-chapter016.xhtml#id-016"/>
@@ -159,7 +159,7 @@
 <navPoint id="navPoint-48" playOrder="48">
 <navLabel><text>೨೧ –  :: ಮಾನವೀಯ ಪರಿಕಲ್ಪನೆಯ ವಿನ್ಯಾಸಗಳು 'ಕಾವ್ಯವಲ್ಲರಿ ಮತ್ತು ಅನಿವಾಸಿ ಕತೆಗಳು'</text></navLabel><content src="021-chapter021.xhtml#id-021"/>
 <navPoint id="navPoint-49" playOrder="49">
-<navLabel><text>ಅನಿವಾಸಿ ಮತ್ತು ಇತರೆ ಕತೆಗಳು:</text></navLabel><content src="021-chapter021.xhtml#id-021.01"/>
+<navLabel><text>ಅನಿವಾಸಿ ಮತ್ತು ಇತರೆ ಕತೆಗಳು: </text></navLabel><content src="021-chapter021.xhtml#id-021.01"/>
 </navPoint>
 </navPoint>
 <navPoint id="navPoint-50" playOrder="50">
@@ -180,7 +180,7 @@
 <navPoint id="navPoint-55" playOrder="55">
 <navLabel><text>೨೭ –  :: ಸೋಮರಾಜರಸಚರಿತಾಮೃತ 'ಭರದ್ವಾಜ'</text></navLabel><content src="027-chapter027.xhtml#id-027"/>
 <navPoint id="navPoint-56" playOrder="56">
-<navLabel><text>ಯಾವುದೀ ವಿಶೇಷ ಪ್ರಶಸ್ತಿ?:</text></navLabel><content src="027-chapter027.xhtml#id-027.01"/>
+<navLabel><text>ಯಾವುದೀ ವಿಶೇಷ ಪ್ರಶಸ್ತಿ?: </text></navLabel><content src="027-chapter027.xhtml#id-027.01"/>
 </navPoint>
 </navPoint>
 <navPoint id="navPoint-57" playOrder="57">
