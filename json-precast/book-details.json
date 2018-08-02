@@ -2,29 +2,29 @@
     "books": {
         "001": {
             "language": "kan",
-            "identifier": "hari_ebooks/H001",
+            "identifier": "hari_ebooks/001",
             "isbn": "9789388114387",
             "title": "ಮುಕ್ತಕ ಕನ್ನಡ ",
             "creators": {
                 "author": "Shikaripura Harihareshwara"
             },
             "category": "",
-            "publisher": "shree Rajendra printers & publication",
+            "publisher": "Sriranga Digital",
             "pages": "216",
-            "description": "Geeta-Guccha (A collection of poem in kannada translated from sanskrit)"
+            "description": ""
         },
         "002": {
             "language": "kan",
             "identifier": "hari_ebooks/002",
-            "isbn": "9789388114387",
-            "title": "ಮುಕ್ತಕ ಕನ್ನಡ ",
+            "isbn": "9789388114394",
+            "title": "ಶ್ರೀ ಸತ್ಯನಾರಾಯಣ ಪೂಜೆ  ",
             "creators": {
                 "author": "Shikaripura Harihareshwara"
             },
             "category": "",
-            "publisher": "shree Rajendra printers & publication",
+            "publisher": "Sriranga Digital",
             "pages": "216",
-            "description": "Geeta-Guccha (A collection of poem in kannada translated from sanskrit)"
+            "description": ""
         },
         "003": {
             "language": "kan",
@@ -35,9 +35,9 @@
                 "author": "Shikaripura Harihareshwara"
             },
             "category": "",
-            "publisher": "Sri Sadhguru Printers",
+            "publisher": "Sriranga Digital",
             "pages": "186",
-            "description": "A collection of essays in Kannada"
+            "description": ""
         },
         "004": {
             "language": "kan",
@@ -48,9 +48,9 @@
                 "author": "Shikaripura Harihareshwara"
             },
             "category": "",
-            "publisher": "Keerthan Graphics Mysore",
+            "publisher": "Sriranga Digital",
             "pages": "164",
-            "description": "A Book published by shikaripura harihareswara"
+            "description": ""
         },
          "005": {
             "language": "kan",
@@ -58,12 +58,12 @@
             "isbn": "9789388114424",
             "title": "ಶ್ರೀ ಪುರಂದರದಾಸರು (ಗೀತ ಪ್ರಧಾನ ನಾಟಕ)",
             "creators": {
-                "author": "ನಾಗಲಕ್ಷ್ಮೀ ಹರಿಹರೇಶ್ವರ"
+                "author": "Shikaripura Harihareshwara"
             },
             "category": "",
-            "publisher": "",
+            "publisher": "Sriranga Digital",
             "pages": "76",
-            "description": "A Book published by shikaripura harihareswara"
+            "description": ""
         },
          "010": {
             "language": "kan",
@@ -71,12 +71,12 @@
             "isbn": "9789388114479",
             "title": "ಜಾನ್​ನ  ಸುವಾರ್ತೆ ",
             "creators": {
-                "author": "ನಾಗಲಕ್ಷ್ಮೀ ಹರಿಹರೇಶ್ವರ"
+                "author": "Shikaripura Harihareshwara"
             },
             "category": "",
-            "publisher": "",
+            "publisher": "Sriranga Digital",
             "pages": "321",
-            "description": "Ondu Adhyana(A study of St.John's Gospel in the Bible) in Kannada by Shikaripura Harihareswara"
+            "description": ""
         },
          "011": {
             "language": "kan",
@@ -84,25 +84,25 @@
             "isbn": "9789388114486",
             "title": "ಮೊದಲ ಹೆಜ್ಜೆಗಳು",
             "creators": {
-                "author": "ನಾಗಲಕ್ಷ್ಮೀ ಹರಿಹರೇಶ್ವರ"
+                "author": "Shikaripura Harihareshwara"
             },
             "category": "",
-            "publisher": "",
+            "publisher": "Sriranga Digital",
             "pages": "72",
-            "description": "A collectios of poems in kannada by Shikaripura Harihareshwara"
+            "description": ""
         },
          "012": {
             "language": "kan",
-            "identifier": "hari_ebooks/011",
+            "identifier": "hari_ebooks/012",
             "isbn": "9789388114493",
             "title": "ಗುಬ್ಬಿ ಗುಬ್ಬಚ್ಚಿ (ಒಂದು ವಿವೇಚನೆ)",
             "creators": {
-                "author": "ನಾಗಲಕ್ಷ್ಮೀ ಹರಿಹರೇಶ್ವರ"
+                "author": "Shikaripura Harihareshwara"
             },
             "category": "",
-            "publisher": "",
+            "publisher": "Sriranga Digital",
             "pages": "160",
-            "description": "(A literary linguistics discussion in Kannada) by Shikaripura Harihareshwara"
+            "description": ""
         },
          "013": {
             "language": "kan",
@@ -110,12 +110,12 @@
             "isbn": "9789388114509",
             "title": "ಗೀತ ಗುಚ್ಛ ",
             "creators": {
-                "author": "ನಾಗಲಕ್ಷ್ಮೀ ಹರಿಹರೇಶ್ವರ"
+                "author": "Shikaripura Harihareshwara"
             },
             "category": "",
-            "publisher": "",
+            "publisher": "Sriranga Digital",
             "pages": "216",
-            "description": "Geeta-Guccha (A collection of poem in kannada translated from sanskrit)"
+            "description": ""
         },
          "014": {
             "language": "kan",
@@ -123,12 +123,12 @@
             "isbn": "9789388114516",
             "title": "ಮೌನ ಮಾತನಾಡಿಸಿದಾಗ  ",
             "creators": {
-                "author": "ನಾಗಲಕ್ಷ್ಮೀ ಹರಿಹರೇಶ್ವರ"
+                "author": "Shikaripura Harihareshwara"
             },
             "category": "",
-            "publisher": "",
+            "publisher": "Sriranga Digital",
             "pages": "294",
-            "description": "[To the Memory of Shikaripura Harihareswara]- Collected and Edited by Smt: Nagalakshmi Harihareswara"
+            "description": ""
         },
          "015": {
             "language": "kan",
@@ -136,12 +136,12 @@
             "isbn": "9789388114523",
             "title": "ಮಾತಿನ ಚಾವಡಿ ",
             "creators": {
-                "author": "ನಾಗಲಕ್ಷ್ಮೀ ಹರಿಹರೇಶ್ವರ"
+                "author": "Shikaripura Harihareshwara"
             },
             "category": "",
-            "publisher": "",
+            "publisher": "Sriranga Digital",
             "pages": "252",
-            "description": "A Platform for Speeches A collection of Essays and Book Reviews in Kannada"
+            "description": ""
         },
          "016": {
             "language": "kan",
@@ -149,12 +149,12 @@
             "isbn": "9789388114530",
             "title": "ನಮ್ಮ ಕಾಶ್ಮೀರ   ",
             "creators": {
-                "author": "ನಾಗಲಕ್ಷ್ಮೀ ಹರಿಹರೇಶ್ವರ"
+                "author": "Shikaripura Harihareshwara"
             },
             "category": "",
-            "publisher": "",
+            "publisher": "Sriranga Digital",
             "pages": "176",
-            "description": "A Book published by shikaripura harihareswara"
+            "description": ""
         },
         "018": {
             "language": "kan",
@@ -162,10 +162,10 @@
             "isbn": "9789388114554",
             "title": "ಮಾತಿನ ಮಲ್ಲಿಗೆ",
             "creators": {
-                "author": "ಶಿಕಾರಿಪುರ ಹರಿಹರೇಶ್ವರ"
+                "author": "Shikaripura Harihareshwara"
             },
             "category": "",
-            "publisher": "",
+            "publisher": "Sriranga Digital",
             "pages": "",
             "description": ""
         },
@@ -175,10 +175,10 @@
             "isbn": "9789388114561",
             "title": "ಅಮೆರಿಕನ್ನಡದ ಕಥೆಗಳು",
             "creators": {
-                "editor": "ನಾಗಲಕ್ಷ್ಮೀ ಹರಿಹರೇಶ್ವರ"
+                "editor": "Nagalakshmi Harihareshwara"
             },
             "category": "",
-            "publisher": "",
+            "publisher": "Sriranga Digital",
             "pages": "438",
             "description": ""
         }, 
@@ -188,10 +188,10 @@
             "isbn": "9789388114578",
             "title": "ಅಮೆರಿಕನ್ನಡದ ಕವನಗಳು ",
             "creators": {
-                "editor": "ನಾಗಲಕ್ಷ್ಮೀ ಹರಿಹರೇಶ್ವರ"
+                "editor": "Nagalakshmi Harihareshwara"
             },
             "category": "",
-            "publisher": "",
+            "publisher": "Sriranga Digital",
             "pages": "216",
             "description": ""
         },
@@ -201,10 +201,10 @@
             "isbn": "9789388114585",
             "title": "ಅಮೆರಿಕನ್ನಡದ ಪ್ರಬಂಧಗಳು",
             "creators": {
-                "editor": "ನಾಗಲಕ್ಷ್ಮೀ ಹರಿಹರೇಶ್ವರ"
+                "editor": "Nagalakshmi Harihareshwara"
             },
             "category": "",
-            "publisher": "",
+            "publisher": "Sriranga Digital",
             "pages": "506",
             "description": ""
         }

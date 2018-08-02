@@ -5,12 +5,13 @@
 		<dc:language>kan</dc:language>
 		<dc:identifier id="isbn">urn:isbn:9789388114578</dc:identifier>
 		
-		<dc:creator id="editor1">ನಾಗಲಕ್ಷ್ಮೀ ಹರಿಹರೇಶ್ವರ</dc:creator>
+		<dc:creator id="editor1">Nagalakshmi Harihareshwara</dc:creator>
 		<meta refines="#editor1" property="role" scheme="marc:relators">edt</meta>    
 				
 		<dc:creator id="bookDesigner1">Sriranga Digital Software Technologies Private Limited</dc:creator>
 		<meta refines="#bookDesigner1" property="role" scheme="marc:relators">bkd</meta>    
 				
+		<dc:publisher>Sriranga Digital</dc:publisher>
 		<meta property="schema:accessMode">textual</meta>
 		<meta property="schema:accessMode">visual</meta>
 		<meta property="schema:accessModeSufficient">textual,visual</meta>		
@@ -18,7 +19,7 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilitySummary">The publication is missing alternative text for complex diagrams.</meta>
 		<meta property="schema:accessibilityAPI">ARIA</meta>
-		<meta property="dcterms:modified">2018-08-01T12:40:41Z</meta>
+		<meta property="dcterms:modified">2018-08-02T18:44:46Z</meta>
 	</metadata>
 	<manifest>
 		<item id="id-000a-title_xhtml" href="000a-title.xhtml" media-type="application/xhtml+xml" />
