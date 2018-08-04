@@ -37,684 +37,690 @@
 <navLabel><text>ಪ್ರಕಾಶಕರ ಮಾತು</text></navLabel><content src="000g-preface.xhtml#id-000g.1"/>
 </navPoint>
 <navPoint id="navPoint-8" playOrder="8">
-<navLabel><text>೧ – ಬಿನ್ನಹ</text></navLabel><content src="001-chapter001.xhtml#id-1"/>
+<navLabel><text>ಮುಕ್ತಕ ಕನ್ನಡ</text></navLabel><content src="000h-preface.xhtml#id-000h.1"/>
+</navPoint>
 <navPoint id="navPoint-9" playOrder="9">
+<navLabel><text>೧ – ಬಿನ್ನಹ</text></navLabel><content src="001-chapter001.xhtml#id-1"/>
+<navPoint id="navPoint-10" playOrder="10">
 <navLabel><text>೧ –  :: ನಾಂದಿ</text></navLabel><content src="001-chapter001.xhtml#id-001.01"/>
 </navPoint>
-<navPoint id="navPoint-10" playOrder="10">
+<navPoint id="navPoint-11" playOrder="11">
 <navLabel><text>೨ –  :: ನನ್ನೊಳಗೇ ನೀನಿರು!</text></navLabel><content src="001-chapter001.xhtml#id-001.02"/>
 </navPoint>
-<navPoint id="navPoint-11" playOrder="11">
+<navPoint id="navPoint-12" playOrder="12">
 <navLabel><text>೩ –  :: ನಮ್ಮ ಮಾತಲಿ ನೆಲಸು, ಹರಸು</text></navLabel><content src="001-chapter001.xhtml#id-001.03"/>
 </navPoint>
 </navPoint>
-<navPoint id="navPoint-12" playOrder="12">
-<navLabel><text>೨ – ಜಾಣ್ಮೆ -ವಿದ್ಯೆ </text></navLabel><content src="002-chapter002.xhtml#id-2"/>
 <navPoint id="navPoint-13" playOrder="13">
+<navLabel><text>೨ – ಜಾಣ್ಮೆ -ವಿದ್ಯೆ </text></navLabel><content src="002-chapter002.xhtml#id-2"/>
+<navPoint id="navPoint-14" playOrder="14">
 <navLabel><text>೪ –  :: ಏನು ವರ ಬೇಕು?</text></navLabel><content src="002-chapter002.xhtml#id-002.01"/>
 </navPoint>
-<navPoint id="navPoint-14" playOrder="14">
+<navPoint id="navPoint-15" playOrder="15">
 <navLabel><text>೫ –  :: ಒಂದೇ ಕಲ್ಲಿಗೆ ಮೂರು ಹಕ್ಕಿ</text></navLabel><content src="002-chapter002.xhtml#id-002.02"/>
 </navPoint>
-<navPoint id="navPoint-15" playOrder="15">
+<navPoint id="navPoint-16" playOrder="16">
 <navLabel><text>೬ –  :: ಇರುವುದಾದರೂ ಏಕೆ?</text></navLabel><content src="002-chapter002.xhtml#id-002.03"/>
 </navPoint>
-<navPoint id="navPoint-16" playOrder="16">
+<navPoint id="navPoint-17" playOrder="17">
 <navLabel><text>೭ –  :: ಬೆಳಕನ್ನೇ ಕತ್ತಲಾಗಿಸಿದ ಭೂಪ</text></navLabel><content src="002-chapter002.xhtml#id-002.04"/>
 </navPoint>
-<navPoint id="navPoint-17" playOrder="17">
-<navLabel><text>೮ –  ::ಇಂಥವರ ಮುಂದೆಯೇ ತಲೆ ಚಚ್ಚಿಕೊಳಲೇಕೆ?</text></navLabel><content src="002-chapter002.xhtml#id-002.05"/>
-</navPoint>
 <navPoint id="navPoint-18" playOrder="18">
-<navLabel><text>೯ –  :: ಜಗವೆಲ್ಲ ಮಲಗಿರಲು ನೀನೆದ್ದು ಜಾಗು!</text></navLabel><content src="002-chapter002.xhtml#id-002.06"/>
+<navLabel><text>೮ –  :: ಇಂಥವರ ಮುಂದೆಯೇ ತಲೆ ಚಚ್ಚಿಕೊಳಲೇಕೆ?</text></navLabel><content src="002-chapter002.xhtml#id-002.05"/>
 </navPoint>
 <navPoint id="navPoint-19" playOrder="19">
-<navLabel><text>೧೦ –  :: ನಾಳೆ ಬಪ್ಪುದು ನಮಗಿಂದೇ ಬರಲಿ!</text></navLabel><content src="002-chapter002.xhtml#id-002.07"/>
+<navLabel><text>೯ –  :: ಜಗವೆಲ್ಲ ಮಲಗಿರಲು ನೀನೆದ್ದು ಜಾಗು!</text></navLabel><content src="002-chapter002.xhtml#id-002.06"/>
 </navPoint>
 <navPoint id="navPoint-20" playOrder="20">
-<navLabel><text>೧೧ –  ::  ಇಂದು-ನಾಳೆ</text></navLabel><content src="002-chapter002.xhtml#id-002.08"/>
+<navLabel><text>೧೦ –  :: ನಾಳೆ ಬಪ್ಪುದು ನಮಗಿಂದೇ ಬರಲಿ!</text></navLabel><content src="002-chapter002.xhtml#id-002.07"/>
 </navPoint>
 <navPoint id="navPoint-21" playOrder="21">
-<navLabel><text>೧೨ –  :: ಆಪತ್ತಿಗೊದಗುವ ವಿದ್ಯೆ ಕಲಿತಿಲ್ಲವೇನಯ್ಯ?</text></navLabel><content src="002-chapter002.xhtml#id-002.09"/>
+<navLabel><text>೧೧ –  ::  ಇಂದು-ನಾಳೆ</text></navLabel><content src="002-chapter002.xhtml#id-002.08"/>
 </navPoint>
 <navPoint id="navPoint-22" playOrder="22">
-<navLabel><text>೧೩ –  :: ಬುದ್ಧಿಗೆ ಮದ್ದು</text></navLabel><content src="002-chapter002.xhtml#id-002.10"/>
+<navLabel><text>೧೨ –  :: ಆಪತ್ತಿಗೊದಗುವ ವಿದ್ಯೆ ಕಲಿತಿಲ್ಲವೇನಯ್ಯ?</text></navLabel><content src="002-chapter002.xhtml#id-002.09"/>
 </navPoint>
 <navPoint id="navPoint-23" playOrder="23">
-<navLabel><text>೧೪ –  :: ಕುರುಡರು ಯಾರು?</text></navLabel><content src="002-chapter002.xhtml#id-002.11"/>
+<navLabel><text>೧೩ –  :: ಬುದ್ಧಿಗೆ ಮದ್ದು</text></navLabel><content src="002-chapter002.xhtml#id-002.10"/>
 </navPoint>
 <navPoint id="navPoint-24" playOrder="24">
-<navLabel><text>೧೫ –  :: ಕೊಂಬು ಬಾಲವಿಲ್ಲದ ಪಶುವೇ</text></navLabel><content src="002-chapter002.xhtml#id-002.12"/>
+<navLabel><text>೧೪ –  :: ಕುರುಡರು ಯಾರು?</text></navLabel><content src="002-chapter002.xhtml#id-002.11"/>
 </navPoint>
 <navPoint id="navPoint-25" playOrder="25">
-<navLabel><text>೧೬ –  :: ನಂದಿತೇ ತಿಳಿವಿನ ಸೊಡರು?</text></navLabel><content src="002-chapter002.xhtml#id-002.13"/>
+<navLabel><text>೧೫ –  :: ಕೊಂಬು ಬಾಲವಿಲ್ಲದ ಪಶುವೇ</text></navLabel><content src="002-chapter002.xhtml#id-002.12"/>
 </navPoint>
 <navPoint id="navPoint-26" playOrder="26">
-<navLabel><text>೧೭ –  :: ವಿದ್ಯೆ ಶಿಕ್ಷಣ ಮತ್ತು ಗುರು</text></navLabel><content src="002-chapter002.xhtml#id-002.14"/>
+<navLabel><text>೧೬ –  :: ನಂದಿತೇ ತಿಳಿವಿನ ಸೊಡರು?</text></navLabel><content src="002-chapter002.xhtml#id-002.13"/>
 </navPoint>
 <navPoint id="navPoint-27" playOrder="27">
+<navLabel><text>೧೭ –  :: ವಿದ್ಯೆ ಶಿಕ್ಷಣ ಮತ್ತು ಗುರು</text></navLabel><content src="002-chapter002.xhtml#id-002.14"/>
+</navPoint>
+<navPoint id="navPoint-28" playOrder="28">
 <navLabel><text>೧೮ –  :: ಹೇಳ ಹೆಸರಿಲ್ಲದೆ ಬದುಕಿದರೆ ಅದು ಬಾಳೆ?</text></navLabel><content src="002-chapter002.xhtml#id-002.15"/>
 </navPoint>
 </navPoint>
-<navPoint id="navPoint-28" playOrder="28">
-<navLabel><text>೩ – ಗೆಳೆತನ</text></navLabel><content src="003-chapter003.xhtml#id-3"/>
 <navPoint id="navPoint-29" playOrder="29">
+<navLabel><text>೩ – ಗೆಳೆತನ</text></navLabel><content src="003-chapter003.xhtml#id-3"/>
+<navPoint id="navPoint-30" playOrder="30">
 <navLabel><text>೧೯ –  :: ಬಿರಿದ ಹೂವಾಗಿಸಿಕೋ ನಿನ್ನ ಮನಸ</text></navLabel><content src="003-chapter003.xhtml#id-003.01"/>
 </navPoint>
-<navPoint id="navPoint-30" playOrder="30">
+<navPoint id="navPoint-31" playOrder="31">
 <navLabel><text>೨೦ –  :: ಏನು ಬರುವುದು ಜೊತೆಗೆ?</text></navLabel><content src="003-chapter003.xhtml#id-003.02"/>
 </navPoint>
-<navPoint id="navPoint-31" playOrder="31">
+<navPoint id="navPoint-32" playOrder="32">
 <navLabel><text>೨೧ –  ::  ಏನು ಏನೂ ಬೇಡವೇ ಬೇಡ?</text></navLabel><content src="003-chapter003.xhtml#id-003.03"/>
 </navPoint>
-<navPoint id="navPoint-32" playOrder="32">
+<navPoint id="navPoint-33" playOrder="33">
 <navLabel><text>೨೨ –  :: ಏನು ನಂಟಿನ ಗುಟ್ಟು?</text></navLabel><content src="003-chapter003.xhtml#id-003.04"/>
 </navPoint>
-<navPoint id="navPoint-33" playOrder="33">
+<navPoint id="navPoint-34" playOrder="34">
 <navLabel><text>೨೩ –  :: ಹಗೆಯ ಹೆಸರಿಡು ಮಗನಿಗಕ್ಕರೆ ತೋರಿ!</text></navLabel><content src="003-chapter003.xhtml#id-003.05"/>
 </navPoint>
-<navPoint id="navPoint-34" playOrder="34">
+<navPoint id="navPoint-35" playOrder="35">
 <navLabel><text>೨೪ –  ::  ಬೆಣ್ಣೆ ಮಾತಾಡುವವರೇನು ಕಡಿಮೆ ಜನರಿಲ್ಲ</text></navLabel><content src="003-chapter003.xhtml#id-003.06"/>
 </navPoint>
 </navPoint>
-<navPoint id="navPoint-35" playOrder="35">
-<navLabel><text>೪ – ಔಚಿತ್ಯ </text></navLabel><content src="004-chapter004.xhtml#id-4"/>
 <navPoint id="navPoint-36" playOrder="36">
+<navLabel><text>೪ – ಔಚಿತ್ಯ </text></navLabel><content src="004-chapter004.xhtml#id-4"/>
+<navPoint id="navPoint-37" playOrder="37">
 <navLabel><text>೨೫ –  :: ಅತಿ ಬೇಡ ಎಲ್ಲಿಯೂ</text></navLabel><content src="004-chapter004.xhtml#id-004.01"/>
 </navPoint>
-<navPoint id="navPoint-37" playOrder="37">
+<navPoint id="navPoint-38" playOrder="38">
 <navLabel><text>೨೬ –  :: ತಲೆಯಿರದ ಮುಕುಟಧರ</text></navLabel><content src="004-chapter004.xhtml#id-004.02"/>
 </navPoint>
-<navPoint id="navPoint-38" playOrder="38">
+<navPoint id="navPoint-39" playOrder="39">
 <navLabel><text>೨೭ –  :: ಲಲ್ಲಳ ಕಿವಿಮಾತು</text></navLabel><content src="004-chapter004.xhtml#id-004.03"/>
 </navPoint>
-<navPoint id="navPoint-39" playOrder="39">
+<navPoint id="navPoint-40" playOrder="40">
 <navLabel><text>೨೮ –  :: ಹುಡುಕು, ಹತ್ತು ಹಿಂತಿರುಗದಾ ನೌಕೆ</text></navLabel><content src="004-chapter004.xhtml#id-004.04"/>
 </navPoint>
-<navPoint id="navPoint-40" playOrder="40">
+<navPoint id="navPoint-41" playOrder="41">
 <navLabel><text>೨೯ –  :: ಯಾರು ಯಾರಿಗೆ ಬೇಕು?</text></navLabel><content src="004-chapter004.xhtml#id-004.05"/>
 </navPoint>
-<navPoint id="navPoint-41" playOrder="41">
+<navPoint id="navPoint-42" playOrder="42">
 <navLabel><text>೩೦ –  :: ಎಷ್ಟೆಷ್ಟು ನಂಬಿದರೆ ಅಷ್ಟು ಸಿದ್ಧಿ</text></navLabel><content src="004-chapter004.xhtml#id-004.06"/>
 </navPoint>
-<navPoint id="navPoint-42" playOrder="42">
+<navPoint id="navPoint-43" playOrder="43">
 <navLabel><text>೩೧ –  :: ಗಾಳಿ ಜೊತೆ ಗುದ್ದಾಟ</text></navLabel><content src="004-chapter004.xhtml#id-004.07"/>
 </navPoint>
 </navPoint>
-<navPoint id="navPoint-43" playOrder="43">
-<navLabel><text>೫ – </text></navLabel><content src="005-chapter005.xhtml#id-5"/>
 <navPoint id="navPoint-44" playOrder="44">
+<navLabel><text>೫ – ಸಜ್ಜನಿಕೆ</text></navLabel><content src="005-chapter005.xhtml#id-5"/>
+<navPoint id="navPoint-45" playOrder="45">
 <navLabel><text>೩೨ –  :: ಯಾರವರ ಅರಿತಾರು?</text></navLabel><content src="005-chapter005.xhtml#id-005.01"/>
 </navPoint>
-<navPoint id="navPoint-45" playOrder="45">
+<navPoint id="navPoint-46" playOrder="46">
 <navLabel><text>೩೩ –  :: ಇದಿರ ಹಳಿಯಲು ಬೇಡ</text></navLabel><content src="005-chapter005.xhtml#id-005.02"/>
 </navPoint>
-<navPoint id="navPoint-46" playOrder="46">
+<navPoint id="navPoint-47" playOrder="47">
 <navLabel><text>೩೪ –  ::  ಹುಟ್ಟುಗುಣ ಬಿಟ್ಟೀತೇ?</text></navLabel><content src="005-chapter005.xhtml#id-005.03"/>
 </navPoint>
-<navPoint id="navPoint-47" playOrder="47">
+<navPoint id="navPoint-48" playOrder="48">
 <navLabel><text>೩೫ –  :: ಬೇಡ ಬೇಡ ಬೇಡ</text></navLabel><content src="005-chapter005.xhtml#id-005.04"/>
 </navPoint>
-<navPoint id="navPoint-48" playOrder="48">
+<navPoint id="navPoint-49" playOrder="49">
 <navLabel><text>೩೬ –  :: ಮುಖ ಮನಸ್ಸಿನ ಕನ್ನಡಿ</text></navLabel><content src="005-chapter005.xhtml#id-005.05"/>
 </navPoint>
-<navPoint id="navPoint-49" playOrder="49">
+<navPoint id="navPoint-50" playOrder="50">
 <navLabel><text>೩೭ –  :: ಒಳದನಿಯ ನುಡಿ ಕೇಳು</text></navLabel><content src="005-chapter005.xhtml#id-005.06"/>
 </navPoint>
-<navPoint id="navPoint-50" playOrder="50">
+<navPoint id="navPoint-51" playOrder="51">
 <navLabel><text>೩೮ –  :: ಫಲಬೇಡದವರನು ಹುಡುಕು</text></navLabel><content src="005-chapter005.xhtml#id-005.07"/>
 </navPoint>
-<navPoint id="navPoint-51" playOrder="51">
+<navPoint id="navPoint-52" playOrder="52">
 <navLabel><text>೩೯ –  :: ನಿನ್ನ ಊರಲ್ಲೇನೇ ನೀ ತಳವನೂರು!</text></navLabel><content src="005-chapter005.xhtml#id-005.08"/>
 </navPoint>
-<navPoint id="navPoint-52" playOrder="52">
+<navPoint id="navPoint-53" playOrder="53">
 <navLabel><text>೪೦ –  :: ಉಳಿದುಕೋ ಮುಳುಗದಿರು ಕಡಲಲ್ಲಿ ಮಡುವಲ್ಲಿ</text></navLabel><content src="005-chapter005.xhtml#id-005.09"/>
 </navPoint>
 </navPoint>
-<navPoint id="navPoint-53" playOrder="53">
-<navLabel><text>೬ – ವಿನಯ-ಗರ್ವ</text></navLabel><content src="006-chapter006.xhtml#id-6"/>
 <navPoint id="navPoint-54" playOrder="54">
+<navLabel><text>೬ – ವಿನಯ-ಗರ್ವ</text></navLabel><content src="006-chapter006.xhtml#id-6"/>
+<navPoint id="navPoint-55" playOrder="55">
 <navLabel><text>೪೧ – ::  ತಗ್ಗದೆ ಬಗ್ಗದೆ ಬೆಳೆದರೆ ತೊಂದರೆ</text></navLabel><content src="006-chapter006.xhtml#id-006.01"/>
 </navPoint>
-<navPoint id="navPoint-55" playOrder="55">
+<navPoint id="navPoint-56" playOrder="56">
 <navLabel><text>೪೨ – :: ಹಳೆಯದರಲ್ಲೂ ವಿಶೇಷತೆಯಿದೆ, ಸ್ವಾಮಿ</text></navLabel><content src="006-chapter006.xhtml#id-006.02"/>
 </navPoint>
-<navPoint id="navPoint-56" playOrder="56">
+<navPoint id="navPoint-57" playOrder="57">
 <navLabel><text>೪೩ – ::  ಮತ್ತನೇರಿಸಲು ಸಾಲದೇ ಈ ಏಳು ತೇರು?</text></navLabel><content src="006-chapter006.xhtml#id-006.03"/>
 </navPoint>
-<navPoint id="navPoint-57" playOrder="57">
+<navPoint id="navPoint-58" playOrder="58">
 <navLabel><text>೪೪ – :: ಕಣ್ಣಿದ್ದ ಕುರುಡರಿಗೆ ಕನ್ನಡಕವೇಕೆ?</text></navLabel><content src="006-chapter006.xhtml#id-006.04"/>
 </navPoint>
 </navPoint>
-<navPoint id="navPoint-58" playOrder="58">
-<navLabel><text>೭ – ಔದಾರ್ಯ-ಕೃತಜ್ಞತೆ</text></navLabel><content src="007-chapter007.xhtml#id-7"/>
 <navPoint id="navPoint-59" playOrder="59">
+<navLabel><text>೭ – ಔದಾರ್ಯ-ಕೃತಜ್ಞತೆ</text></navLabel><content src="007-chapter007.xhtml#id-7"/>
+<navPoint id="navPoint-60" playOrder="60">
 <navLabel><text>೪೫ –  :: ತನ್ನಂತೆ ಪರರ ಬಗೆ</text></navLabel><content src="007-chapter007.xhtml#id-007.01"/>
 </navPoint>
-<navPoint id="navPoint-60" playOrder="60">
+<navPoint id="navPoint-61" playOrder="61">
 <navLabel><text>೪೬  – :: ಎಲ್ಲರೂ ನಮ್ಮವರೆ, ನಮ್ಮ ಮನೆಯವರೇ</text></navLabel><content src="007-chapter007.xhtml#id-007.02"/>
 </navPoint>
-<navPoint id="navPoint-61" playOrder="61">
+<navPoint id="navPoint-62" playOrder="62">
 <navLabel><text>೪೭ –  :: ಪಾಪ-ಪುಣ್ಯದ ಚಹರೆ</text></navLabel><content src="007-chapter007.xhtml#id-007.03"/>
 </navPoint>
-<navPoint id="navPoint-62" playOrder="62">
+<navPoint id="navPoint-63" playOrder="63">
 <navLabel><text>೪೮ –  :: ಪರರಿಗೆಂತೋ ಅಂತೆ ತಾನು ತನಗೂ</text></navLabel><content src="007-chapter007.xhtml#id-007.04"/>
 </navPoint>
-<navPoint id="navPoint-63" playOrder="63">
+<navPoint id="navPoint-64" playOrder="64">
 <navLabel><text>೪೯  – :: ತಮಗಾಗಿಯೇ ಎಲ್ಲವೂ ಅಲ್ಲ</text></navLabel><content src="007-chapter007.xhtml#id-007.05"/>
 </navPoint>
-<navPoint id="navPoint-64" playOrder="64">
+<navPoint id="navPoint-65" playOrder="65">
 <navLabel><text>೫೦ –  :: ಮರೆಯುವರೆ ಉಪಕಾರವನು</text></navLabel><content src="007-chapter007.xhtml#id-007.06"/>
 </navPoint>
-<navPoint id="navPoint-65" playOrder="65">
+<navPoint id="navPoint-66" playOrder="66">
 <navLabel><text>೫೧ –  :: ನೀನಿಚ್ಛಿಸಿದಂತೆ ನನ್ನ ಬಾಳು</text></navLabel><content src="007-chapter007.xhtml#id-007.07"/>
 </navPoint>
-<navPoint id="navPoint-66" playOrder="66">
+<navPoint id="navPoint-67" playOrder="67">
 <navLabel><text>೫೨ –  :: ಮೌಲ್ಯಾಧಾರಿತ ಬದುಕಿನ ಬಯಕೆ</text></navLabel><content src="007-chapter007.xhtml#id-007.08"/>
 </navPoint>
 </navPoint>
-<navPoint id="navPoint-67" playOrder="67">
-<navLabel><text>೮. –  ಪೌರುಷ</text></navLabel><content src="008-chapter008.xhtml#id-8"/>
 <navPoint id="navPoint-68" playOrder="68">
+<navLabel><text>೮. –  ಪೌರುಷ</text></navLabel><content src="008-chapter008.xhtml#id-8"/>
+<navPoint id="navPoint-69" playOrder="69">
 <navLabel><text>೫೩ –  :: ಎತ್ತಿದನು ಹತ್ತಾವತಾರಗಳ!</text></navLabel><content src="008-chapter008.xhtml#id-008.01"/>
 </navPoint>
-<navPoint id="navPoint-69" playOrder="69">
+<navPoint id="navPoint-70" playOrder="70">
 <navLabel><text>೫೪ –  :: ಬೇರೆ ಯಾರೇತಕೆ ಬೇಕು ಆಸನವನೇರಲಿಕೆ</text></navLabel><content src="008-chapter008.xhtml#id-008.02"/>
 </navPoint>
-<navPoint id="navPoint-70" playOrder="70">
+<navPoint id="navPoint-71" playOrder="71">
 <navLabel><text>೫೫ –  :: ಮಳೆ ಬಂದರೂ ಮೂಡದಿರಬಹುದು ಕಾಮನ ಬಿಲ್ಲು</text></navLabel><content src="008-chapter008.xhtml#id-008.03"/>
 </navPoint>
-<navPoint id="navPoint-71" playOrder="71">
+<navPoint id="navPoint-72" playOrder="72">
 <navLabel><text>೫೬ –  :: ಬರೀ ಮಂತ್ರಿಸಿದರೆ ಮಾವಿನಕಾಯಿ ಉದುರದು</text></navLabel><content src="008-chapter008.xhtml#id-008.04"/>
 </navPoint>
-<navPoint id="navPoint-72" playOrder="72">
+<navPoint id="navPoint-73" playOrder="73">
 <navLabel><text>೫೭ –  :: ನಟರಿಗೇ ಚಪ್ಪಾಳೆ, ಪರದೆ ಎಳೆಯುವರಿಗಲ್ಲ</text></navLabel><content src="008-chapter008.xhtml#id-008.05"/>
 </navPoint>
-<navPoint id="navPoint-73" playOrder="73">
+<navPoint id="navPoint-74" playOrder="74">
 <navLabel><text>೫೮ –  :: ಚೆನ್ನೆಯರ ಬಲೆಯೊಂದು ಭಾವಜನು ಬೀಸಿದ ಬೇಂಟೆ</text></navLabel><content src="008-chapter008.xhtml#id-008.06"/>
 </navPoint>
-<navPoint id="navPoint-74" playOrder="74">
+<navPoint id="navPoint-75" playOrder="75">
 <navLabel><text>೫೯ –  :: ದಿನವೂ ಸಾಯುವುದಕ್ಕಿಂತ ವೀರಮರಣವೇ ಲೇಸು</text></navLabel><content src="008-chapter008.xhtml#id-008.07"/>
 </navPoint>
-<navPoint id="navPoint-75" playOrder="75">
+<navPoint id="navPoint-76" playOrder="76">
 <navLabel><text>೬೦ –  :: ಸಾಹಸಿಯ ನೆರಳಾಗಿ ವಿಪತ್ತು ಬೆಂಬಿಡದು</text></navLabel><content src="008-chapter008.xhtml#id-008.08"/>
 </navPoint>
-<navPoint id="navPoint-76" playOrder="76">
+<navPoint id="navPoint-77" playOrder="77">
 <navLabel><text>೬೧ –  :: ಆಸೆ ಎಂಬ ಬಿಸಿಲುಗುದುರೆಗೇಕೆ ದಾಸನಾದೆ?</text></navLabel><content src="008-chapter008.xhtml#id-008.09"/>
 </navPoint>
-<navPoint id="navPoint-77" playOrder="77">
+<navPoint id="navPoint-78" playOrder="78">
 <navLabel><text>೬೨ –  :: ನಮ್ಮ ನಡುವಿನ ರಾಕ್ಷಸರು</text></navLabel><content src="008-chapter008.xhtml#id-008.10"/>
 </navPoint>
-<navPoint id="navPoint-78" playOrder="78">
+<navPoint id="navPoint-79" playOrder="79">
 <navLabel><text>೬೩ –  :: ತನ್ನಿ ಚಿನ್ನದ ಹೂವ ನೆಲದೊಳಗಣ ಬಳ್ಳಿಯಿಂದ ಕಿತ್ತು</text></navLabel><content src="008-chapter008.xhtml#id-008.11"/>
 </navPoint>
 </navPoint>
-<navPoint id="navPoint-79" playOrder="79">
-<navLabel><text>೯. –  ದೃಢತೆ-ದೂರದೃಷ್ಟಿ</text></navLabel><content src="009-chapter009.xhtml#id-1"/>
 <navPoint id="navPoint-80" playOrder="80">
+<navLabel><text>೯. –  ದೃಢತೆ-ದೂರದೃಷ್ಟಿ</text></navLabel><content src="009-chapter009.xhtml#id-1"/>
+<navPoint id="navPoint-81" playOrder="81">
 <navLabel><text>೬೪ –  :: ಶ್ರೇಯ-ಪ್ರೇಯ</text></navLabel><content src="009-chapter009.xhtml#id-009.01"/>
 </navPoint>
-<navPoint id="navPoint-81" playOrder="81">
+<navPoint id="navPoint-82" playOrder="82">
 <navLabel><text>೬೫ –  :: ಮುಂದಾಲೋಚನೆ, ಮಂದಾಲೋಚನೆ</text></navLabel><content src="009-chapter009.xhtml#id-009.02"/>
 </navPoint>
-<navPoint id="navPoint-82" playOrder="82">
+<navPoint id="navPoint-83" playOrder="83">
 <navLabel><text>೬೬ –  :: ನೋಡುವಡೆ ನೋಡಿ ಗಗನದತ್ತ</text></navLabel><content src="009-chapter009.xhtml#id-009.03"/>
 </navPoint>
-<navPoint id="navPoint-83" playOrder="83">
+<navPoint id="navPoint-84" playOrder="84">
 <navLabel><text>೬೭ –  :: ನಡುಹಗಲಿನ ಕತ್ತಲೆ</text></navLabel><content src="009-chapter009.xhtml#id-009.04"/>
 </navPoint>
-<navPoint id="navPoint-84" playOrder="84">
+<navPoint id="navPoint-85" playOrder="85">
 <navLabel><text>೬೮ –  :: ಕುಗ್ಗದೆಲೆ ನುಗ್ಗುವರು ನೀಡಿ ಎದೆಮುಂದೆ</text></navLabel><content src="009-chapter009.xhtml#id-009.05"/>
 </navPoint>
-<navPoint id="navPoint-85" playOrder="85">
+<navPoint id="navPoint-86" playOrder="86">
 <navLabel><text>೬೯ –  :: ಆಕಾಶವೇ ಬೀಳಲಿ ಮೇಲೆ...</text></navLabel><content src="009-chapter009.xhtml#id-009.06"/>
 </navPoint>
-<navPoint id="navPoint-86" playOrder="86">
+<navPoint id="navPoint-87" playOrder="87">
 <navLabel><text>೭೦ –  :: ಬಿಸಿಲುಗುದುರೆಯನೇರಿ ಹೊರಟೆ ಎಲ್ಲಿಗೆ ನೀನು?</text></navLabel><content src="009-chapter009.xhtml#id-009.07"/>
 </navPoint>
 </navPoint>
-<navPoint id="navPoint-87" playOrder="87">
-<navLabel><text>೧೦ –  ವಿಧಿವಿಲಾಸ</text></navLabel><content src="010-chapter010.xhtml#id-10"/>
 <navPoint id="navPoint-88" playOrder="88">
+<navLabel><text>೧೦ –  ವಿಧಿವಿಲಾಸ</text></navLabel><content src="010-chapter010.xhtml#id-10"/>
+<navPoint id="navPoint-89" playOrder="89">
 <navLabel><text>೭೧ –  :: ದುರ್ಬಲರೇ ವಿಧಿಗೆ ಬಲಿ</text></navLabel><content src="010-chapter010.xhtml#id-010.01"/>
 </navPoint>
-<navPoint id="navPoint-89" playOrder="89">
+<navPoint id="navPoint-90" playOrder="90">
 <navLabel><text>೭೨ –  :: ಹಗಲುಗನಸಿನ ಸಾರ್ಥದ ಪಥಿಕ</text></navLabel><content src="010-chapter010.xhtml#id-010.02"/>
 </navPoint>
-<navPoint id="navPoint-90" playOrder="90">
+<navPoint id="navPoint-91" playOrder="91">
 <navLabel><text>೭೩ –  :: ಚಕ್ರ ಉರುಳಿತು, ಮೇಲಿನದು ಕೆಳಗಿಳಿಯಿತು</text></navLabel><content src="010-chapter010.xhtml#id-010.03"/>
 </navPoint>
-<navPoint id="navPoint-91" playOrder="91">
+<navPoint id="navPoint-92" playOrder="92">
 <navLabel><text>೭೪ –  :: ವಿಧಿ ಹಾಕಿದ ಕಲ್ಲು</text></navLabel><content src="010-chapter010.xhtml#id-010.04"/>
 </navPoint>
-<navPoint id="navPoint-92" playOrder="92">
+<navPoint id="navPoint-93" playOrder="93">
 <navLabel><text>೭೫ –  :: ವಿಧಿಯೊಡನೆ ಸಂಧಾನ</text></navLabel><content src="010-chapter010.xhtml#id-010.05"/>
 </navPoint>
-<navPoint id="navPoint-93" playOrder="93">
+<navPoint id="navPoint-94" playOrder="94">
 <navLabel><text>೭೬ –  :: ವಿಧಿ ಬರೆದು ಲೇಖಣಿ ಪಕ್ಕಕ್ಕಿಟ್ಟಾಯ್ತು</text></navLabel><content src="010-chapter010.xhtml#id-010.06"/>
 </navPoint>
-<navPoint id="navPoint-94" playOrder="94">
+<navPoint id="navPoint-95" playOrder="95">
 <navLabel><text>೭೭ –  :: ತಾನೊಂದು ಬಗೆದರೆ ದೈವ ಬೇರೆ ಬಗೆದೀತು</text></navLabel><content src="010-chapter010.xhtml#id-010.07"/>
 </navPoint>
-<navPoint id="navPoint-95" playOrder="95">
+<navPoint id="navPoint-96" playOrder="96">
 <navLabel><text>೭೮ –  :: ವಿಧಿ ದೈವಾಯತ್ತ</text></navLabel><content src="010-chapter010.xhtml#id-010.08"/>
 </navPoint>
 </navPoint>
-<navPoint id="navPoint-96" playOrder="96">
-<navLabel><text>೧೧ – ಹಣದ ಗುಣ</text></navLabel><content src="011-chapter011.xhtml#id-11"/>
 <navPoint id="navPoint-97" playOrder="97">
+<navLabel><text>೧೧ – ಹಣದ ಗುಣ</text></navLabel><content src="011-chapter011.xhtml#id-11"/>
+<navPoint id="navPoint-98" playOrder="98">
 <navLabel><text>೭೯ –  ::ಉಡುಪಿನಿಂದೇನೆಂದು ಮೂಗೇಕೆ ಮುರಿಯುವಿರಿ?</text></navLabel><content src="011-chapter011.xhtml#id-011.01"/>
 </navPoint>
-<navPoint id="navPoint-98" playOrder="98">
+<navPoint id="navPoint-99" playOrder="99">
 <navLabel><text>೮೦ –  ::ಎಲ್ಲಾ ಗುಣ ಕೊನೆ ಕೊನೆಗೆ ಆಶ್ರಯಿಸುವುದಾರನ್ನ?</text></navLabel><content src="011-chapter011.xhtml#id-011.02"/>
 </navPoint>
-<navPoint id="navPoint-99" playOrder="99">
+<navPoint id="navPoint-100" playOrder="100">
 <navLabel><text>೮೧ –  ::ಹಣ ಎಸಗುವ ಮೋಡಿಯ ನೋಡಿ!</text></navLabel><content src="011-chapter011.xhtml#id-011.03"/>
 </navPoint>
-<navPoint id="navPoint-100" playOrder="100">
+<navPoint id="navPoint-101" playOrder="101">
 <navLabel><text>೮೨ –  ::ಬರಿದೆ ಒಣ ಓದ ತೊರೆ, ನಡೆ, ಗಳಿಸು ಹಣವ!</text></navLabel><content src="011-chapter011.xhtml#id-011.04"/>
 </navPoint>
-<navPoint id="navPoint-101" playOrder="101">
+<navPoint id="navPoint-102" playOrder="102">
 <navLabel><text>೮೩ –  ::ಯಾರಲ್ಲಿ ನಿಂತಿಹರು ಮುಂಬಾಗಿಲಡಿಯಲ್ಲಿ?</text></navLabel><content src="011-chapter011.xhtml#id-011.05"/>
 </navPoint>
-<navPoint id="navPoint-102" playOrder="102">
+<navPoint id="navPoint-103" playOrder="103">
 <navLabel><text>೮೪ –  ::ಏಕವರು ಬರುತಿಹರು?</text></navLabel><content src="011-chapter011.xhtml#id-011.06"/>
 </navPoint>
-<navPoint id="navPoint-103" playOrder="103">
+<navPoint id="navPoint-104" playOrder="104">
 <navLabel><text>೮೫ –  ::ನೆಚ್ಚಿದವರನ್ನೆಲ್ಲ ಕುರುಡುಗೊಳಿಸುವ ಥಳುಕು</text></navLabel><content src="011-chapter011.xhtml#id-011.07"/>
 </navPoint>
 </navPoint>
-<navPoint id="navPoint-104" playOrder="104">
-<navLabel><text>೧೨ – ದಾನ</text></navLabel><content src="012-chapter012.xhtml#id-12"/>
 <navPoint id="navPoint-105" playOrder="105">
+<navLabel><text>೧೨ – ದಾನ</text></navLabel><content src="012-chapter012.xhtml#id-12"/>
+<navPoint id="navPoint-106" playOrder="106">
 <navLabel><text>೮೬ –  :: ಕೊಡುವುದಿರೆ, ಹೇಗೆ ಕೊಡಬೇಕು, ಕೊಡದಿರಬೇಕು?</text></navLabel><content src="012-chapter012.xhtml#id-012.01"/>
 </navPoint>
-<navPoint id="navPoint-106" playOrder="106">
+<navPoint id="navPoint-107" playOrder="107">
 <navLabel><text>೮೭ –  :: ಕೊಡು-ಕೊಳ್ಳುವರ ಕೈಯ ನೋಡಿ ಗುರುತಿಸ ಬಹುದು.</text></navLabel><content src="012-chapter012.xhtml#id-012.02"/>
 </navPoint>
-<navPoint id="navPoint-107" playOrder="107">
+<navPoint id="navPoint-108" playOrder="108">
 <navLabel><text>೮೮ –  :: ಇಷ್ಟಿದ್ದರೂ ಆ ಭಡವ ಬೇಡುವುದು ಏಕೆ?</text></navLabel><content src="012-chapter012.xhtml#id-012.03"/>
 </navPoint>
-<navPoint id="navPoint-108" playOrder="108">
+<navPoint id="navPoint-109" playOrder="109">
 <navLabel><text>೮೯ –  :: ಹಾಗಷ್ಟು ಓಡೋಡಿ ಗಾಳಿ ಹೋಗುತಿರುವುದು ಏಕೆ?</text></navLabel><content src="012-chapter012.xhtml#id-012.04"/>
 </navPoint>
-<navPoint id="navPoint-109" playOrder="109">
+<navPoint id="navPoint-110" playOrder="110">
 <navLabel><text>೯೦  –  :: ಕೊಡುವ ಕೈಯನು ಕುಲು ಕುಲುಕಿ ಉಳುಕಿಸ ಬೇಡಿ</text></navLabel><content src="012-chapter012.xhtml#id-012.05"/>
 </navPoint>
-<navPoint id="navPoint-110" playOrder="110">
+<navPoint id="navPoint-111" playOrder="111">
 <navLabel><text>೯೧  –  :: ಯೋಗಕ್ಷೇಮದ ಭರವಸೆಗೇನಿಹುದು ಸಾಟಿ?</text></navLabel><content src="012-chapter012.xhtml#id-012.06"/>
 </navPoint>
 </navPoint>
-<navPoint id="navPoint-111" playOrder="111">
-<navLabel><text>೧೩ – ಹೆಣ್ಣು-ಗಂಡು</text></navLabel><content src="013-chapter013.xhtml#id-13"/>
 <navPoint id="navPoint-112" playOrder="112">
+<navLabel><text>೧೩ – ಹೆಣ್ಣು-ಗಂಡು</text></navLabel><content src="013-chapter013.xhtml#id-13"/>
+<navPoint id="navPoint-113" playOrder="113">
 <navLabel><text>೯೨ –  :: ಚಲುವೆ</text></navLabel><content src="013-chapter013.xhtml#id-013.01"/>
 </navPoint>
-<navPoint id="navPoint-113" playOrder="113">
+<navPoint id="navPoint-114" playOrder="114">
 <navLabel><text>೯೩ –  :: ತುಂಬಿದ ಕೊಡದ ಬೆಡಗಿ, ತುಡುಗಿ!</text></navLabel><content src="013-chapter013.xhtml#id-013.02"/>
 </navPoint>
-<navPoint id="navPoint-114" playOrder="114">
+<navPoint id="navPoint-115" playOrder="115">
 <navLabel><text>೯೪ –  :: ಜಿಂಕೆಗಣ್ಣಿನ ಹುಡುಗಿ</text></navLabel><content src="013-chapter013.xhtml#id-013.03"/>
 </navPoint>
-<navPoint id="navPoint-115" playOrder="115">
+<navPoint id="navPoint-116" playOrder="116">
 <navLabel><text>೯೫ –  :: ಗೌರಿಯ ಪಣ</text></navLabel><content src="013-chapter013.xhtml#id-013.04"/>
 </navPoint>
-<navPoint id="navPoint-116" playOrder="116">
+<navPoint id="navPoint-117" playOrder="117">
 <navLabel><text>೯೬ –  :: ಸುಟ್ಟರೂ ಮತ್ತೆ ಹುಟ್ಟಿದವ</text></navLabel><content src="013-chapter013.xhtml#id-013.05"/>
 </navPoint>
-<navPoint id="navPoint-117" playOrder="117">
+<navPoint id="navPoint-118" playOrder="118">
 <navLabel><text>೯೭ –  :: ಹೇಗೆ ನಡೆದರೂ ಸೋಲೇ</text></navLabel><content src="013-chapter013.xhtml#id-013.06"/>
 </navPoint>
-<navPoint id="navPoint-118" playOrder="118">
+<navPoint id="navPoint-119" playOrder="119">
 <navLabel><text>೯೮ –  :: ಭ್ರಮೆ ಇರಲಿ ಚಿರಕಾಲ</text></navLabel><content src="013-chapter013.xhtml#id-013.07"/>
 </navPoint>
-<navPoint id="navPoint-119" playOrder="119">
+<navPoint id="navPoint-120" playOrder="120">
 <navLabel><text>೯೯ –  :: ಸೋತು ಗೆದ್ದವರಾರು? </text></navLabel><content src="013-chapter013.xhtml#id-013.08"/>
 </navPoint>
-<navPoint id="navPoint-120" playOrder="120">
+<navPoint id="navPoint-121" playOrder="121">
 <navLabel><text>೧೦೦ –  :: ಮೋಡಿಮಾಡುವ ಆ ಕಮ್ಮಗೋಲ!</text></navLabel><content src="013-chapter013.xhtml#id-013.09"/>
 </navPoint>
-<navPoint id="navPoint-121" playOrder="121">
+<navPoint id="navPoint-122" playOrder="122">
 <navLabel><text>೧೦೧ –  :: ಓಡಿದಳು ರಾಗಿಣಿ ಸಂಧ್ಯೆ</text></navLabel><content src="013-chapter013.xhtml#id-013.10"/>
 </navPoint>
-<navPoint id="navPoint-122" playOrder="122">
+<navPoint id="navPoint-123" playOrder="123">
 <navLabel><text>೧೦೨ –  :: ಮಾತ್ಸರ್ಯ ಇಲ್ಲದ ಹೆಣ್ಣು ಇರುವಳೇನು?</text></navLabel><content src="013-chapter013.xhtml#id-013.11"/>
 </navPoint>
-<navPoint id="navPoint-123" playOrder="123">
+<navPoint id="navPoint-124" playOrder="124">
 <navLabel><text>೧೦೩ –  :: ಏನು ಬಿಗಿ ಈ ಕುಸ್ತಿಯ ಪಟ್ಟು?</text></navLabel><content src="013-chapter013.xhtml#id-013.12"/>
 </navPoint>
-<navPoint id="navPoint-124" playOrder="124">
+<navPoint id="navPoint-125" playOrder="125">
 <navLabel><text>೧೦೪ –  :: ತಿಳಿಯಲಾಗದ ಗುಟ್ಟು</text></navLabel><content src="013-chapter013.xhtml#id-013.13"/>
 </navPoint>
-<navPoint id="navPoint-125" playOrder="125">
+<navPoint id="navPoint-126" playOrder="126">
 <navLabel><text>೧೦೫ –  :: ಅವರವರಿಗವರದೇ ಹಿರಿ ಚಿಂತೆ</text></navLabel><content src="013-chapter013.xhtml#id-013.14"/>
 </navPoint>
-<navPoint id="navPoint-126" playOrder="126">
+<navPoint id="navPoint-127" playOrder="127">
 <navLabel><text>೧೦೬ –  :: ಮುಗಿಲ ಮೂಲೆಯಲಿ ನವಿಲ ಕುಣಿತ</text></navLabel><content src="013-chapter013.xhtml#id-013.15"/>
 </navPoint>
-<navPoint id="navPoint-127" playOrder="127">
+<navPoint id="navPoint-128" playOrder="128">
 <navLabel><text>೧೦೭ –  :: ಬಯಕೆಯ ಬಲೆ ಬೇರೆ, ಸುಖದ ಅನುಭವ ಬೇರೆ</text></navLabel><content src="013-chapter013.xhtml#id-013.16"/>
 </navPoint>
-<navPoint id="navPoint-128" playOrder="128">
+<navPoint id="navPoint-129" playOrder="129">
 <navLabel><text>೧೦೮ –  :: ಸುಗ್ಗಿ ಲೂಟಿಯಾದೀತು ಪುಂಡರ ದಂಡು ನುಗ್ಗಿ</text></navLabel><content src="013-chapter013.xhtml#id-013.17"/>
 </navPoint>
-<navPoint id="navPoint-129" playOrder="129">
+<navPoint id="navPoint-130" playOrder="130">
 <navLabel><text>೧೦೯ –  :: ಉರಿಯನಾರಿಸುವುದು ತುಪ್ಪದಿಂದಲ್ಲ</text></navLabel><content src="013-chapter013.xhtml#id-013.18"/>
 </navPoint>
 </navPoint>
-<navPoint id="navPoint-130" playOrder="130">
-<navLabel><text>೧೪ – ಸತ್ಯ</text></navLabel><content src="014-chapter014.xhtml#id-14"/>
 <navPoint id="navPoint-131" playOrder="131">
+<navLabel><text>೧೪ – ಸತ್ಯ</text></navLabel><content src="014-chapter014.xhtml#id-14"/>
+<navPoint id="navPoint-132" playOrder="132">
 <navLabel><text>೧೧೦ –  :: ಯಾವುದು ಒಳಿತೋ ಅದೇ ಸತ್ಯ</text></navLabel><content src="014-chapter014.xhtml#id-014.01"/>
 </navPoint>
-<navPoint id="navPoint-132" playOrder="132">
+<navPoint id="navPoint-133" playOrder="133">
 <navLabel><text>೧೧೧ –  :: ಒಳಿತಿನ ಒಳ ತಿರುಳೇನು?</text></navLabel><content src="014-chapter014.xhtml#id-014.02"/>
 </navPoint>
-<navPoint id="navPoint-133" playOrder="133">
+<navPoint id="navPoint-134" playOrder="134">
 <navLabel><text>೧೧೨ –  :: ಹೀಗೆ ಮಾಡುವುದೇನೂ ನೀನು ಬೇಡ</text></navLabel><content src="014-chapter014.xhtml#id-014.03"/>
 </navPoint>
-<navPoint id="navPoint-134" playOrder="134">
+<navPoint id="navPoint-135" playOrder="135">
 <navLabel><text>೧೧೩ –  :: ಹಿರಿಮೆ ಗರಿಮೆಯ ತೀರ್ಥ</text></navLabel><content src="014-chapter014.xhtml#id-014.04"/>
 </navPoint>
-<navPoint id="navPoint-135" playOrder="135">
+<navPoint id="navPoint-136" playOrder="136">
 <navLabel><text>೧೧೪ –  :: ನೆಮ್ಮದಿಯೇ ಚರಮ ತೀರ್ಥ</text></navLabel><content src="014-chapter014.xhtml#id-014.05"/>
 </navPoint>
-<navPoint id="navPoint-136" playOrder="136">
+<navPoint id="navPoint-137" playOrder="137">
 <navLabel><text>೧೧೫ –  :: ಒಳ ಮನದ ಕೊಳೆಯ ತೊಳೆ</text></navLabel><content src="014-chapter014.xhtml#id-014.06"/>
 </navPoint>
-<navPoint id="navPoint-137" playOrder="137">
+<navPoint id="navPoint-138" playOrder="138">
 <navLabel><text>೧೧೬ –  :: ಕವಚವೊಂದೇ ನೋಡಿ ಪುಸ್ತಕವನಳೆಯಲು ಬೇಡಿ</text></navLabel><content src="014-chapter014.xhtml#id-014.07"/>
 </navPoint>
 </navPoint>
-<navPoint id="navPoint-138" playOrder="138">
-<navLabel><text>೧೫ – ಆಧ್ಯಾತ್ಮಿಕ ಚಿಂತನೆ</text></navLabel><content src="015-chapter015.xhtml#id-15"/>
 <navPoint id="navPoint-139" playOrder="139">
+<navLabel><text>೧೫ – ಆಧ್ಯಾತ್ಮಿಕ ಚಿಂತನೆ</text></navLabel><content src="015-chapter015.xhtml#id-15"/>
+<navPoint id="navPoint-140" playOrder="140">
 <navLabel><text>೧೧೭ –  :: ಆತ್ಮ, ಏನಿದರ ಹೆಗ್ಗಳಿಕೆ?</text></navLabel><content src="015-chapter015.xhtml#id-015.01"/>
 </navPoint>
-<navPoint id="navPoint-140" playOrder="140">
+<navPoint id="navPoint-141" playOrder="141">
 <navLabel><text>೧೧೮ –  :: ಯಾವಾಗ, ಯಾವಾಗ?</text></navLabel><content src="015-chapter015.xhtml#id-015.02"/>
 </navPoint>
-<navPoint id="navPoint-141" playOrder="141">
+<navPoint id="navPoint-142" playOrder="142">
 <navLabel><text>೧೧೯ –  :: ಶಬ್ದಬ್ರಹ್ಮರ ಜಾಲ</text></navLabel><content src="015-chapter015.xhtml#id-015.03"/>
 </navPoint>
-<navPoint id="navPoint-142" playOrder="142">
-<navLabel><text>೨೦ –  :: ನಿನ್ನದೇ ಏನಿದೆ ನಿನಗೆ?</text></navLabel><content src="015-chapter015.xhtml#id-015.04"/>
-</navPoint>
 <navPoint id="navPoint-143" playOrder="143">
-<navLabel><text>೧೨೧ –  :: ನಾ ಮಾಡಿದ ಕರ್ಮ ಬಲವಂತವಾಗಿಹುದು</text></navLabel><content src="015-chapter015.xhtml#id-015.05"/>
+<navLabel><text>೧೨೦ –  :: ನಿನ್ನದೇ ಏನಿದೆ ನಿನಗೆ?</text></navLabel><content src="015-chapter015.xhtml#id-015.04"/>
 </navPoint>
 <navPoint id="navPoint-144" playOrder="144">
-<navLabel><text>೧೨೨ –  :: ಹೋಗು, ಬೆಳಕನರಸು!</text></navLabel><content src="015-chapter015.xhtml#id-015.06"/>
+<navLabel><text>೧೨೧ –  :: ನಾ ಮಾಡಿದ ಕರ್ಮ ಬಲವಂತವಾಗಿಹುದು</text></navLabel><content src="015-chapter015.xhtml#id-015.05"/>
 </navPoint>
 <navPoint id="navPoint-145" playOrder="145">
-<navLabel><text>೧೨೩ –  :: ಮನವೆಂಬ ತೀರ್ಥ</text></navLabel><content src="015-chapter015.xhtml#id-015.07"/>
+<navLabel><text>೧೨೨ –  :: ಹೋಗು, ಬೆಳಕನರಸು!</text></navLabel><content src="015-chapter015.xhtml#id-015.06"/>
 </navPoint>
 <navPoint id="navPoint-146" playOrder="146">
-<navLabel><text>೧೨೪ –  :: ಅರಿಯಲಿರುವುದೊಂದೇ ದಾರಿ</text></navLabel><content src="015-chapter015.xhtml#id-015.08"/>
+<navLabel><text>೧೨೩ –  :: ಮನವೆಂಬ ತೀರ್ಥ</text></navLabel><content src="015-chapter015.xhtml#id-015.07"/>
 </navPoint>
 <navPoint id="navPoint-147" playOrder="147">
-<navLabel><text>೧೨೫ –  :: ಚಿನ್ನದ ಮುಚ್ಚಳದ ಭರಣಿಯೊಳಗೇಕೆ ಅಡಗಿ ಕುಳಿತೆ?</text></navLabel><content src="015-chapter015.xhtml#id-015.09"/>
+<navLabel><text>೧೨೪ –  :: ಅರಿಯಲಿರುವುದೊಂದೇ ದಾರಿ</text></navLabel><content src="015-chapter015.xhtml#id-015.08"/>
 </navPoint>
 <navPoint id="navPoint-148" playOrder="148">
-<navLabel><text>೧೨೬ –  :: ಈ ಭೂಮಿಯನ್ನು ಮಲೆನಾಡ ಮಾಡಿ ಹೋದವನಾರು?</text></navLabel><content src="015-chapter015.xhtml#id-015.10"/>
+<navLabel><text>೧೨೫ –  :: ಚಿನ್ನದ ಮುಚ್ಚಳದ ಭರಣಿಯೊಳಗೇಕೆ ಅಡಗಿ ಕುಳಿತೆ?</text></navLabel><content src="015-chapter015.xhtml#id-015.09"/>
 </navPoint>
 <navPoint id="navPoint-149" playOrder="149">
-<navLabel><text>೧೨೭ –  :: ಬುದ್ಧಿಗೇ ಕೈಜಾರಿ ಹೋಗುವ ನುಣುಪಿನ ಮಿಣುಕು</text></navLabel><content src="015-chapter015.xhtml#id-015.11"/>
+<navLabel><text>೧೨೬ –  :: ಈ ಭೂಮಿಯನ್ನು ಮಲೆನಾಡ ಮಾಡಿ ಹೋದವನಾರು?</text></navLabel><content src="015-chapter015.xhtml#id-015.10"/>
 </navPoint>
 <navPoint id="navPoint-150" playOrder="150">
-<navLabel><text>೧೨೮ –  :: ಅವನಂತೆ ಈ ಆತ್ಮ</text></navLabel><content src="015-chapter015.xhtml#id-015.12"/>
+<navLabel><text>೧೨೭ –  :: ಬುದ್ಧಿಗೇ ಕೈಜಾರಿ ಹೋಗುವ ನುಣುಪಿನ ಮಿಣುಕು</text></navLabel><content src="015-chapter015.xhtml#id-015.11"/>
 </navPoint>
 <navPoint id="navPoint-151" playOrder="151">
-<navLabel><text>೧೨೯ –  :: ನಾನು ಇರುವುದೇ ಹೀಗೆ!</text></navLabel><content src="015-chapter015.xhtml#id-015.13"/>
+<navLabel><text>೧೨೮ –  :: ಅವನಂತೆ ಈ ಆತ್ಮ</text></navLabel><content src="015-chapter015.xhtml#id-015.12"/>
 </navPoint>
 <navPoint id="navPoint-152" playOrder="152">
-<navLabel><text>೩೦ –  :: ಯಾರು ಯಾರಿಗೆ ಇದರಲ್ಲಿ ಪಾಲು?</text></navLabel><content src="015-chapter015.xhtml#id-015.14"/>
+<navLabel><text>೧೨೯ –  :: ನಾನು ಇರುವುದೇ ಹೀಗೆ!</text></navLabel><content src="015-chapter015.xhtml#id-015.13"/>
 </navPoint>
 <navPoint id="navPoint-153" playOrder="153">
+<navLabel><text>೧೩೦ –  :: ಯಾರು ಯಾರಿಗೆ ಇದರಲ್ಲಿ ಪಾಲು?</text></navLabel><content src="015-chapter015.xhtml#id-015.14"/>
+</navPoint>
+<navPoint id="navPoint-154" playOrder="154">
 <navLabel><text>೧೩೧ –  :: ಕಾಡದ ಕಾಡಾಗೆ ಮನೆಯೇ ತಪದ ಬೀಡು!</text></navLabel><content src="015-chapter015.xhtml#id-015.15"/>
 </navPoint>
 </navPoint>
-<navPoint id="navPoint-154" playOrder="154">
-<navLabel><text>೧೬ – ದೇವರು</text></navLabel><content src="016-chapter016.xhtml#id-16"/>
 <navPoint id="navPoint-155" playOrder="155">
+<navLabel><text>೧೬ – ದೇವರು</text></navLabel><content src="016-chapter016.xhtml#id-16"/>
+<navPoint id="navPoint-156" playOrder="156">
 <navLabel><text>೧೩೨ –  :: ಆ ಬೆಳಕು ಈ ಬೆಳಕು ಎಲ್ಲ ಆ ಹೆಬ್ಬೆಳಕೇ</text></navLabel><content src="016-chapter016.xhtml#id-016.01"/>
 </navPoint>
-<navPoint id="navPoint-156" playOrder="156">
+<navPoint id="navPoint-157" playOrder="157">
 <navLabel><text>೧೩೩ –  :: ಬೆನಕನ ನೆನಕೆ</text></navLabel><content src="016-chapter016.xhtml#id-016.02"/>
 </navPoint>
-<navPoint id="navPoint-157" playOrder="157">
+<navPoint id="navPoint-158" playOrder="158">
 <navLabel><text>೧೩೪ –  :: ತ್ರ್ಯಂಬಕನಾದುದು ಹೇಗೆ?</text></navLabel><content src="016-chapter016.xhtml#id-016.03"/>
 </navPoint>
-<navPoint id="navPoint-158" playOrder="158">
+<navPoint id="navPoint-159" playOrder="159">
 <navLabel><text>೧೩೫ –  :: ಕಳಿತ ಹಣ್ಣನಾಗಿಸು ಎನ್ನ</text></navLabel><content src="016-chapter016.xhtml#id-016.04"/>
 </navPoint>
-<navPoint id="navPoint-159" playOrder="159">
+<navPoint id="navPoint-160" playOrder="160">
 <navLabel><text>೧೩೬ –  :: ಕಣ್ಣಲ್ಲಿ ಬೆಳಕಿನ ಉಸಿರು</text></navLabel><content src="016-chapter016.xhtml#id-016.05"/>
 </navPoint>
-<navPoint id="navPoint-160" playOrder="160">
+<navPoint id="navPoint-161" playOrder="161">
 <navLabel><text>೧೩೭ –  :: ಸೂರ್ಯ ಜಗತ್ತಿನ ಕಣ್ಣು</text></navLabel><content src="016-chapter016.xhtml#id-016.06"/>
 </navPoint>
-<navPoint id="navPoint-161" playOrder="161">
+<navPoint id="navPoint-162" playOrder="162">
 <navLabel><text>೧೩೮ –  :: ನಿನ್ನ ಸೇರುವ ಆಸೆ</text></navLabel><content src="016-chapter016.xhtml#id-016.07"/>
 </navPoint>
-<navPoint id="navPoint-162" playOrder="162">
+<navPoint id="navPoint-163" playOrder="163">
 <navLabel><text>೧೩೯ –  :: ಅವನೊಬ್ಬನೇ! </text></navLabel><content src="016-chapter016.xhtml#id-016.08"/>
 </navPoint>
-<navPoint id="navPoint-163" playOrder="163">
+<navPoint id="navPoint-164" playOrder="164">
 <navLabel><text>೧೪೦ –  :: ಎದೆಯಾಳದಲಿ ಇವ ಕುಳಿತ!</text></navLabel><content src="016-chapter016.xhtml#id-016.09"/>
 </navPoint>
-<navPoint id="navPoint-164" playOrder="164">
+<navPoint id="navPoint-165" playOrder="165">
 <navLabel><text>೧೪೧ –  :: ದೇವನೊಬ್ಬನೆ, ಅವನ ನಾಮ ಹಲವು</text></navLabel><content src="016-chapter016.xhtml#id-016.10"/>
 </navPoint>
-<navPoint id="navPoint-165" playOrder="165">
+<navPoint id="navPoint-166" playOrder="166">
 <navLabel><text>೧೪೨ –  :: ಶಿವ ಶಿರವ ತೋಯಿಸುವೆ</text></navLabel><content src="016-chapter016.xhtml#id-016.11"/>
 </navPoint>
-<navPoint id="navPoint-166" playOrder="166">
+<navPoint id="navPoint-167" playOrder="167">
 <navLabel><text>೧೪೩ –  :: ನೀವವನ ನೋಡಿಲ್ಲ?</text></navLabel><content src="016-chapter016.xhtml#id-016.12"/>
 </navPoint>
-<navPoint id="navPoint-167" playOrder="167">
+<navPoint id="navPoint-168" playOrder="168">
 <navLabel><text>೧೪೪ –  :: ಅಲ್ಲೆಲ್ಲ ನಾನಿರುವೆ!</text></navLabel><content src="016-chapter016.xhtml#id-016.13"/>
 </navPoint>
-<navPoint id="navPoint-168" playOrder="168">
+<navPoint id="navPoint-169" playOrder="169">
 <navLabel><text>೧೪೫ –  :: ನೆಲೆ ನಿಲ್ಲು ಸ್ಥಿರವಾಗಿ</text></navLabel><content src="016-chapter016.xhtml#id-016.14"/>
 </navPoint>
-<navPoint id="navPoint-169" playOrder="169">
+<navPoint id="navPoint-170" playOrder="170">
 <navLabel><text>೧೪೬ –  :: ಎಲ್ಲಿರುವೆ ನೀ ಲಕ್ಷ್ಮಿ?</text></navLabel><content src="016-chapter016.xhtml#id-016.15"/>
 </navPoint>
-<navPoint id="navPoint-170" playOrder="170">
+<navPoint id="navPoint-171" playOrder="171">
 <navLabel><text>೧೪೭ –  :: ಒಲಿವೆ ಯಾರಿಗೆ ನೀನು, ಹೇಳು, ಸಿರಿಯೆ?</text></navLabel><content src="016-chapter016.xhtml#id-016.16"/>
 </navPoint>
-<navPoint id="navPoint-171" playOrder="171">
+<navPoint id="navPoint-172" playOrder="172">
 <navLabel><text>೧೪೮ –  :: ಇದ್ದರೂ ನಲಿವುದು ಎಲ್ಲಿ?</text></navLabel><content src="016-chapter016.xhtml#id-016.17"/>
 </navPoint>
-<navPoint id="navPoint-172" playOrder="172">
+<navPoint id="navPoint-173" playOrder="173">
 <navLabel><text>೧೪೯ –  :: ಕರೆದವರ ಎದುರಿಗೆ ಬರುವೆ</text></navLabel><content src="016-chapter016.xhtml#id-016.18"/>
 </navPoint>
-<navPoint id="navPoint-173" playOrder="173">
-<navLabel><text>೫೦ –  :: ಗಣಗಳೊಡೆಯನೆ ಬಾ!</text></navLabel><content src="016-chapter016.xhtml#id-016.19"/>
-</navPoint>
 <navPoint id="navPoint-174" playOrder="174">
-<navLabel><text>೧೫೧ –  :: ಎಲ್ಲಿ? ದೇವರು ಎಲ್ಲಿ?</text></navLabel><content src="016-chapter016.xhtml#id-016.20"/>
+<navLabel><text>೧೫೦ –  :: ಗಣಗಳೊಡೆಯನೆ ಬಾ!</text></navLabel><content src="016-chapter016.xhtml#id-016.19"/>
 </navPoint>
 <navPoint id="navPoint-175" playOrder="175">
-<navLabel><text>೧೫೨ –  :: ದೀಪರೂಪಳೆ ಬಾ ನೋಡು!</text></navLabel><content src="016-chapter016.xhtml#id-016.21"/>
+<navLabel><text>೧೫೧ –  :: ಎಲ್ಲಿ? ದೇವರು ಎಲ್ಲಿ?</text></navLabel><content src="016-chapter016.xhtml#id-016.20"/>
 </navPoint>
 <navPoint id="navPoint-176" playOrder="176">
-<navLabel><text>೧೫೩ –  :: ಕರ್ಪೂರದಂದದಿ ಬೆಳ್ಳಿಬೆಳ್ಳಗಿನ ಖಣಿಯೇ!</text></navLabel><content src="016-chapter016.xhtml#id-016.22"/>
+<navLabel><text>೧೫೨ –  :: ದೀಪರೂಪಳೆ ಬಾ ನೋಡು!</text></navLabel><content src="016-chapter016.xhtml#id-016.21"/>
 </navPoint>
 <navPoint id="navPoint-177" playOrder="177">
+<navLabel><text>೧೫೩ –  :: ಕರ್ಪೂರದಂದದಿ ಬೆಳ್ಳಿಬೆಳ್ಳಗಿನ ಖಣಿಯೇ!</text></navLabel><content src="016-chapter016.xhtml#id-016.22"/>
+</navPoint>
+<navPoint id="navPoint-178" playOrder="178">
 <navLabel><text>೧೫೪ –  :: ಹರಿ ಹರ ವಿರಂಚಿ -ಎಲ್ಲವೂ ನೀನೆ!</text></navLabel><content src="016-chapter016.xhtml#id-016.23"/>
 </navPoint>
 </navPoint>
-<navPoint id="navPoint-178" playOrder="178">
-<navLabel><text>೧೭ – ಭಕ್ತಿ-ಸಾಯುಜ್ಯ</text></navLabel><content src="017-chapter017.xhtml#id-17"/>
 <navPoint id="navPoint-179" playOrder="179">
+<navLabel><text>೧೭ – ಭಕ್ತಿ-ಸಾಯುಜ್ಯ</text></navLabel><content src="017-chapter017.xhtml#id-17"/>
+<navPoint id="navPoint-180" playOrder="180">
 <navLabel><text>೧೫೫ –  :: ನೆನವುದಾರನ ಹೇಳಿ, ಅವನನಿಲ್ಲದಾರನ್ನ?</text></navLabel><content src="017-chapter017.xhtml#id-017.01"/>
 </navPoint>
-<navPoint id="navPoint-180" playOrder="180">
+<navPoint id="navPoint-181" playOrder="181">
 <navLabel><text>೧೫೬ –  :: ಏನಿದ್ದರೂ ಇಲ್ಲದಿದ್ದರೂ ಒಲಿದವರಿಗೊಂದೇ</text></navLabel><content src="017-chapter017.xhtml#id-017.02"/>
 </navPoint>
-<navPoint id="navPoint-181" playOrder="181">
+<navPoint id="navPoint-182" playOrder="182">
 <navLabel><text>೧೫೭ –  :: ಆಗಲೂ ನಿನ್ನವನೇನೆ ನಾನು; ನೀನು ನನ್ನವನಾಗೆ!</text></navLabel><content src="017-chapter017.xhtml#id-017.03"/>
 </navPoint>
-<navPoint id="navPoint-182" playOrder="182">
+<navPoint id="navPoint-183" playOrder="183">
 <navLabel><text>೧೫೮ –  :: ಬಾ, ನೆನೆವೆ, ಮೈದೋರು!</text></navLabel><content src="017-chapter017.xhtml#id-017.04"/>
 </navPoint>
-<navPoint id="navPoint-183" playOrder="183">
+<navPoint id="navPoint-184" playOrder="184">
 <navLabel><text>೧೫೯ –  :: 'ನಾನಾದೆ ನೀ. ..'-ನೆನಲು ಕರುಣಿಸುವೆ ಸಾಯುಜ್ಯ!</text></navLabel><content src="017-chapter017.xhtml#id-017.05"/>
 </navPoint>
-<navPoint id="navPoint-184" playOrder="184">
+<navPoint id="navPoint-185" playOrder="185">
 <navLabel><text>೧೬೦ –  :: ಇಲ್ಲೇ ಅವನಿರುವಾಗ ಎಲ್ಲೆಲ್ಲೋ ಹುಡುಕುವುದೇಕೆ?</text></navLabel><content src="017-chapter017.xhtml#id-017.06"/>
 </navPoint>
 </navPoint>
-<navPoint id="navPoint-185" playOrder="185">
-<navLabel><text>೧೮ –  ಕಾವ್ಯ: ಹುಟ್ಟು ಬೆಳವಣಿಗೆ ಗುರಿ</text></navLabel><content src="018-chapter018.xhtml#id-18"/>
 <navPoint id="navPoint-186" playOrder="186">
+<navLabel><text>೧೮ –  ಕಾವ್ಯ: ಹುಟ್ಟು ಬೆಳವಣಿಗೆ ಗುರಿ</text></navLabel><content src="018-chapter018.xhtml#id-18"/>
+<navPoint id="navPoint-187" playOrder="187">
 <navLabel><text>೧೬೧ –  :: ಓ ಬೇಡ, ಅನುಭವಿಸು!</text></navLabel><content src="018-chapter018.xhtml#id-018.01"/>
 </navPoint>
-<navPoint id="navPoint-187" playOrder="187">
+<navPoint id="navPoint-188" playOrder="188">
 <navLabel><text>೧೬೨ –  :: ಪದಗಳನು ಸರಿಯಾಗಿ ಉಚ್ಚರಿಸಿ ಹೇಳುವಿರಾ?</text></navLabel><content src="018-chapter018.xhtml#id-018.02"/>
 </navPoint>
-<navPoint id="navPoint-188" playOrder="188">
+<navPoint id="navPoint-189" playOrder="189">
 <navLabel><text>೧೬೩ –  :: ಕವಿಯ ಅಳಲು</text></navLabel><content src="018-chapter018.xhtml#id-018.03"/>
 </navPoint>
-<navPoint id="navPoint-189" playOrder="189">
+<navPoint id="navPoint-190" playOrder="190">
 <navLabel><text>೧೬೪ –  :: ಅನಾಮಿಕ ಆದುದು ಹೇಗೆ?</text></navLabel><content src="018-chapter018.xhtml#id-018.04"/>
 </navPoint>
-<navPoint id="navPoint-190" playOrder="190">
+<navPoint id="navPoint-191" playOrder="191">
 <navLabel><text>೧೬೫ –  :: ಏನು ಹೆಗ್ಗುರಿ ನಿಮ್ಮ ಕಾವ್ಯಕ್ಕೆ, ಎಂದಿರಿ?</text></navLabel><content src="018-chapter018.xhtml#id-018.05"/>
 </navPoint>
-<navPoint id="navPoint-191" playOrder="191">
+<navPoint id="navPoint-192" playOrder="192">
 <navLabel><text>೧೬೬ –  :: ಹಳತೇ ಲೇಸಲ್ಲ, ಹೊಸತು ಹೊಲ್ಲಲ್ಲ</text></navLabel><content src="018-chapter018.xhtml#id-018.06"/>
 </navPoint>
 </navPoint>
-<navPoint id="navPoint-192" playOrder="192">
-<navLabel><text>೧೯ – ಮಿಣುಕು-ತುಣುಕು</text></navLabel><content src="019-chapter019.xhtml#id-19"/>
 <navPoint id="navPoint-193" playOrder="193">
+<navLabel><text>೧೯ – ಮಿಣುಕು-ತುಣುಕು</text></navLabel><content src="019-chapter019.xhtml#id-19"/>
+<navPoint id="navPoint-194" playOrder="194">
 <navLabel><text>೧೬೭ –  :: ಚೆನ್ನುಡಿಯ ಸವಿಗಿಲ್ಲ ಸಾಟಿ ಏನೂ</text></navLabel><content src="019-chapter019.xhtml#id-019.01"/>
 </navPoint>
-<navPoint id="navPoint-194" playOrder="194">
+<navPoint id="navPoint-195" playOrder="195">
 <navLabel><text>೧೬೮ –  :: ಹೀಗೇಕೆ ಜೇನ್ನುಡಿಯ ಗತಿಯಾಯ್ತು?</text></navLabel><content src="019-chapter019.xhtml#id-019.02"/>
 </navPoint>
-<navPoint id="navPoint-195" playOrder="195">
+<navPoint id="navPoint-196" playOrder="196">
 <navLabel><text>೧೬೯ –  :: ಮಾತು ಬಲ್ಲವನೆಲ್ಲ ಊರ ಗೆಲ್ಲಬಲ್ಲ</text></navLabel><content src="019-chapter019.xhtml#id-019.03"/>
 </navPoint>
-<navPoint id="navPoint-196" playOrder="196">
+<navPoint id="navPoint-197" playOrder="197">
 <navLabel><text>೧೭೦ –  :: ಕಳೆ ಕೊಳೆಯ ತೊಳೆವ ಹೊಳೆ</text></navLabel><content src="019-chapter019.xhtml#id-019.04"/>
 </navPoint>
-<navPoint id="navPoint-197" playOrder="197">
+<navPoint id="navPoint-198" playOrder="198">
 <navLabel><text>೧೭೧ –  :: ನೀರೆ, ಮನ್ನಿಸು ಬಾರೆ</text></navLabel><content src="019-chapter019.xhtml#id-019.05"/>
 </navPoint>
-<navPoint id="navPoint-198" playOrder="198">
+<navPoint id="navPoint-199" playOrder="199">
 <navLabel><text>೧೭೨ –  :: ಬಿಟ್ಟು ಕಳಚಿದೆ, ಈಗ ಈಗಲೇ ಹೊರಟೆ</text></navLabel><content src="019-chapter019.xhtml#id-019.06"/>
 </navPoint>
-<navPoint id="navPoint-199" playOrder="199">
+<navPoint id="navPoint-200" playOrder="200">
 <navLabel><text>೧೭೩ –  :: ಉತ್ತರಿಸಿ ಪ್ರಶ್ನೆಗಳ</text></navLabel><content src="019-chapter019.xhtml#id-019.07"/>
 </navPoint>
-<navPoint id="navPoint-200" playOrder="200">
+<navPoint id="navPoint-201" playOrder="201">
 <navLabel><text>೧೭೪ –  :: ಅವನಂತೆ ಅವರೂನು!</text></navLabel><content src="019-chapter019.xhtml#id-019.08"/>
 </navPoint>
-<navPoint id="navPoint-201" playOrder="201">
-<navLabel><text>೧೭೬ –  :: ಇದ್ದರೂ ಅಷ್ಟೇ, ಇಲ್ಲದಿದ್ದರೆ ಏನು?</text></navLabel><content src="019-chapter019.xhtml#id-019.10"/>
-</navPoint>
 <navPoint id="navPoint-202" playOrder="202">
-<navLabel><text>೧೭೭ –  :: ಅದೂ ಅಲ್ಲ, ಇದೂ ಅಲ್ಲ</text></navLabel><content src="019-chapter019.xhtml#id-019.11"/>
+<navLabel><text>೧೭೫ –  :: ಯಾರು ಹೆಚ್ಚು?</text></navLabel><content src="019-chapter019.xhtml#id-019.09"/>
 </navPoint>
 <navPoint id="navPoint-203" playOrder="203">
-<navLabel><text>೧೭೮ –  :: ಏನನಾದರೂ ಮಾಡು, ಹೆಸರಂತು ಗಳಿಸು!</text></navLabel><content src="019-chapter019.xhtml#id-019.12"/>
+<navLabel><text>೧೭೬ –  :: ಇದ್ದರೂ ಅಷ್ಟೇ, ಇಲ್ಲದಿದ್ದರೆ ಏನು?</text></navLabel><content src="019-chapter019.xhtml#id-019.10"/>
 </navPoint>
 <navPoint id="navPoint-204" playOrder="204">
-<navLabel><text>೧೭೯ –  :: ಹಳೆಯದೆಂದು ಹಳಿಯಬೇಡಿ</text></navLabel><content src="019-chapter019.xhtml#id-019.13"/>
+<navLabel><text>೧೭೭ –  :: ಅದೂ ಅಲ್ಲ, ಇದೂ ಅಲ್ಲ</text></navLabel><content src="019-chapter019.xhtml#id-019.11"/>
 </navPoint>
 <navPoint id="navPoint-205" playOrder="205">
-<navLabel><text>೧೮೦ –  :: ಸಸಾರ - ತಾತ್ಸಾರ</text></navLabel><content src="019-chapter019.xhtml#id-019.14"/>
+<navLabel><text>೧೭೮ –  :: ಏನನಾದರೂ ಮಾಡು, ಹೆಸರಂತು ಗಳಿಸು!</text></navLabel><content src="019-chapter019.xhtml#id-019.12"/>
 </navPoint>
 <navPoint id="navPoint-206" playOrder="206">
-<navLabel><text>೧೮೧ –  :: ದೂರವಿದ್ದರೇ ಚೆಂದ</text></navLabel><content src="019-chapter019.xhtml#id-019.15"/>
+<navLabel><text>೧೭೯ –  :: ಹಳೆಯದೆಂದು ಹಳಿಯಬೇಡಿ</text></navLabel><content src="019-chapter019.xhtml#id-019.13"/>
 </navPoint>
 <navPoint id="navPoint-207" playOrder="207">
-<navLabel><text>೧೮೨ –  :: ಯಾವ ಯಾವುದಕ್ಕೆ ಎಷ್ಟು ಎಷ್ಟು ಬೇಕು?</text></navLabel><content src="019-chapter019.xhtml#id-019.16"/>
+<navLabel><text>೧೮೦ –  :: ಸಸಾರ - ತಾತ್ಸಾರ</text></navLabel><content src="019-chapter019.xhtml#id-019.14"/>
 </navPoint>
 <navPoint id="navPoint-208" playOrder="208">
-<navLabel><text>೧೮೩ –  :: ಯಾರು ಮಿಗಿಲಾಗಿಹರು ಉದರವೋ, ಹೃದಯವೋ?</text></navLabel><content src="019-chapter019.xhtml#id-019.17"/>
+<navLabel><text>೧೮೧ –  :: ದೂರವಿದ್ದರೇ ಚೆಂದ</text></navLabel><content src="019-chapter019.xhtml#id-019.15"/>
 </navPoint>
 <navPoint id="navPoint-209" playOrder="209">
-<navLabel><text>೧೮೪ –  :: ಎಮ್ಮೆ, ನಿನಗೆ ಸಾಟಿಯಿಲ್ಲ</text></navLabel><content src="019-chapter019.xhtml#id-019.18"/>
+<navLabel><text>೧೮೨ –  :: ಯಾವ ಯಾವುದಕ್ಕೆ ಎಷ್ಟು ಎಷ್ಟು ಬೇಕು?</text></navLabel><content src="019-chapter019.xhtml#id-019.16"/>
 </navPoint>
 <navPoint id="navPoint-210" playOrder="210">
+<navLabel><text>೧೮೩ –  :: ಯಾರು ಮಿಗಿಲಾಗಿಹರು ಉದರವೋ, ಹೃದಯವೋ?</text></navLabel><content src="019-chapter019.xhtml#id-019.17"/>
+</navPoint>
+<navPoint id="navPoint-211" playOrder="211">
+<navLabel><text>೧೮೪ –  :: ಎಮ್ಮೆ, ನಿನಗೆ ಸಾಟಿಯಿಲ್ಲ</text></navLabel><content src="019-chapter019.xhtml#id-019.18"/>
+</navPoint>
+<navPoint id="navPoint-212" playOrder="212">
 <navLabel><text>೧೮೫ –  :: ಕೆಳಗಿಹೆನೆಂಬ ಕೀಳರಿಮೆ ಬೇಡ!</text></navLabel><content src="019-chapter019.xhtml#id-019.19"/>
 </navPoint>
 </navPoint>
-<navPoint id="navPoint-211" playOrder="211">
+<navPoint id="navPoint-213" playOrder="213">
 <navLabel><text>೨೦ – ಬಿಡುಗಡೆ</text></navLabel><content src="020-chapter020.xhtml#id-20"/>
-<navPoint id="navPoint-212" playOrder="212">
+<navPoint id="navPoint-214" playOrder="214">
 <navLabel><text>೧೮೬ –  :: ಕೊನೆಗೆ ಕೊಂಡೊಯ್ಯಲು ಎಷ್ಟು ಕೂಡಿಟ್ಟೆ?</text></navLabel><content src="020-chapter020.xhtml#id-020.01"/>
 </navPoint>
-<navPoint id="navPoint-213" playOrder="213">
+<navPoint id="navPoint-215" playOrder="215">
 <navLabel><text>೧೮೭ –  :: ಆತ್ಮವನು ಅನುಸರಿಸಿ ಹೋಗುವುದು, ಏನದು ಗೊತ್ತ?</text></navLabel><content src="020-chapter020.xhtml#id-020.02"/>
 </navPoint>
-<navPoint id="navPoint-214" playOrder="214">
+<navPoint id="navPoint-216" playOrder="216">
 <navLabel><text>೧೮೮ –  :: ದೀಪ ಆರುವ ಮುನ್ನ</text></navLabel><content src="020-chapter020.xhtml#id-020.03"/>
 </navPoint>
-<navPoint id="navPoint-215" playOrder="215">
+<navPoint id="navPoint-217" playOrder="217">
 <navLabel><text>೧೮೯ –  :: ಯಾರ ಕೇಳಿ ಅವರು ಹೋದರು?</text></navLabel><content src="020-chapter020.xhtml#id-020.04"/>
 </navPoint>
-<navPoint id="navPoint-216" playOrder="216">
+<navPoint id="navPoint-218" playOrder="218">
 <navLabel><text>೧೯೦ –  :: ಎಲ್ಲೆಲ್ಲೂ ಭಯವೇ ಭಯ</text></navLabel><content src="020-chapter020.xhtml#id-020.05"/>
 </navPoint>
-<navPoint id="navPoint-217" playOrder="217">
+<navPoint id="navPoint-219" playOrder="219">
 <navLabel><text>೧೯೧ –  :: ಯಮ ನನ್ನ ಮುಟ್ಟಬೇಡ</text></navLabel><content src="020-chapter020.xhtml#id-020.06"/>
 </navPoint>
-<navPoint id="navPoint-218" playOrder="218">
+<navPoint id="navPoint-220" playOrder="220">
 <navLabel><text>೧೯೨ –  :: ಯಮ ಇರುವುದೆಲ್ಲಿ?</text></navLabel><content src="020-chapter020.xhtml#id-020.07"/>
 </navPoint>
-<navPoint id="navPoint-219" playOrder="219">
+<navPoint id="navPoint-221" playOrder="221">
 <navLabel><text>೧೯೩ –  :: ಸೆರೆ-ತೊರೆ</text></navLabel><content src="020-chapter020.xhtml#id-020.08"/>
 </navPoint>
-<navPoint id="navPoint-220" playOrder="220">
+<navPoint id="navPoint-222" playOrder="222">
 <navLabel><text>೧೯೪ –  :: ಬಿಡುಗಡೆಯ ಸೆರೆಮನೆಯ ಕಾಯುತಿಹರಾರು?</text></navLabel><content src="020-chapter020.xhtml#id-020.09"/>
 </navPoint>
-<navPoint id="navPoint-221" playOrder="221">
+<navPoint id="navPoint-223" playOrder="223">
 <navLabel><text>೧೯೫ –  :: ಹಸಿ ಸುಳ್ಳು, ಮಾತಿನ ಜೊಳ್ಳು</text></navLabel><content src="020-chapter020.xhtml#id-020.10"/>
 </navPoint>
-<navPoint id="navPoint-222" playOrder="222">
+<navPoint id="navPoint-224" playOrder="224">
 <navLabel><text>೧೯೬ –  :: ಸಂತಸದಿ ನಲಿದಾಡು</text></navLabel><content src="020-chapter020.xhtml#id-020.11"/>
 </navPoint>
-<navPoint id="navPoint-223" playOrder="223">
+<navPoint id="navPoint-225" playOrder="225">
 <navLabel><text>೧೯೭ –  :: ಬಿಡುಗಡೆಯ ಪಡೆಯಲೆನೆ</text></navLabel><content src="020-chapter020.xhtml#id-020.12"/>
 </navPoint>
 </navPoint>
-<navPoint id="navPoint-224" playOrder="224">
-<navLabel><text>೨೧ –  :: ಹಾರೈಕೆ-ಮಂಗಳ</text></navLabel><content src="021-chapter021.xhtml#id-21"/>
-<navPoint id="navPoint-225" playOrder="225">
+<navPoint id="navPoint-226" playOrder="226">
+<navLabel><text>೨೧ – ಹಾರೈಕೆ-ಮಂಗಳ</text></navLabel><content src="021-chapter021.xhtml#id-21"/>
+<navPoint id="navPoint-227" playOrder="227">
 <navLabel><text>೧೯೮ –  :: ಗುರಿಗೂ, ನಡೆವ ದಾರಿಗೂ ಶುಭವ ಹರಸಿ</text></navLabel><content src="021-chapter021.xhtml#id-021.01"/>
 </navPoint>
-<navPoint id="navPoint-226" playOrder="226">
+<navPoint id="navPoint-228" playOrder="228">
 <navLabel><text>೧೯೯ –  :: ಬಾ ಇಲ್ಲಿ, ಮನೆ ಮಾಡು</text></navLabel><content src="021-chapter021.xhtml#id-021.02"/>
 </navPoint>
-<navPoint id="navPoint-227" playOrder="227">
+<navPoint id="navPoint-229" playOrder="229">
 <navLabel><text>೨೦೦ –  :: ಕರೆದುಕೋ ಬೇಗೆನ್ನ!</text></navLabel><content src="021-chapter021.xhtml#id-021.03"/>
 </navPoint>
 </navPoint>
-<navPoint id="navPoint-228" playOrder="228">
-<navLabel><text>ಅನುಬಂಧಗಳು</text></navLabel><content src="022-chapter022.xhtml#id-22"/>
-<navPoint id="navPoint-229" playOrder="229">
-<navLabel><text>೦೧ –  :: ಪದ್ಯಗಳ ಶೀರ್ಷಿಕೆಗಳ ಅಕಾರಾದಿ/ ೨೦೩</text></navLabel><content src="022-chapter022.xhtml#id-022.01"/>
-</navPoint>
 <navPoint id="navPoint-230" playOrder="230">
-<navLabel><text>೦೨ –  ::  ಪ್ರಧಾನ ಸಂಸ್ಕೃತ ಸುಭಾಷಿತಗಳ ಅಕಾರಾದಿ/ ೨೦೬</text></navLabel><content src="022-chapter022.xhtml#id-022.02"/>
-</navPoint>
+<navLabel><text>ಅನುಬಂಧಗಳು</text></navLabel><content src="022-chapter022.xhtml#id-22"/>
 <navPoint id="navPoint-231" playOrder="231">
-<navLabel><text>೦೩ –  :: ಅಡಿಟಿಪ್ಪಣಿಯ ಸಂಸ್ಕೃತ ಸುಭಾಷಿತಗಳ ಅಕಾರಾದಿ/ ೨೧೨</text></navLabel><content src="022-chapter022.xhtml#id-022.03"/>
+<navLabel><text>೦೧ –  :: ಪದ್ಯಗಳ ಶೀರ್ಷಿಕೆಗಳ ಅಕಾರಾದಿ</text></navLabel><content src="022-chapter022.xhtml#id-022.01"/>
 </navPoint>
 <navPoint id="navPoint-232" playOrder="232">
-<navLabel><text>೦೪ –  :: ಪ್ರಧಾನ ಕನ್ನಡ ಪದ್ಯಾನುವಾದಗಳ ಅಕಾರಾದಿ/ ೨೨೦</text></navLabel><content src="022-chapter022.xhtml#id-022.04"/>
+<navLabel><text>೦೨ –  ::  ಪ್ರಧಾನ ಸಂಸ್ಕೃತ ಸುಭಾಷಿತಗಳು</text></navLabel><content src="022-chapter022.xhtml#id-022.02"/>
 </navPoint>
 <navPoint id="navPoint-233" playOrder="233">
-<navLabel><text>೦೫ –  :: ಅಡಿಟಿಪ್ಪಣಿಯ ಕನ್ನಡ ಪದ್ಯಾನುವಾದಗಳ ಅಕಾರಾದಿ/ ೨೨೩</text></navLabel><content src="022-chapter022.xhtml#id-022.05"/>
+<navLabel><text>೦೩ –  :: ಅಡಿಟಿಪ್ಪಣಿಯ ಸಂಸ್ಕೃತ ಸುಭಾಷಿತಗಳು</text></navLabel><content src="022-chapter022.xhtml#id-022.03"/>
 </navPoint>
 <navPoint id="navPoint-234" playOrder="234">
-<navLabel><text>೦೬ –  :: ಆಕರ ಮತ್ತು ಪರಾಮರ್ಶನ ಗ್ರಂಥಗಳು/ ೨೨೭</text></navLabel><content src="022-chapter022.xhtml#id-022.06"/>
+<navLabel><text>೦೪ –  :: ಪ್ರಧಾನ ಕನ್ನಡ ಪದ್ಯಾನುವಾದಗಳ ಅಕಾರಾದಿ</text></navLabel><content src="022-chapter022.xhtml#id-022.04"/>
+</navPoint>
+<navPoint id="navPoint-235" playOrder="235">
+<navLabel><text>೦೫ –  :: ಅಡಿಟಿಪ್ಪಣಿಯ ಕನ್ನಡ ಪದ್ಯಗಳು</text></navLabel><content src="022-chapter022.xhtml#id-022.05"/>
+</navPoint>
+<navPoint id="navPoint-236" playOrder="236">
+<navLabel><text>೦೬ –  :: ಆಕರ ಮತ್ತು ಪರಾಮರ್ಶನ ಗ್ರಂಥಗಳು</text></navLabel><content src="022-chapter022.xhtml#id-022.06"/>
 </navPoint>
 </navPoint>
    </navMap>
