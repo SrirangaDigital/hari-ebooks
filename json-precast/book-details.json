@@ -65,6 +65,19 @@
             "pages": "76",
             "description": ""
         },
+         "006": {
+            "language": "kan",
+            "identifier": "hari_ebooks/006",
+            "isbn": "9789388114431",
+            "title": "ಕನ್ನಡದಲ್ಲಿ ಶ್ರೀ ಸತ್ಯನಾರಾಯಣ ಪೂಜೆ",
+            "creators": {
+                "author": "Shikaripura Harihareshwara"
+            },
+            "category": "",
+            "publisher": "Sriranga Digital",
+            "pages": "296",
+            "description": ""
+        },
          "010": {
             "language": "kan",
             "identifier": "hari_ebooks/010",
