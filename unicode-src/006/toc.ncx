@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns:ncx="http://www.daisy.org/z3986/2005/ncx/" xmlns="http://www.daisy.org/z3986/2005/ncx/"
+    version="2005-1" xml:lang="en">
+
+   <head>
+      <meta name="dtb:uid" content="urn:isbn:9789388114431"/>
+      <meta name="dtb:depth" content="1"/>
+      <meta name="dtb:totalPageCount" content="0"/>
+      <meta name="dtb:maxPageNumber" content="0"/>
+   </head>
+
+   <docTitle>
+      <text>ಕನ್ನಡದಲ್ಲಿ ಶ್ರೀ ಸತ್ಯನಾರಾಯಣ ಪೂಜೆ</text>
+   </docTitle>
+
+   <navMap>
+		
+<navPoint id="navPoint-1" playOrder="1">
+<navLabel><text>Title Page</text></navLabel><content src="000a-title.xhtml#id-000a"/>
+</navPoint>
+<navPoint id="navPoint-2" playOrder="2">
+<navLabel><text>Copyright</text></navLabel><content src="000b-copyright.xhtml#id-000b.1"/>
+</navPoint>
+<navPoint id="navPoint-3" playOrder="3">
+<navLabel><text>ಅರ್ಪಣೆ</text></navLabel><content src="000c-Introduction.xhtml#id-000c.1"/>
+</navPoint>
+<navPoint id="navPoint-4" playOrder="4">
+<navLabel><text>ಪ್ರಸ್ತಾವನೆ</text></navLabel><content src="000d-preface.xhtml#id-000d.1"/>
+</navPoint>
+<navPoint id="navPoint-5" playOrder="5">
+<navLabel><text>ಕೃತಜ್ಞತೆಗಳು</text></navLabel><content src="000e-preface.xhtml#id-000e.1"/>
+</navPoint>
+<navPoint id="navPoint-6" playOrder="6">
+<navLabel><text>(ಅ) ಪ್ರಾರಂಭಿಕ ಸಿದ್ಧತೆಯ ಪೂಜೆಗಳು:</text></navLabel><content src="001-chapter001.xhtml#id-001"/>
+<navPoint id="navPoint-7" playOrder="7">
+<navLabel><text>೧. ಮಾತಾಪಿತೃ/ಗುರು/ಅತಿಥಿ ವಂದನೆ</text></navLabel><content src="001-chapter001.xhtml#id-001.01"/>
+</navPoint>
+<navPoint id="navPoint-8" playOrder="8">
+<navLabel><text>೨. ದೀಪ ಪ್ರಜ್ವಲನೆ</text></navLabel><content src="001-chapter001.xhtml#id-001.02"/>
+</navPoint>
+<navPoint id="navPoint-9" playOrder="9">
+<navLabel><text>೩. ಘಂಟಾನಾದ;</text></navLabel><content src="001-chapter001.xhtml#id-001.03"/>
+</navPoint>
+<navPoint id="navPoint-10" playOrder="10">
+<navLabel><text>೪. ಸಂಕ್ಷಿಪ್ತ ದೇವತಾ ಪ್ರಾರ್ಥನೆ</text></navLabel><content src="001-chapter001.xhtml#id-001.04"/>
+</navPoint>
+<navPoint id="navPoint-11" playOrder="11">
+<navLabel><text>೫. ಸಂಕಲ್ಪ:</text></navLabel><content src="001-chapter001.xhtml#id-001.05"/>
+</navPoint>
+<navPoint id="navPoint-12" playOrder="12">
+<navLabel><text>೬. ಕಲಶ ಪೂಜೆ</text></navLabel><content src="001-chapter001.xhtml#id-001.06"/>
+</navPoint>
+<navPoint id="navPoint-13" playOrder="13">
+<navLabel><text>೭. ಇಷ್ಟದೇವತಾ, ಕುಲ, ಗ್ರಾಮ, ನಗರ, ರಾಷ್ಟ್ರ-ಅಧಿದೇವತಾ ಪೂಜೆ</text></navLabel><content src="001-chapter001.xhtml#id-001.07"/>
+</navPoint>
+<navPoint id="navPoint-14" playOrder="14">
+<navLabel><text>೮. ವರುಣ ಪೂಜೆ</text></navLabel><content src="001-chapter001.xhtml#id-001.08"/>
+</navPoint>
+<navPoint id="navPoint-15" playOrder="15">
+<navLabel><text>೯. ಆವರಣ, ಪೂಜಾದ್ರವ್ಯ, ಆತ್ಮ-ಸಂಪ್ರೋಕ್ಷಣೆ</text></navLabel><content src="001-chapter001.xhtml#id-001.09"/>
+</navPoint>
+<navPoint id="navPoint-16" playOrder="16">
+<navLabel><text>೧೦. ಶಾಂತಿಮಂತ್ರ ಪಠಣೆ</text></navLabel><content src="001-chapter001.xhtml#id-001.10"/>
+</navPoint>
+<navPoint id="navPoint-17" playOrder="17">
+<navLabel><text>೧೧. ಕಲಶೋದಕ ಆತ್ಮಸಂಪ್ರೋಕ್ಷಣೆ</text></navLabel><content src="001-chapter001.xhtml#id-001.11"/>
+</navPoint>
+<navPoint id="navPoint-18" playOrder="18">
+<navLabel><text>೧೨. ಆಸನ ಪವಿತ್ರೀಕರಣ</text></navLabel><content src="001-chapter001.xhtml#id-001.12"/>
+</navPoint>
+<navPoint id="navPoint-19" playOrder="19">
+<navLabel><text>೧೩. ಸಂಕ್ಷಿಪ್ತ ಗಣಪತಿ ಪೂಜೆ</text></navLabel><content src="001-chapter001.xhtml#id-001.13"/>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-20" playOrder="20">
+<navLabel><text>(ಆ) ನವಗ್ರಹ ಪೂಜೆ</text></navLabel><content src="002-chapter002.xhtml#id-002"/>
+<navPoint id="navPoint-21" playOrder="21">
+<navLabel><text>೧೪. ನವಗ್ರಹಗಳ ಆರಾಧನೆ</text></navLabel><content src="002-chapter002.xhtml#id-002.14"/>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-22" playOrder="22">
+<navLabel><text>(ಇ) ಪ್ರಧಾನ ದೇವತಾ ಪೂಜೆ:</text></navLabel><content src="003-chapter003.xhtml#id-003"/>
+<navPoint id="navPoint-23" playOrder="23">
+<navLabel><text>೧೫. ಮಂಟಪ ಪೂಜೆ</text></navLabel><content src="003-chapter003.xhtml#id-003.15"/>
+</navPoint>
+<navPoint id="navPoint-24" playOrder="24">
+<navLabel><text>೧೬. ದ್ವಾರಪಾಲಕ ಪೂಜೆ</text></navLabel><content src="003-chapter003.xhtml#id-003.16"/>
+</navPoint>
+<navPoint id="navPoint-25" playOrder="25">
+<navLabel><text>೧೭. ಪೀಠ ಪೂಜೆ</text></navLabel><content src="003-chapter003.xhtml#id-003.17"/>
+</navPoint>
+<navPoint id="navPoint-26" playOrder="26">
+<navLabel><text>೧೮. ಆವರಣ ಪೂಜೆ</text></navLabel><content src="003-chapter003.xhtml#id-003.18"/>
+</navPoint>
+<navPoint id="navPoint-27" playOrder="27">
+<navLabel><text>೧೯. ಧ್ಯಾನ</text></navLabel><content src="003-chapter003.xhtml#id-003.19"/>
+</navPoint>
+<navPoint id="navPoint-28" playOrder="28">
+<navLabel><text>೨೦. ಪ್ರಾಣ ಪ್ರತಿಷ್ಠಾಪನೆ</text></navLabel><content src="003-chapter003.xhtml#id-003.20"/>
+</navPoint>
+<navPoint id="navPoint-29" playOrder="29">
+<navLabel><text>೨೧. ಆವಾಹನೆ</text></navLabel><content src="003-chapter003.xhtml#id-003.21"/>
+</navPoint>
+<navPoint id="navPoint-30" playOrder="30">
+<navLabel><text>೨೨. ಆಸನ</text></navLabel><content src="003-chapter003.xhtml#id-003.22"/>
+</navPoint>
+<navPoint id="navPoint-31" playOrder="31">
+<navLabel><text>೨೩. ಪಾದ್ಯ</text></navLabel><content src="003-chapter003.xhtml#id-003.23"/>
+</navPoint>
+<navPoint id="navPoint-32" playOrder="32">
+<navLabel><text>೨೪. ಅರ್ಘ್ಯ</text></navLabel><content src="003-chapter003.xhtml#id-003.24"/>
+</navPoint>
+<navPoint id="navPoint-33" playOrder="33">
+<navLabel><text>೨೫. ಆಚಮನೀಯ</text></navLabel><content src="003-chapter003.xhtml#id-003.25"/>
+</navPoint>
+<navPoint id="navPoint-34" playOrder="34">
+<navLabel><text>೨೬. ಮಧುಪರ್ಕ</text></navLabel><content src="003-chapter003.xhtml#id-003.26"/>
+</navPoint>
+<navPoint id="navPoint-35" playOrder="35">
+<navLabel><text>೨೭. ಸ್ನಾನ/ಪಂಚಾಮೃತ ಅಭಿಷೇಕ</text></navLabel><content src="003-chapter003.xhtml#id-003.27"/>
+</navPoint>
+<navPoint id="navPoint-36" playOrder="36">
+<navLabel><text>೨೮. ವಸ್ತ್ರಾರ್ಪಣೆ</text></navLabel><content src="003-chapter003.xhtml#id-003.28"/>
+</navPoint>
+<navPoint id="navPoint-37" playOrder="37">
+<navLabel><text>೨೯. ಹರಿದ್ರಾಕುಂಕುಮ ಅರ್ಪಣೆ</text></navLabel><content src="003-chapter003.xhtml#id-003.29"/>
+</navPoint>
+<navPoint id="navPoint-38" playOrder="38">
+<navLabel><text>೩೦. ಗಂಧ ಸಮರ್ಪಣೆ (ಗಂಧವನ್ನ ಲೇಪಿಸುವುದು)</text></navLabel><content src="003-chapter003.xhtml#id-003.30"/>
+</navPoint>
+<navPoint id="navPoint-39" playOrder="39">
+<navLabel><text>೩೧. ಯಜ್ಞೋಪವೀತ ಸಮರ್ಪಣೆ (ಜನಿವಾರವನ್ನು ಸಮರ್ಪಿಸುವುದು.)</text></navLabel><content src="003-chapter003.xhtml#id-003.31"/>
+</navPoint>
+<navPoint id="navPoint-40" playOrder="40">
+<navLabel><text>೩೨. ಆಭರಣ ಸಮರ್ಪಣೆ (ರತ್ನಾಭರಣಗಳನ್ನು ಸಮರ್ಪಿಸುವುದು.)</text></navLabel><content src="003-chapter003.xhtml#id-003.32"/>
+</navPoint>
+<navPoint id="navPoint-41" playOrder="41">
+<navLabel><text>೩೩. ಅಕ್ಷತ ಸಮರ್ಪಣೆ (ಅಕ್ಷತೆಯನ್ನು ಸಮರ್ಪಿಸುವುದು.)</text></navLabel><content src="003-chapter003.xhtml#id-003.33"/>
+</navPoint>
+<navPoint id="navPoint-42" playOrder="42">
+<navLabel><text>೩೪. ಅಂಗಪೂಜೆ</text></navLabel><content src="003-chapter003.xhtml#id-003.34"/>
+</navPoint>
+<navPoint id="navPoint-43" playOrder="43">
+<navLabel><text>೩೫. ಪತ್ರ ಪೂಜೆ</text></navLabel><content src="003-chapter003.xhtml#id-003.35"/>
+</navPoint>
+<navPoint id="navPoint-44" playOrder="44">
+<navLabel><text>೩೬. ಪುಷ್ಪ ಪೂಜೆ</text></navLabel><content src="003-chapter003.xhtml#id-003.36"/>
+</navPoint>
+<navPoint id="navPoint-45" playOrder="45">
+<navLabel><text>೩೭. ನಾಮ ಪೂಜೆ</text></navLabel><content src="003-chapter003.xhtml#id-003.37"/>
+</navPoint>
+<navPoint id="navPoint-46" playOrder="46">
+<navLabel><text>೩೮. ಅಷ್ಟೋತ್ತರ ಶತನಾಮ ಪೂಜೆ</text></navLabel><content src="003-chapter003.xhtml#id-003.38"/>
+</navPoint>
+<navPoint id="navPoint-47" playOrder="47">
+<navLabel><text>೩೯. ಲಕ್ಷ್ಮೀ ಪೂಜೆ</text></navLabel><content src="003-chapter003.xhtml#id-003.39"/>
+</navPoint>
+<navPoint id="navPoint-48" playOrder="48">
+<navLabel><text>೪೦. ಧೂಪ</text></navLabel><content src="003-chapter003.xhtml#id-003.40"/>
+</navPoint>
+<navPoint id="navPoint-49" playOrder="49">
+<navLabel><text>೪೧. ದೀಪ / ಏಕಾರತಿ</text></navLabel><content src="003-chapter003.xhtml#id-003.41"/>
+</navPoint>
+<navPoint id="navPoint-50" playOrder="50">
+<navLabel><text>೪೨. ನೈವೇದ್ಯ</text></navLabel><content src="003-chapter003.xhtml#id-003.42"/>
+</navPoint>
+<navPoint id="navPoint-51" playOrder="51">
+<navLabel><text>೪೩. ಬಲಿ ಹರಣ</text></navLabel><content src="003-chapter003.xhtml#id-003.43"/>
+</navPoint>
+<navPoint id="navPoint-52" playOrder="52">
+<navLabel><text>೪೪. ಫಲ ಸಮರ್ಪಣೆ</text></navLabel><content src="003-chapter003.xhtml#id-003.44"/>
+</navPoint>
+<navPoint id="navPoint-53" playOrder="53">
+<navLabel><text>೪೫. ತಾಂಬೂಲ ಸಮರ್ಪಣೆ</text></navLabel><content src="003-chapter003.xhtml#id-003.45"/>
+</navPoint>
+<navPoint id="navPoint-54" playOrder="54">
+<navLabel><text>೪೬. ನೀರಾಜನ / ಮಂಗಳಾರತಿ</text></navLabel><content src="003-chapter003.xhtml#id-003.46"/>
+</navPoint>
+<navPoint id="navPoint-55" playOrder="55">
+<navLabel><text>೪೭. ಪ್ರಸನ್ನಾಘ್ರ್ಯ ಸಮರ್ಪಣೆ</text></navLabel><content src="003-chapter003.xhtml#id-003.47"/>
+</navPoint>
+<navPoint id="navPoint-56" playOrder="56">
+<navLabel><text>೪೮. ಪ್ರಾರ್ಥನೆ</text></navLabel><content src="003-chapter003.xhtml#id-003.48"/>
+</navPoint>
+<navPoint id="navPoint-57" playOrder="57">
+<navLabel><text>೪೯. ಪ್ರದಕ್ಷಿಣ ನಮಸ್ಕಾರ</text></navLabel><content src="003-chapter003.xhtml#id-003.49"/>
+</navPoint>
+<navPoint id="navPoint-58" playOrder="58">
+<navLabel><text>೫೦. ವ್ರತಕಥಾ ಶ್ರವಣ</text></navLabel><content src="003-chapter003.xhtml#id-003.50"/>
+</navPoint>
+<navPoint id="navPoint-59" playOrder="59">
+<navLabel><text>೫೧. ಮಹಾಮಂಗಳಾರತಿ</text></navLabel><content src="003-chapter003.xhtml#id-003.51"/>
+</navPoint>
+<navPoint id="navPoint-60" playOrder="60">
+<navLabel><text>೫೨. ಮಂತ್ರಪುಷ್ಪ ಪಠನ</text></navLabel><content src="003-chapter003.xhtml#id-003.52"/>
+</navPoint>
+<navPoint id="navPoint-61" playOrder="61">
+<navLabel><text>೫೩. ಸಾಮೂಹಿಕ ಪ್ರಾರ್ಥನಾ</text></navLabel><content src="003-chapter003.xhtml#id-003.53"/>
+</navPoint>
+<navPoint id="navPoint-62" playOrder="62">
+<navLabel><text>೫೪. ಪುಷ್ಪಾಂಜಲಿ ಮತ್ತು ಸಾಮೂಹಿಕ ಪ್ರದಕ್ಷಿಣೆ; ನಮಸ್ಕಾರ</text></navLabel><content src="003-chapter003.xhtml#id-003.54"/>
+</navPoint>
+<navPoint id="navPoint-63" playOrder="63">
+<navLabel><text>೫೫. ಉಪಾಯನದಾನ</text></navLabel><content src="003-chapter003.xhtml#id-003.55"/>
+</navPoint>
+<navPoint id="navPoint-64" playOrder="64">
+<navLabel><text>೫೬. ಪುನಃ ಪೂಜೆ ಮತ್ತು ಪ್ರಾರ್ಥನೆ</text></navLabel><content src="003-chapter003.xhtml#id-003.56"/>
+</navPoint>
+<navPoint id="navPoint-65" playOrder="65">
+<navLabel><text>೫೭. ಅಪರಾಧ ಕ್ಷಮಾಪಣೆ</text></navLabel><content src="003-chapter003.xhtml#id-003.57"/>
+</navPoint>
+<navPoint id="navPoint-66" playOrder="66">
+<navLabel><text>೫೮. ಕೃತಜ್ಞತಾ ಸಮರ್ಪಣೆ</text></navLabel><content src="003-chapter003.xhtml#id-003.58"/>
+</navPoint>
+<navPoint id="navPoint-67" playOrder="67">
+<navLabel><text>೫೯. ಸರ್ವಸಮರ್ಪಣೆ</text></navLabel><content src="003-chapter003.xhtml#id-003.59"/>
+</navPoint>
+<navPoint id="navPoint-68" playOrder="68">
+<navLabel><text>೬೦. ಭಗವದ್ ಅರ್ಪಣೆ</text></navLabel><content src="003-chapter003.xhtml#id-003.60"/>
+</navPoint>
+<navPoint id="navPoint-69" playOrder="69">
+<navLabel><text>೬೧. ದೇವತಾ ಉದ್ವಾಸನೆ/ ವಿಸರ್ಜನೆ</text></navLabel><content src="003-chapter003.xhtml#id-003.61"/>
+</navPoint>
+<navPoint id="navPoint-70" playOrder="70">
+<navLabel><text>೬೨. ಶಾಂತಿಮಂತ್ರ ಪಠಣ</text></navLabel><content src="003-chapter003.xhtml#id-003.62"/>
+</navPoint>
+<navPoint id="navPoint-71" playOrder="71">
+<navLabel><text>೬೩. ಸಾಮೂಹಿಕ ಧ್ಯಾನ</text></navLabel><content src="003-chapter003.xhtml#id-003.63"/>
+</navPoint>
+<navPoint id="navPoint-72" playOrder="72">
+<navLabel><text>೬೪. ತೀರ್ಥಪ್ರಸಾದ ವಿನಿಯೋಗ</text></navLabel><content src="003-chapter003.xhtml#id-003.64"/>
+</navPoint>
+<navPoint id="navPoint-73" playOrder="73">
+<navLabel><text>೬೫. ಆಶೀರ್ವಾದ</text></navLabel><content src="003-chapter003.xhtml#id-003.65"/>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-74" playOrder="74">
+<navLabel><text>ಅನುಬಂಧಗಳು</text></navLabel><content src="004-chapter004.xhtml#id-004"/>
+<navPoint id="navPoint-75" playOrder="75">
+<navLabel><text>ॐಅನುಬಂಧ :: ೧ – ಕನ್ನಡದಲ್ಲಿ ಶ್ರೀ ಸತ್ಯನಾರಾಯಣ ವ್ರತ ಕತೆ</text></navLabel><content src="004-chapter004.xhtml#id-004.01"/>
+</navPoint>
+<navPoint id="navPoint-76" playOrder="76">
+<navLabel><text>ಅನುಬಂಧ :: ೨ – ಕನ್ನಡ ಶ್ರೀಸೂಕ್ತ (ಸಿರಿದೇವಿಗೆ ಸವಿ ಬಿನ್ನಪ)</text></navLabel><content src="004-chapter004.xhtml#id-004.02"/>
+</navPoint>
+<navPoint id="navPoint-77" playOrder="77">
+<navLabel><text>ಅನುಬಂಧ :: ೩ – ಕನ್ನಡದಲ್ಲಿ ಮಂತ್ರಪುಷ್ಪ(ತಂಗದಿರ ಚಂದಿರನೆ ನಭದ ನೀರಿನ ಹೂವು)</text></navLabel><content src="004-chapter004.xhtml#id-004.03"/>
+</navPoint>
+<navPoint id="navPoint-78" playOrder="78">
+<navLabel><text>ಅನುಬಂಧ :: ೪ – ಕನ್ನಡ ಪದ್ಯಗಳ ಅಕಾರಾದಿ(ಅವುಗಳ ಮೂಲ ಸಂಸ್ಕೃತ ಶ್ಲೋಕಗಳು ಮತ್ತು ಆಕರಗಳು)</text></navLabel><content src="004-chapter004.xhtml#id-004.04"/>
+</navPoint>
+<navPoint id="navPoint-79" playOrder="79">
+<navLabel><text>ಕನ್ನಡ ಪದ್ಯಗಳ ಅಕ್ಷರಾನುಕ್ರಮಣಿಕೆ(ದಯವಿಟ್ಟು ಗಮನಿಸಿ: ಅಂಕೆಗಳು ಪದ್ಯದ ಸಂಖ್ಯೆಗಳು; ಪುಟ ಸಂಖ್ಯೆಗಳಲ್ಲ)</text></navLabel><content src="004-chapter004.xhtml#id-004.05"/>
+</navPoint>
+</navPoint>
+   </navMap>
+</ncx>
