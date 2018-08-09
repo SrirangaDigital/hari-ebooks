@@ -22,18 +22,21 @@
 <navLabel><text>Copyright</text></navLabel><content src="000b-copyright.xhtml#id-000b.1"/>
 </navPoint>
 <navPoint id="navPoint-3" playOrder="3">
-<navLabel><text>ಪ್ರಸ್ತಾವನೆ</text></navLabel><content src="000d-preface.xhtml#id-000d.1"/>
+<navLabel><text>ತಿರುಗಾಟ</text></navLabel><content src="000c-Introduction.xhtml#id-000c.1"/>
 </navPoint>
 <navPoint id="navPoint-4" playOrder="4">
-<navLabel><text>ಪ್ರಕಾಶಕರ ಮಾತು</text></navLabel><content src="000e-preface.xhtml#id-000e.1"/>
+<navLabel><text>ಪ್ರಸ್ತಾವನೆ</text></navLabel><content src="000d-preface.xhtml#id-000d.1"/>
 </navPoint>
 <navPoint id="navPoint-5" playOrder="5">
-<navLabel><text>ತಿರುಗಾಟ</text></navLabel><content src="001-chapter001.xhtml#id-001"/>
+<navLabel><text>ಪ್ರಕಾಶಕರ ಮಾತು</text></navLabel><content src="000e-preface.xhtml#id-000e.1"/>
 </navPoint>
 <navPoint id="navPoint-6" playOrder="6">
-<navLabel><text>ವಿಶಿಷ್ಟಪದ ಕೋಶ: (ಕ್ಲಿಷ್ಟ ಪದಗಳಿಗೆ ಅರ್ಥ)</text></navLabel><content src="002-chapter002.xhtml#id-002"/>
+<navLabel><text>ತಿರುಗಾಟ</text></navLabel><content src="001-chapter001.xhtml#id-001"/>
 </navPoint>
 <navPoint id="navPoint-7" playOrder="7">
+<navLabel><text>ವಿಶಿಷ್ಟಪದ ಕೋಶ: (ಕ್ಲಿಷ್ಟ ಪದಗಳಿಗೆ ಅರ್ಥ)</text></navLabel><content src="002-chapter002.xhtml#id-002"/>
+</navPoint>
+<navPoint id="navPoint-8" playOrder="8">
 <navLabel><text>ಇದೇ ಲೇಖಕರ ಇತರ ಕೃತಿಗಳು</text></navLabel><content src="003-chapter003.xhtml#id-003"/>
 </navPoint>
    </navMap>
