@@ -208,7 +208,7 @@ body {
 	border-collapse: collapse;
 	page-break-inside: avoid;
 }
-.maintext table.custom-striped tr td{	
+.maintext table.custom-striped tr td,th{	
 	min-width: 36px;
 	border: 1px solid #CCC;
 	text-align: center;
