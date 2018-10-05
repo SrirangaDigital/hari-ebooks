@@ -78,6 +78,32 @@
             "pages": "296",
             "description": ""
         },
+         "008": {
+            "language": "kan",
+            "identifier": "hari_ebooks/008",
+            "isbn": "9789388114455",
+            "title": "ಹರಿಯ ಕಾಣಿಕೆ ಸಂಪುಟ - 1",
+            "creators": {
+                "author": "Shikaripura Harihareshwara"
+            },
+            "category": "",
+            "publisher": "Sriranga Digital",
+            "pages": "742",
+            "description": ""
+        },
+         "009": {
+            "language": "kan",
+            "identifier": "hari_ebooks/009",
+            "isbn": "9789388114462",
+            "title": "ಹರಿಯ ಕಾಣಿಕೆ ಸಂಪುಟ - 2",
+            "creators": {
+                "author": "Shikaripura Harihareshwara"
+            },
+            "category": "",
+            "publisher": "Sriranga Digital",
+            "pages": "743",
+            "description": ""
+        },
          "010": {
             "language": "kan",
             "identifier": "hari_ebooks/010",
