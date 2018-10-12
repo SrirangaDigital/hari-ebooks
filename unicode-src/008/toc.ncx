@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns:ncx="http://www.daisy.org/z3986/2005/ncx/" xmlns="http://www.daisy.org/z3986/2005/ncx/"
+    version="2005-1" xml:lang="en">
+
+   <head>
+      <meta name="dtb:uid" content="urn:isbn:9789388114455"/>
+      <meta name="dtb:depth" content="1"/>
+      <meta name="dtb:totalPageCount" content="0"/>
+      <meta name="dtb:maxPageNumber" content="0"/>
+   </head>
+
+   <docTitle>
+      <text>ಹರಿಯ ಕಾಣಿಕೆ ಸಂಪುಟ - 1</text>
+   </docTitle>
+
+   <navMap>
+		
+<navPoint id="navPoint-1" playOrder="1">
+<navLabel><text>Title Page</text></navLabel><content src="000a-title.xhtml#id-000a"/>
+</navPoint>
+<navPoint id="navPoint-2" playOrder="2">
+<navLabel><text>Copyright</text></navLabel><content src="000b-copyright.xhtml#id-000b.1"/>
+</navPoint>
+<navPoint id="navPoint-3" playOrder="3">
+<navLabel><text>ಮುನ್ನುಡಿ</text></navLabel><content src="000c-preface.xhtml#id-000c.1"/>
+</navPoint>
+<navPoint id="navPoint-4" playOrder="4">
+<navLabel><text>ಪ್ರಸ್ತಾವನೆ</text></navLabel><content src="000d-preface.xhtml#id-000d.1"/>
+</navPoint>
+<navPoint id="navPoint-5" playOrder="5">
+<navLabel><text>ಪ್ರಸ್ತಾವನೆ</text></navLabel><content src="000e-preface.xhtml#id-000e.1"/>
+</navPoint>
+<navPoint id="navPoint-6" playOrder="6">
+<navLabel><text>ಕೃತಜ್ಞತೆ</text></navLabel><content src="000e-preface.xhtml#id-000e.2"/>
+</navPoint>
+<navPoint id="navPoint-7" playOrder="7">
+<navLabel><text>ಪ್ರಕಾಶಕರ ಮಾತು</text></navLabel><content src="000e-preface.xhtml#id-000e.3"/>
+</navPoint>
+<navPoint id="navPoint-8" playOrder="8">
+<navLabel><text>ಸ್ವಾಗತ</text></navLabel><content src="001-chapter001.xhtml#id-P1"/>
+</navPoint>
+<navPoint id="navPoint-9" playOrder="9">
+<navLabel><text>ನೀರು - ವಿಚಾರಲಹರಿ</text></navLabel><content src="001-chapter001.xhtml#id-P1.01"/>
+</navPoint>
+<navPoint id="navPoint-10" playOrder="10">
+<navLabel><text>ಕಣ್ಣು, ನೋಟ ಮತ್ತು ಕಾಣ್ಕೆ</text></navLabel><content src="001-chapter001.xhtml#id-P1.02"/>
+</navPoint>
+<navPoint id="navPoint-11" playOrder="11">
+<navLabel><text>ಸಮಯ: ನೆನ್ನೆ, ಇಂದು, ನಾಳೆ</text></navLabel><content src="001-chapter001.xhtml#id-P1.03"/>
+</navPoint>
+<navPoint id="navPoint-12" playOrder="12">
+<navLabel><text>ವರ್ಷಕ್ಕೊಂದು ಒಳ್ಳೆಯ ಹೆಸರು</text></navLabel><content src="001-chapter001.xhtml#id-P1.04"/>
+</navPoint>
+<navPoint id="navPoint-13" playOrder="13">
+<navLabel><text>ಅಮ್ಮ</text></navLabel><content src="001-chapter001.xhtml#id-P1.05"/>
+</navPoint>
+<navPoint id="navPoint-14" playOrder="14">
+<navLabel><text>ದೇಶ ಸುತ್ತು; ಕೋಶ ಓದು</text></navLabel><content src="001-chapter001.xhtml#id-P1.06"/>
+</navPoint>
+<navPoint id="navPoint-15" playOrder="15">
+<navLabel><text>ಆಟಕ್ಕೇಕೆ ಇಷ್ಟೊಂದು ಮಹತ್ವ?</text></navLabel><content src="001-chapter001.xhtml#id-P1.07"/>
+</navPoint>
+<navPoint id="navPoint-16" playOrder="16">
+<navLabel><text>ಬುದ್ಧಿವಂತಿಕೆ</text></navLabel><content src="001-chapter001.xhtml#id-P1.08"/>
+</navPoint>
+<navPoint id="navPoint-17" playOrder="17">
+<navLabel><text>ತ್ರಿಶಂಕು ಕಥೆ :: ಒಂದು ಅಧ್ಯಯನ</text></navLabel><content src="001-chapter001.xhtml#id-P1.09"/>
+</navPoint>
+<navPoint id="navPoint-18" playOrder="18">
+<navLabel><text>ಮನುಕುಲೋದ್ಧಾರಕರು</text></navLabel><content src="001-chapter001.xhtml#id-P1.10"/>
+</navPoint>
+<navPoint id="navPoint-19" playOrder="19">
+<navLabel><text>ನಾಲ್ಕು ಬಗೆಯ ಜನಗಳು</text></navLabel><content src="001-chapter001.xhtml#id-P1.11"/>
+</navPoint>
+<navPoint id="navPoint-20" playOrder="20">
+<navLabel><text>ಉಪಕಾರಸ್ಮರಣೆ</text></navLabel><content src="001-chapter001.xhtml#id-P1.12"/>
+</navPoint>
+<navPoint id="navPoint-21" playOrder="21">
+<navLabel><text>ಸ್ನೇಹ :: ಒಲಿದವರನು ಉಜ್ಜೀವಿಸುವ ಬಗೆ</text></navLabel><content src="001-chapter001.xhtml#id-P1.13"/>
+</navPoint>
+<navPoint id="navPoint-22" playOrder="22">
+<navLabel><text>ತಪ್ಪಾದೀತೆಂದು ಮಾತಾಡುವುದನ್ನೇ ನಿಲ್ಲಿಸಬೇಡಿ!</text></navLabel><content src="001-chapter001.xhtml#id-P1.14"/>
+</navPoint>
+<navPoint id="navPoint-23" playOrder="23">
+<navLabel><text>ಹೆಸರಲ್ಲೇನಿದೆ?</text></navLabel><content src="001-chapter001.xhtml#id-P1.15"/>
+</navPoint>
+<navPoint id="navPoint-24" playOrder="24">
+<navLabel><text>ಮೂರು ದಿನದ ಬಾಳು</text></navLabel><content src="001-chapter001.xhtml#id-P1.16"/>
+</navPoint>
+<navPoint id="navPoint-25" playOrder="25">
+<navLabel><text>ಏನಿ ಬಂದಿರಿ, ಹದುಳವಿದ್ದಿರೇ?</text></navLabel><content src="001-chapter001.xhtml#id-P1.17"/>
+</navPoint>
+<navPoint id="navPoint-26" playOrder="26">
+<navLabel><text>ಮುತ್ತಿನಂಥ ಮಾತುಗಳು</text></navLabel><content src="001-chapter001.xhtml#id-P1.18"/>
+</navPoint>
+<navPoint id="navPoint-27" playOrder="27">
+<navLabel><text>ಕಪ್ಪೆ ಅರಭಟ್ಟನ ಬಾದಾಮಿ ಶಾಸನ</text></navLabel><content src="001-chapter001.xhtml#id-P1.19"/>
+</navPoint>
+<navPoint id="navPoint-28" playOrder="28">
+<navLabel><text>ಹೆಸರಲ್ಲೇನಿದೆ?</text></navLabel><content src="001-chapter001.xhtml#id-P1.20"/>
+</navPoint>
+<navPoint id="navPoint-29" playOrder="29">
+<navLabel><text>ಓದುವುದಕ್ಕಾಗಿ ಅಮೆರಿಕಾಕ್ಕೆ ಹೋಗುವುದು</text></navLabel><content src="001-chapter001.xhtml#id-P1.21"/>
+</navPoint>
+<navPoint id="navPoint-30" playOrder="30">
+<navLabel><text>ಆಗಮನ</text></navLabel><content src="002-chapter002.xhtml#id-P2"/>
+</navPoint>
+<navPoint id="navPoint-31" playOrder="31">
+<navLabel><text>ವಿದೇಶದಲ್ಲಿ ಕನ್ನಡ ಉಳಿಸಿ, ಬೆಳೆಸುವ ಬಗೆ</text></navLabel><content src="002-chapter002.xhtml#id-P2.01"/>
+</navPoint>
+<navPoint id="navPoint-32" playOrder="32">
+<navLabel><text>ಕನ್ನಡದ ದಿಗ್ವಿಜಯದ ಒಂದು ಸಾಧನ!</text></navLabel><content src="002-chapter002.xhtml#id-P2.02"/>
+</navPoint>
+<navPoint id="navPoint-33" playOrder="33">
+<navLabel><text>ಬರೆಯಬಲ್ಲವರಿಗೆ ಪ್ರೋತ್ಸಾಹದ ಪೋಷಣೆ</text></navLabel><content src="002-chapter002.xhtml#id-P2.03"/>
+</navPoint>
+<navPoint id="navPoint-34" playOrder="34">
+<navLabel><text>'ಸಿರಿಗನ್ನಡಂ ಗೆಲ್ಗೆ! :: ಕನ್ನಡದ ಮೇಲೆ ಅಭಿಮಾನ'</text></navLabel><content src="002-chapter002.xhtml#id-P2.04"/>
+</navPoint>
+<navPoint id="navPoint-35" playOrder="35">
+<navLabel><text>ಬೇಕು: ಕನ್ನಡ ಸಾಹಿತ್ಯ ಮಾಹಿತಿಗೊಂದು ಒಳ್ಳೆಯ ಜಾಲತಾಣ</text></navLabel><content src="002-chapter002.xhtml#id-P2.05"/>
+</navPoint>
+<navPoint id="navPoint-36" playOrder="36">
+<navLabel><text>ಆಸನ</text></navLabel><content src="003-chapter003.xhtml#id-P3"/>
+</navPoint>
+<navPoint id="navPoint-37" playOrder="37">
+<navLabel><text>ಲಕ್ಷ್ಮಿ ಎಲ್ಲಿದ್ದಾಳು?</text></navLabel><content src="003-chapter003.xhtml#id-P3.001"/>
+<navPoint id="navPoint-38" playOrder="38">
+<navLabel><text>ಲಕ್ಷ್ಮೀ ಪ್ರಸಂಗ</text></navLabel><content src="003-chapter003.xhtml#id-P3.001-01"/>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-39" playOrder="39">
+<navLabel><text>ಶ್ರೀಸೂಕ್ತ:ವೈದಿಕ ವಾಙ್ಮಯದ ಒಂದು ಭಾವಗೀತೆ</text></navLabel><content src="003-chapter003.xhtml#id-P3.002"/>
+</navPoint>
+<navPoint id="navPoint-40" playOrder="40">
+<navLabel><text>ಅಗ್ನಿ, ಲಕ್ಷ್ಮಿ, ಶುಕ್ರ ಮತ್ತು ದೀಪಒಂದು ವಿವೇಚನೆ</text></navLabel><content src="003-chapter003.xhtml#id-P3.003"/>
+</navPoint>
+<navPoint id="navPoint-41" playOrder="41">
+<navLabel><text>ಗಣಪತಿ: ಆ 'ಗಣ'ಗಳು ಯಾರು?</text></navLabel><content src="003-chapter003.xhtml#id-P3.004"/>
+<navPoint id="navPoint-42" playOrder="42">
+<navLabel><text>'ಗಣ' ಎಂದರೆ ಗುಂಪು:</text></navLabel><content src="003-chapter003.xhtml#id-P3.004-01"/>
+</navPoint>
+<navPoint id="navPoint-43" playOrder="43">
+<navLabel><text>'ಗಣ' ಎಂದರೆ ಸೈನ್ಯದ ಒಂದು ತುಕುಡಿ:</text></navLabel><content src="003-chapter003.xhtml#id-P3.004-02"/>
+</navPoint>
+<navPoint id="navPoint-44" playOrder="44">
+<navLabel><text>ಕ್ರಿಯಾಪದದ ಧಾತುಗಳ 'ಗಣ'ಗಳು:</text></navLabel><content src="003-chapter003.xhtml#id-P3.004-03"/>
+</navPoint>
+<navPoint id="navPoint-45" playOrder="45">
+<navLabel><text>'ಗಣ' ದೇವತೆಗಳು:</text></navLabel><content src="003-chapter003.xhtml#id-P3.004-04"/>
+</navPoint>
+<navPoint id="navPoint-46" playOrder="46">
+<navLabel><text>ಗಣನಾಥರು:</text></navLabel><content src="003-chapter003.xhtml#id-P3.004-05"/>
+</navPoint>
+<navPoint id="navPoint-47" playOrder="47">
+<navLabel><text>ಪ್ರಮಥಗಣಗಳು:</text></navLabel><content src="003-chapter003.xhtml#id-P3.004-06"/>
+</navPoint>
+<navPoint id="navPoint-48" playOrder="48">
+<navLabel><text>ಎಷ್ಟು ಮಂದಿ ಪ್ರಮಥರು?:</text></navLabel><content src="003-chapter003.xhtml#id-P3.004-07"/>
+</navPoint>
+<navPoint id="navPoint-49" playOrder="49">
+<navLabel><text>ನಂದಿ:</text></navLabel><content src="003-chapter003.xhtml#id-P3.004-08"/>
+</navPoint>
+<navPoint id="navPoint-50" playOrder="50">
+<navLabel><text>ಭೃಂಗಿ:</text></navLabel><content src="003-chapter003.xhtml#id-P3.004-09"/>
+</navPoint>
+<navPoint id="navPoint-51" playOrder="51">
+<navLabel><text>ವೀರಭದ್ರ:</text></navLabel><content src="003-chapter003.xhtml#id-P3.004-10"/>
+</navPoint>
+<navPoint id="navPoint-52" playOrder="52">
+<navLabel><text>ಇತರ ಪ್ರಮಥಗಣಗಳು:</text></navLabel><content src="003-chapter003.xhtml#id-P3.004-11"/>
+</navPoint>
+<navPoint id="navPoint-53" playOrder="53">
+<navLabel><text>ಗಿರಿಜಾಕಲ್ಯಾಣಕ್ಕೆ ಬಂದ ಬೀಗರ ದಿಬ್ಬಣದಲ್ಲಿನ ಪ್ರಮಥರು:</text></navLabel><content src="003-chapter003.xhtml#id-P3.004-12"/>
+</navPoint>
+<navPoint id="navPoint-54" playOrder="54">
+<navLabel><text>ಮಹಾಭಾರತದ 'ಕಿರಾತಾರ್ಜುನೀಯ' ಪ್ರಸಂಗದಲ್ಲಿ 'ಗಣ'ಗಳು:</text></navLabel><content src="003-chapter003.xhtml#id-P3.004-13"/>
+</navPoint>
+<navPoint id="navPoint-55" playOrder="55">
+<navLabel><text>'ಗಣಪತಿ' ಮತ್ತು 'ಬ್ರಹ್ಮಣಸ್ಪತಿ':</text></navLabel><content src="003-chapter003.xhtml#id-P3.004-14"/>
+</navPoint>
+<navPoint id="navPoint-56" playOrder="56">
+<navLabel><text>'ಗಣಪತಿ' ಮತ್ತು ಗಣೇಶ</text></navLabel><content src="003-chapter003.xhtml#id-P3.004-15"/>
+</navPoint>
+<navPoint id="navPoint-57" playOrder="57">
+<navLabel><text>ಎಲ್ಲಕ್ಕೂ ಮೊದಲು ಇವನಿಗೆ ಅಗ್ರಪೂಜೆ:</text></navLabel><content src="003-chapter003.xhtml#id-P3.004-16"/>
+</navPoint>
+<navPoint id="navPoint-58" playOrder="58">
+<navLabel><text>ಪಂಚಾಯತನ ಪೂಜಾಕ್ರಮದಲ್ಲಿ ಗಣಪತಿ:</text></navLabel><content src="003-chapter003.xhtml#id-P3.004-17"/>
+</navPoint>
+<navPoint id="navPoint-59" playOrder="59">
+<navLabel><text>ಮಹಾಭಾರತದಲ್ಲಿ ಗಣೇಶ:</text></navLabel><content src="003-chapter003.xhtml#id-P3.004-18"/>
+</navPoint>
+<navPoint id="navPoint-60" playOrder="60">
+<navLabel><text>ರಾಮಾಯಣದಲ್ಲಿ ಗಣಪತಿ:</text></navLabel><content src="003-chapter003.xhtml#id-P3.004-19"/>
+</navPoint>
+<navPoint id="navPoint-61" playOrder="61">
+<navLabel><text>ವಚನ ಸಾಹಿತ್ಯದಲ್ಲಿ ಗಣಪತಿ:</text></navLabel><content src="003-chapter003.xhtml#id-P3.004-20"/>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-62" playOrder="62">
+<navLabel><text>ಓ ಭವಾನಿ!</text></navLabel><content src="003-chapter003.xhtml#id-P3.005"/>
+</navPoint>
+<navPoint id="navPoint-63" playOrder="63">
+<navLabel><text>ವೇದ ವಾಙ್ಮಯದಲ್ಲಿ ಶಿವನ ಕಲ್ಪನೆ</text></navLabel><content src="003-chapter003.xhtml#id-P3.006"/>
+<navPoint id="navPoint-64" playOrder="64">
+<navLabel><text>ಉಪನಿಷತ್ತುಗಳಲ್ಲಿ:</text></navLabel><content src="003-chapter003.xhtml#id-P3.004-21"/>
+</navPoint>
+<navPoint id="navPoint-65" playOrder="65">
+<navLabel><text>ಅಕ್ಷಮಾಲಿಕಾ (ಋಗ್ವೇದೀಯ):</text></navLabel><content src="003-chapter003.xhtml#id-P3.004-22"/>
+</navPoint>
+<navPoint id="navPoint-66" playOrder="66">
+<navLabel><text>ಅಥರ್ವಶಿಖಾ (ಅಥರ್ವವೇದೀಯ):</text></navLabel><content src="003-chapter003.xhtml#id-P3.004-23"/>
+</navPoint>
+<navPoint id="navPoint-67" playOrder="67">
+<navLabel><text>ಅಥರ್ವಶಿರಾ (ಅಥರ್ವವೇದ):</text></navLabel><content src="003-chapter003.xhtml#id-P3.004-24"/>
+</navPoint>
+<navPoint id="navPoint-68" playOrder="68">
+<navLabel><text>ಕಾಲಾಗ್ನಿ ರುದ್ರ (ಕೃಷ್ಣಯಜುರ್ ವೇದ):</text></navLabel><content src="003-chapter003.xhtml#id-P3.004-25"/>
+</navPoint>
+<navPoint id="navPoint-69" playOrder="69">
+<navLabel><text>ಕೈವಲ್ಯ (ಕೃಷ್ಣಯಜುರ್ ವೇದ):</text></navLabel><content src="003-chapter003.xhtml#id-P3.004-26"/>
+</navPoint>
+<navPoint id="navPoint-70" playOrder="70">
+<navLabel><text>ಗಣಪತಿ (ಅಥರ್ವವೇದ):</text></navLabel><content src="003-chapter003.xhtml#id-P3.004-27"/>
+</navPoint>
+<navPoint id="navPoint-71" playOrder="71">
+<navLabel><text>ಜಾಬಾಲಿ (ಸಾಮವೇದ):</text></navLabel><content src="003-chapter003.xhtml#id-P3.004-28"/>
+</navPoint>
+<navPoint id="navPoint-72" playOrder="72">
+<navLabel><text>ದಕ್ಷಿಣಾಮೂರ್ತಿ (ಕೃಷ್ಣಯಜುರ್ ವೇದ):</text></navLabel><content src="003-chapter003.xhtml#id-P3.004-29"/>
+</navPoint>
+<navPoint id="navPoint-73" playOrder="73">
+<navLabel><text>ಪಂಚಬ್ರಹ್ಮ (ಕೃಷ್ಣಯಜುರ್ ವೇದ):</text></navLabel><content src="003-chapter003.xhtml#id-P3.004-30"/>
+</navPoint>
+<navPoint id="navPoint-74" playOrder="74">
+<navLabel><text>ಬೃಹತ್ ಜಾಬಾಲ (ಅಥರ್ವ):</text></navLabel><content src="003-chapter003.xhtml#id-P3.004-31"/>
+</navPoint>
+<navPoint id="navPoint-75" playOrder="75">
+<navLabel><text>ಭಸ್ಮಜಾಬಾಲ (ಅಥರ್ವ):</text></navLabel><content src="003-chapter003.xhtml#id-P3.004-32"/>
+</navPoint>
+<navPoint id="navPoint-76" playOrder="76">
+<navLabel><text>ರುದ್ರ ಹೃದಯ (ಕೃಷ್ಣಯಜುರ್ ವೇದ):</text></navLabel><content src="003-chapter003.xhtml#id-P3.004-33"/>
+</navPoint>
+<navPoint id="navPoint-77" playOrder="77">
+<navLabel><text>ರುದ್ರಾಕ್ಷ ಜಾಬಾಲ (ಸಾಮವೇದ):</text></navLabel><content src="003-chapter003.xhtml#id-P3.004-34"/>
+</navPoint>
+<navPoint id="navPoint-78" playOrder="78">
+<navLabel><text>ಶರಭ (ಅಥರ್ವವೇದ):</text></navLabel><content src="003-chapter003.xhtml#id-P3.004-35"/>
+</navPoint>
+<navPoint id="navPoint-79" playOrder="79">
+<navLabel><text>ಶ್ವೇತಾಶ್ವತರ (ಕೃಷ್ಣಯಜುರ್ ವೇದ):</text></navLabel><content src="003-chapter003.xhtml#id-P3.004-36"/>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-80" playOrder="80">
+<navLabel><text>ಸರ್ವತೋಮುಖ ಶಿವನು ಐಮೊಗನಾದಾಗ</text></navLabel><content src="003-chapter003.xhtml#id-P3.007"/>
+<navPoint id="navPoint-81" playOrder="81">
+<navLabel><text>ಅಗ್ನಿ ಮತ್ತು ರುದ್ರ:</text></navLabel><content src="003-chapter003.xhtml#id-P3.004-37"/>
+</navPoint>
+<navPoint id="navPoint-82" playOrder="82">
+<navLabel><text>ಅಗ್ನಿಯೇ ರುದ್ರ:</text></navLabel><content src="003-chapter003.xhtml#id-P3.004-38"/>
+</navPoint>
+<navPoint id="navPoint-83" playOrder="83">
+<navLabel><text>ಯಾರು ಈ ರುದ್ರ?:</text></navLabel><content src="003-chapter003.xhtml#id-P3.004-39"/>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-84" playOrder="84">
+<navLabel><text>ಶಿಲಾಶಾಸನಗಳ ಕವಿಗಳು ಕಂಡ 'ಗಣೇಶ'</text></navLabel><content src="003-chapter003.xhtml#id-P3.008"/>
+<navPoint id="navPoint-85" playOrder="85">
+<navLabel><text>ಶಾಸನದ ಕವಿಗಳು:</text></navLabel><content src="003-chapter003.xhtml#id-P3.008-01"/>
+</navPoint>
+<navPoint id="navPoint-86" playOrder="86">
+<navLabel><text>ಬಾಲಗಣೇಶ:</text></navLabel><content src="003-chapter003.xhtml#id-P3.008-02"/>
+</navPoint>
+<navPoint id="navPoint-87" playOrder="87">
+<navLabel><text>ಗಜಮುಖ ಗಣೇಶ:</text></navLabel><content src="003-chapter003.xhtml#id-P3.008-03"/>
+</navPoint>
+<navPoint id="navPoint-88" playOrder="88">
+<navLabel><text>ಸರ್ವೋಚ್ಚ ದೇವತೆಯಾಗಿ ಗಣಪತಿ:</text></navLabel><content src="003-chapter003.xhtml#id-P3.008-04"/>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-89" playOrder="89">
+<navLabel><text>ಶತರುದ್ರೀಯ ಒಂದು ಅಧ್ಯಯನ</text></navLabel><content src="003-chapter003.xhtml#id-P3.009"/>
+</navPoint>
+<navPoint id="navPoint-90" playOrder="90">
+<navLabel><text>ಆಸ್ರೇ</text></navLabel><content src="004-chapter004.xhtml#id-P4"/>
+</navPoint>
+<navPoint id="navPoint-91" playOrder="91">
+<navLabel><text>ಕನ್ನಡದಲ್ಲಿ 'ಧರ್ಮ'</text></navLabel><content src="004-chapter004.xhtml#id-P4.001"/>
+</navPoint>
+<navPoint id="navPoint-92" playOrder="92">
+<navLabel><text>ಕಠೋಪನಿಷತ್ತಿನ ಋಷಿ ಚಪ್ಪರಿಸುವ ಉಪ್ಪಿನಕಾಯಿ</text></navLabel><content src="004-chapter004.xhtml#id-P4.002"/>
+</navPoint>
+<navPoint id="navPoint-93" playOrder="93">
+<navLabel><text>ನೀರಾಜನ ವಿಧಿ</text></navLabel><content src="004-chapter004.xhtml#id-P4.003"/>
+</navPoint>
+<navPoint id="navPoint-94" playOrder="94">
+<navLabel><text>ಹರಿಹರನು ಬೆಳಗಿದ ಭಕ್ತನೊಬ್ಬನ ಚಿತ್ರ: ಹರಿಹರನು ಬೆಳಗಿದ ಭಕ್ತನೊಬ್ಬನ ಚಿತ್ರ: ಇಳೆಯಾಂಡ ಗುಡಿಮಾರ</text></navLabel><content src="004-chapter004.xhtml#id-P4.004"/>
+</navPoint>
+<navPoint id="navPoint-95" playOrder="95">
+<navLabel><text>ನಿಜಗುಣ ಶಿವಯೋಗಿಗಳ 'ಕೈವಲ್ಯಪದ್ಧತಿ'</text></navLabel><content src="004-chapter004.xhtml#id-P4.005"/>
+</navPoint>
+<navPoint id="navPoint-96" playOrder="96">
+<navLabel><text>ಸರ್ವಜ್ಞ ವಚನಗಳಲ್ಲಿ 'ಒಗಟುಗಳು'</text></navLabel><content src="004-chapter004.xhtml#id-P4.006"/>
+</navPoint>
+<navPoint id="navPoint-97" playOrder="97">
+<navLabel><text>ಶಬರಿ :: ಒಂದು ಅಧ್ಯಯನ</text></navLabel><content src="004-chapter004.xhtml#id-P4.007"/>
+</navPoint>
+<navPoint id="navPoint-98" playOrder="98">
+<navLabel><text>ನೀವವನ ಕಂಡಿಹಿರಾ? ನಿಮಗವನು ಸಿಗುವನೇ?</text></navLabel><content src="004-chapter004.xhtml#id-P4.008"/>
+</navPoint>
+<navPoint id="navPoint-99" playOrder="99">
+<navLabel><text>ಸಂತರು ಕಂಡ ದೇವರು</text></navLabel><content src="004-chapter004.xhtml#id-P4.009"/>
+</navPoint>
+<navPoint id="navPoint-100" playOrder="100">
+<navLabel><text>ಸೂಫೀಧರ್ಮ</text></navLabel><content src="004-chapter004.xhtml#id-P4.010"/>
+</navPoint>
+<navPoint id="navPoint-101" playOrder="101">
+<navLabel><text>ಯೇಸು ಹೇಳಿಕೊಟ್ಟ ದೇವರ ಪ್ರಾರ್ಥನೆ</text></navLabel><content src="004-chapter004.xhtml#id-P4.011"/>
+</navPoint>
+<navPoint id="navPoint-102" playOrder="102">
+<navLabel><text>ಸಾಂಖ್ಯದ ಬಗ್ಗೆ ಒಂದು ವಿವೇಚನೆ</text></navLabel><content src="004-chapter004.xhtml#id-P4.012"/>
+</navPoint>
+<navPoint id="navPoint-103" playOrder="103">
+<navLabel><text>ಸಾಂಖ್ಯದ ಬಗ್ಗೆ ಒಂದು ವಿವೇಚನೆ</text></navLabel><content src="004-chapter004.xhtml#id-P4.013"/>
+</navPoint>
+<navPoint id="navPoint-104" playOrder="104">
+<navLabel><text>ಅಧ್ಯಾತ್ಮ ಮತ್ತು ಮಾಧ್ಯಮ</text></navLabel><content src="004-chapter004.xhtml#id-P4.014"/>
+</navPoint>
+<navPoint id="navPoint-105" playOrder="105">
+<navLabel><text>ದೇವರಿಗೆ ಯಾರು ಯಾರು ಇಷ್ಟ?</text></navLabel><content src="004-chapter004.xhtml#id-P4.015"/>
+</navPoint>
+<navPoint id="navPoint-106" playOrder="106">
+<navLabel><text>ಕಾವ್ಯೋಪಖ್ಯಾನ</text></navLabel><content src="004-chapter004.xhtml#id-P4.016"/>
+</navPoint>
+<navPoint id="navPoint-107" playOrder="107">
+<navLabel><text>ಕುಶಲೋಪರಿ</text></navLabel><content src="005-chapter005.xhtml#id-P5"/>
+</navPoint>
+<navPoint id="navPoint-108" playOrder="108">
+<navLabel><text>ಗುಬ್ಬಿ :: ಗುಬ್ಬಚ್ಚಿ.... ಒಂದು ವಿವೇಚನೆ</text></navLabel><content src="005-chapter005.xhtml#id-P5.001"/>
+</navPoint>
+   </navMap>
+</ncx>
