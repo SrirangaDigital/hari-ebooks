@@ -129,6 +129,7 @@ class Stages{
 					 continue;
 
 			// echo $text_node->nodeValue . "\n";		
+			//~ $text_node->nodeValue = $this->utf82ansi($text_node->nodeValue);// manu
 			$text_node->nodeValue = $this->nudi2Unicode($text_node->nodeValue);
 			 // echo $text_node->nodeValue . "\n";		
 
@@ -159,7 +160,7 @@ class Stages{
 		$text = preg_replace('/<([a-zA-Z0-9]+) .*>/i', "<$1>", $text);
 
 		// Special cases - reverted to original form
-		$text = str_replace('<SPAN-', '<SPAN ', $text);
+		$text = str_replace('<SPAN-', '<span ', $text);
 		$text = str_replace('-/>', ' />', $text);
 
 		// Remove unecessary tags
@@ -178,7 +179,7 @@ class Stages{
 		$text = preg_replace("/<Span class=\"bold\">(.*)\n<\/span>/i", "<strong>$1</strong>", $text);
 		$text = preg_replace("/<Span class=\"italic\">(.*)\n<\/span>/i", "<em>$1</em>", $text);
 
-		$text = preg_replace("/[\n]*<Span class=\"en\">(.*)\n<\/span>[\n]*/i", "<SPAN class=\"en\">$1</SPAN>", $text);
+		$text = preg_replace("/[\n]*<Span class=\"en\">(.*)\n<\/span>[\n]*/i", "<span class=\"en\">$1</span>", $text);
 		$text = preg_replace("/[\n]*<Span>(.*)\n<\/span>[\n]*/i", "$1", $text);
 
 		$text = preg_replace("/\n<(Span|Sup|Sub|Strong|em|I|B|U)/i", "<$1", $text);
@@ -206,7 +207,7 @@ class Stages{
 		$text = str_replace("</DIV>", "</SECTION>", $text);
 
 		// Special case to handle nested en
-		$text = preg_replace('/<SPAN class="en">(.*?)<([a-zA-Z]+)>(.*?)<\/\2>(.*?)<\/SPAN>/i', "<SPAN class=\"en\">$1<$2 class=\"en\">$3</$2>$4</SPAN>", $text);
+		$text = preg_replace('/<SPAN class="en">(.*?)<([a-zA-Z]+)>(.*?)<\/\2>(.*?)<\/SPAN>/i', "<span class=\"en\">$1<$2 class=\"en\">$3</$2>$4</span>", $text);
 
 		$text = preg_replace("/<SPAN class=\"en\">(.*)<\/SPAN>\n/", "<strong>$1</strong>", $text);
 		$text = str_replace("</strong><strong>", "", $text);
@@ -243,6 +244,332 @@ class Stages{
 
 		return $text;
 	}
+	
+	public function nudi2Unicode($text) {
+		
+		
+		$text = str_replace('μ', 'µ', $text);
+		$text = str_replace('µ', 'µ', $text);
+		// ya group
+		$text = str_replace('AiÀiï', 'ಯ್​', $text);
+		$text = str_replace('AiÀÄ', 'ಯ', $text);
+		$text = str_replace('AiÀiÁ', 'ಯಾ', $text);
+		$text = str_replace('¬Ä', 'ಯಿ', $text);
+		$text = str_replace('AiÉÄ', 'ಯೆ', $text); 
+		$text = str_replace('AiÉÆ', 'ಯೊ', $text);
+		$text = str_replace('AiÀiË', 'ಯೌ', $text);
+		
+		//ma group
+		$text = str_replace('ªÀiï', 'ಮ್', $text);
+		$text = str_replace('ªÀiË', 'ಮೌ', $text);
+		$text = str_replace('ªÀÄ', 'ಮ', $text);
+		$text = str_replace('ªÀiÁ', 'ಮಾ', $text);
+		$text = str_replace('ªÉÄ', 'ಮೆ', $text);
+		$text = str_replace('ªÉÆ', 'ಮೊ', $text);
+		$text = str_replace('«Ä', 'ಮಿ', $text);
+		
+		// jjha group
+		$text = str_replace('gÀhÄ', 'ಝ', $text);
+		$text = str_replace('gÀhiÁ', 'ಝಾ', $text);
+		$text = str_replace('gÉhÄ', 'ಝೆ', $text);
+		$text = str_replace('gÉhÆ', 'ಝೊ', $text);
+		$text = str_replace('jhÄ', 'ಝಿ', $text);
+
+		//dha group
+		$text = str_replace('zs', 'ಧ್', $text);
+		$text = str_replace('¢ü', 'ಧಿ', $text);
+
+		//Dha group
+		$text = str_replace('qs', 'ಢ್', $text);
+		$text = str_replace('rü', 'ಢಿ', $text);
+		
+		//pha group
+		$text = str_replace('¥s', 'ಫ್', $text);
+		$text = str_replace('¦ü', 'ಫಿ', $text);
+
+		//ha group
+		$text = str_replace('¨s', 'ಭ್', $text);
+		$text = str_replace('©ü', 'ಭಿ', $text);
+
+		// RRi group
+		$text = str_replace('IÄ', 'ಋ', $text);
+		$text = str_replace('IÆ', 'ೠ', $text);
+
+		// Lookup ---------------------------------------------
+		$text = str_replace('!', '!', $text);
+		$text = str_replace('"', '"', $text);// tbh
+		$text = str_replace('#', '#', $text);
+		$text = str_replace('$', '$', $text);
+		$text = str_replace('%', '%', $text);
+		$text = str_replace('&', '&', $text);
+		$text = str_replace("'", '’', $text);
+		$text = str_replace('(', '(', $text);
+		$text = str_replace(')', ')', $text);
+		$text = str_replace('*', '*', $text);
+		$text = str_replace('+', '+', $text);
+		$text = str_replace(',', ',', $text);
+		$text = str_replace('-', '-', $text);
+		$text = str_replace('.', '.', $text);
+		$text = str_replace('/', '/', $text);
+		$text = str_replace('0', '೦', $text);
+		$text = str_replace('1', '೧', $text);
+		$text = str_replace('2', '೨', $text);
+		$text = str_replace('3', '೩', $text);
+		$text = str_replace('4', '೪', $text);
+		$text = str_replace('5', '೫', $text);
+		$text = str_replace('6', '೬', $text);
+		$text = str_replace('7', '೭', $text);
+		$text = str_replace('8', '೮', $text);
+		$text = str_replace('9', '೯', $text);
+		$text = str_replace(':', ':', $text);
+		$text = str_replace(';', ';', $text);
+		$text = str_replace('<', '<', $text);
+		$text = str_replace('=', '=', $text);
+		$text = str_replace('>', '>', $text);
+		$text = str_replace('?', '?', $text);
+		$text = str_replace('@', '@', $text);
+		$text = str_replace('A', 'ಂ', $text);
+		$text = str_replace('B', 'ಃ', $text);
+		$text = str_replace('C', 'ಅ', $text);
+		$text = str_replace('D', 'ಆ', $text);
+		$text = str_replace('E', 'ಇ', $text);
+		$text = str_replace('F', 'ಈ', $text);
+		$text = str_replace('G', 'ಉ', $text);
+		$text = str_replace('H', 'ಊ', $text);
+		//~ $text = str_replace('I', '', $text); //handled above in RRi group
+		$text = str_replace('J', 'ಎ', $text);
+		$text = str_replace('K', 'ಏ', $text);
+		$text = str_replace('L', 'ಐ', $text);
+		$text = str_replace('M', 'ಒ', $text);
+		$text = str_replace('N', 'ಓ', $text);
+		$text = str_replace('O', 'ಔ', $text); 
+		$text = str_replace('P', 'ಕ್', $text);
+		$text = str_replace('Q', 'ಕಿ', $text);
+		$text = str_replace('R', 'ಖ', $text);
+		$text = str_replace('S', 'ಖ್', $text);
+		$text = str_replace('T', 'ಖಿ', $text);
+		$text = str_replace('U', 'ಗ್', $text);
+		$text = str_replace('V', 'ಗಿ', $text);
+		$text = str_replace('W', 'ಘ್', $text);
+		$text = str_replace('X', 'ಘಿ', $text);
+		$text = str_replace('Y', 'ಙ', $text);
+		$text = str_replace('Z', 'ಚ್', $text);
+		$text = str_replace('[', '[', $text);
+		$text = str_replace("\\", '\\', $text);
+		$text = str_replace(']', ']', $text);
+		$text = str_replace('^', '^', $text);
+		$text = str_replace('_', '_', $text);
+		$text = str_replace('`', '‘', $text);
+		$text = str_replace('a', 'ಚಿ', $text);
+		$text = str_replace('b', 'ಛ್', $text);
+		$text = str_replace('c', 'ಛಿ', $text);
+		$text = str_replace('d', 'ಜ', $text);
+		$text = str_replace('e', 'ಜ್', $text);
+		$text = str_replace('f', 'ಜಿ', $text);
+		$text = str_replace('g', 'ರ್', $text);
+		//~ $text = str_replace('h', '', $text); //pre processing (ya Jha)
+		//~ $text = str_replace('i', '', $text); //pre processing (ya Jha)
+		$text = str_replace('j', 'ರಿ', $text);
+		$text = str_replace('k', 'ಞ', $text); // pre processing
+		$text = str_replace('l', 'ಟ', $text); 
+		$text = str_replace('m', 'ಟ್', $text);
+		$text = str_replace('n', 'ಟಿ', $text); 
+		$text = str_replace('o', 'ಠ್', $text);
+		$text = str_replace('p', 'ಠಿ', $text);
+		$text = str_replace('q', 'ಡ್', $text);
+		$text = str_replace('r', 'ಡಿ', $text);
+		//~ $text = str_replace('s', '', $text); //pre processing
+		$text = str_replace('t', 'ಣ', $text);
+		$text = str_replace('u', 'ಣ್', $text);
+		$text = str_replace('v', 'ತ್', $text);
+		$text = str_replace('w', 'ತಿ', $text);
+		$text = str_replace('x', 'ಥ್', $text);
+		$text = str_replace('y', 'ಥಿ', $text);
+		$text = str_replace('z', 'ದ್', $text);
+		$text = str_replace('{', '{', $text);
+		$text = str_replace('|', '|', $text); 
+		$text = str_replace('}', '}', $text);
+		$text = str_replace('~', '~', $text);
+		// $text = str_replace(' ', '', $text); // tbh (no break space)
+		$text = str_replace('¢', 'ದಿ', $text);
+		$text = str_replace('£', 'ನ್', $text);
+		$text = str_replace('¤', 'ನಿ', $text);
+		$text = str_replace('¥', 'ಪ್', $text);
+		$text = str_replace('¦', 'ಪಿ', $text);
+		$text = str_replace('§', 'ಬ', $text);
+		$text = str_replace('¨', 'ಬ್', $text);
+		$text = str_replace('©', 'ಬಿ', $text);
+		$text = str_replace('ª', 'ವ್', $text);
+		$text = str_replace('«', 'ವಿ', $text);
+		//~ $text = str_replace('¬', '', $text); //handled above in ya group (yi)
+		$text = str_replace('®', 'ಲ', $text);
+		$text = str_replace('¯', 'ಲ್', $text);
+		$text = str_replace('°', 'ಲಿ', $text);
+		$text = str_replace('±', 'ಶ್', $text);
+		$text = str_replace('²', 'ಶಿ', $text);
+		$text = str_replace('µ', 'ಷ್', $text);
+		$text = str_replace('¶', 'ಷಿ', $text);
+		$text = str_replace('¸', 'ಸ್', $text);
+		$text = str_replace('¹', 'ಸಿ', $text);
+		$text = str_replace('º', 'ಹ್', $text);
+		$text = str_replace('»', 'ಹಿ', $text);
+		$text = str_replace('¼', 'ಳ್', $text);
+		$text = str_replace('½', 'ಳಿ', $text);
+		$text = str_replace('¾', 'ಱ', $text);
+		$text = str_replace('¿', 'ೞ', $text);
+		$text = str_replace('À', 'ಅ', $text); // replacing a kara to swara 'a'
+		$text = str_replace('Á', 'ಾ', $text);//kA
+		$text = str_replace('Â', 'ಿ', $text);//ki
+		$text = str_replace('Ä', 'ು', $text);//ku
+		$text = str_replace('Å', 'ು', $text);//ku
+		$text = str_replace('Æ', 'ೂ', $text);//kU
+		$text = str_replace('Ç', 'ೂ', $text);//kU
+		$text = str_replace('È', 'ೃ', $text);//kaq
+		$text = str_replace('É', 'ೆ', $text);//ke
+		$text = str_replace('Ê', 'ೈ', $text);//kai
+		$text = str_replace('Ë', 'ೌ', $text);
+		$text = str_replace('Ì', '್ಕ', $text);
+		$text = str_replace('Í', '್ಖ', $text);
+		$text = str_replace('Î', '್ಗ', $text);
+		$text = str_replace('Ï', '್ಘ', $text);
+		$text = str_replace('Ð', '್ಙ', $text);
+		$text = str_replace('Ñ', '್ಚ', $text);
+		$text = str_replace('Ò', '್ಛ', $text);
+		$text = str_replace('Ó', '್ಜ', $text);
+		$text = str_replace('Ô', '್ಝ', $text);
+		$text = str_replace('Õ', '್ಞ', $text);
+		$text = str_replace('Ö', '್ಟ', $text);
+		$text = str_replace('×', '್ಠ', $text);
+		$text = str_replace('Ø', '್ಡ', $text);
+		$text = str_replace('Ù', '್ಢ', $text);
+		$text = str_replace('Ú', '್ಣ', $text);
+		$text = str_replace('Û', '್ತ', $text);
+		$text = str_replace('Ü', '್ಥ', $text);
+		$text = str_replace('Ý', '್ದ', $text);
+		$text = str_replace('Þ', '್ಧ', $text);
+		$text = str_replace('ß', '್ನ', $text);
+		$text = str_replace('à', '್ಪ', $text);
+		$text = str_replace('á', '್ಫ', $text);
+		$text = str_replace('â', '್ಬ', $text);
+		$text = str_replace('ã', '್ಭ', $text);
+		$text = str_replace('ä', '್ಮ', $text);
+		$text = str_replace('å', '್ಯ', $text);
+		$text = str_replace('æ', '್ರ', $text);
+		$text = str_replace('ç', '್ರ', $text);
+		$text = str_replace('è', '್ಲ', $text);
+		$text = str_replace('é', '್ವ', $text);
+		$text = str_replace('ê', '್ಶ', $text);
+		$text = str_replace('ë', '್ಷ', $text);
+		$text = str_replace('ì', '್ಸ', $text);
+		$text = str_replace('í', '್ಹ', $text);
+		$text = str_replace('î', '್ಳ', $text);
+		$text = str_replace('ï', '್​', $text);
+		$text = str_replace('ð', 'ð', $text);//arka vottu
+		$text = str_replace('ñ', 'ೄ', $text);
+		$text = str_replace('ò', 'ನ್​', $text);
+		$text = str_replace('ó', '಼', $text);
+		$text = str_replace('ô', 'ô', $text);//tbh
+		$text = str_replace('õ', 'õ', $text);//tbh
+		$text = str_replace('ø', 'ೃ', $text);
+		$text = str_replace('ù', '್ಱ', $text);
+		$text = str_replace('ú', '್ೞ', $text);
+		$text = str_replace('û', '಼', $text);
+		//~ $text = str_replace('ü', '', $text);//tbh
+		$text = str_replace('ý', 'ಽ', $text);
+		//~ $text = str_replace('Œ', '', $text);//tbh
+		//~ $text = str_replace('Š', '', $text);//tbh
+		//~ $text = str_replace('¯', '', $text);//tbh
+		$text = str_replace('‘', '‘', $text);
+		$text = str_replace('’', '’', $text);
+		$text = str_replace('“', '“', $text);
+		$text = str_replace('”', '”', $text);
+		$text = str_replace('„', 'ಽ', $text);
+		$text = str_replace('†', '।', $text);
+		$text = str_replace('‡', '॥', $text);
+		//~ $text = str_replace('‰', '', $text);//tbh
+		//~ $text = str_replace('‹', '', $text);//tbh
+
+		// Special cases
+
+		//remove ottu spacer
+		$text = str_replace('ö', '', $text);//ottu spacer
+		$text = str_replace('÷', '', $text);//ottu spacer
+
+
+		// Swara
+		$text = preg_replace('/್[ಅ]/u', '', $text);
+		$text = preg_replace('/್([ಾಿೀುೂೃೄೆೇೈೊೋೌ್])/u', "$1", $text);
+
+		$text = str_replace('ೊ', 'ೊ', $text);//ko
+		$text = str_replace('ೆೈ', 'ೈ', $text);//kai
+
+		$swara = "ಅ|ಆ|ಇ|ಈ|ಉ|ಊ|ಋ|ಎ|ಏ|ಐ|ಒ|ಓ|ಔ";
+		$vyanjana = "ಕ|ಖ|ಗ|ಘ|ಙ|ಚ|ಛ|ಜ|ಝ|ಞ|ಟ|ಠ|ಡ|ಢ|ಣ|ತ|ಥ|ದ|ಧ|ನ|ಪ|ಫ|ಬ|ಭ|ಮ|ಯ|ರ|ಱ|ಲ|ವ|ಶ|ಷ|ಸ|ಹ|ಳ|ೞ";
+		$swaraJoin = "ಾ|ಿ|ೀ|ು|ೂ|ೃ|ೄ|ೆ|ೇ|ೈ|ೊ|ೋ|ೌ|ಂ|ಃ|್";
+
+		$syllable = "($vyanjana)($swaraJoin)|($vyanjana)($swaraJoin)|($vyanjana)|($swara)";
+
+		$text = preg_replace("/($swaraJoin)್($vyanjana)/u", "್$2$1", $text);
+		$text = preg_replace("/್​್($vyanjana)/u", "್$1್​", $text);
+
+
+		$text = str_replace('ೊ', 'ೊ', $text);//ko
+		$text = str_replace('ೆೈ', 'ೈ', $text);//kai
+
+		$text = str_replace('ಿÃ', 'ೀ', $text);//kiV
+		$text = str_replace('ೆÃ', 'ೇ', $text);//keV
+		$text = str_replace('ೊÃ', 'ೋ', $text);//koV		
+		
+		$text = str_replace('್​ð', '್ð', $text);//halanta+zwj+R = halanta+R
+		
+
+		$text = preg_replace("/($swaraJoin)್($vyanjana)/u", "್$2$1", $text);
+		
+		// First pass of repha inversion
+		$text = preg_replace("/($syllable)/u", "$1zzz", $text);
+		$text = preg_replace("/್zzz/u", "್", $text);
+		$text = preg_replace("/್ð/u", "್zzzð", $text);
+		$text = preg_replace("/zzz([^z]*?)zzzð/u", "zzzರ್zzz" . "$1", $text);
+		$text = str_replace("zzz", "", $text);
+
+		$text = str_replace('ೊ', 'ೊ', $text);//ko
+		$text = str_replace('ೆೈ', 'ೈ', $text);//kai
+
+		$text = str_replace('ಿÃ', 'ೀ', $text);//kiV
+		$text = str_replace('ೆÃ', 'ೇ', $text);//keV
+		$text = str_replace('ೊÃ', 'ೋ', $text);//koV		
+
+		// Second pass of repha inversion
+		$text = preg_replace("/($syllable)/u", "$1zzz", $text);
+		$text = preg_replace("/್zzz/u", "್", $text);
+		$text = preg_replace("/್ð/u", "್zzzð", $text);
+		$text = preg_replace("/zzz([^z]*?)zzzð/u", "zzzರ್zzz" . "$1", $text);
+		$text = str_replace("zzz", "", $text);
+
+		$text = str_replace('ೊ', 'ೊ', $text);//ko
+		$text = str_replace('ೆೈ', 'ೈ', $text);//kai
+
+		$text = str_replace('ಿÃ', 'ೀ', $text);//kiV
+		$text = str_replace('ೆÃ', 'ೇ', $text);//keV
+		$text = str_replace('ೊÃ', 'ೋ', $text);//koV	
+
+		$text = str_replace('ಿ Ã', 'ೀ', $text);//kiV
+		$text = str_replace('ೆ Ã', 'ೇ', $text);//keV
+		$text = str_replace('ೊ Ã', 'ೋ', $text);//koV	
+
+		// Final replacements
+		$text = str_replace(' ್', '್', $text);
+		$text = str_replace('||', '॥', $text);
+		$text = str_replace('|', '।', $text);
+		
+		$text = str_replace('<', '&lt;', $text);
+		$text = str_replace('>', '&gt;', $text);
+
+		//~ $text = preg_replace('/’(.*?)’/', '‘$1’', $text);
+		
+		// echo $result . "\n"; 
+		return $text;
+	}
 
 	public function APS2Unicode($text) {
 
@@ -263,17 +590,17 @@ class Stages{
 		return $outputString;
 	}	
 
-	public function nudi2Unicode($text) {
-		$text = str_replace('μ', '³', $text);
-		$text = str_replace('µ', '³', $text);
-		$text = str_replace('„', '+', $text);
-		$text = trim($text); 
-		$text = @iconv("UTF-8", "ISO-8859-1", $text);
-		$result = exec('echo "' . addslashes($text) . '" | ./knconverter', $output);
-		
-		// echo $result . "\n"; 
-		return $result;
-	}
+	//~ public function nudi2Unicode($text) {
+		//~ $text = str_replace('μ', '³', $text);
+		//~ $text = str_replace('µ', '³', $text);
+		//~ $text = str_replace('„', '+', $text);
+		//~ $text = trim($text); 
+		//~ $text = @iconv("UTF-8", "ISO-8859-1", $text);
+		//~ $result = exec('echo "' . addslashes($text) . '" | ./knconverter', $output);
+		//~ 
+		//~ // echo $result . "\n"; 
+		//~ return $result;
+	//~ }
 
 	public function sample() {
 
@@ -1067,6 +1394,127 @@ class Stages{
 		$text = str_replace("zzz", "", $text);
 
 		return($text);
+	}
+	
+	function utf82ansi ($text) {
+		
+		// Pre processing
+		$text = str_replace('fl', 'ﬂ', $text);
+		$text = str_replace('fi', 'ﬁ', $text);
+		
+		// Lookup ---------------------------------------------
+
+		// $text = str_replace('ê', '', $text); // ignored for now due to lack of proper code point
+		// $text = str_replace(' ', 'ð', $text); //not found
+
+		$text = str_replace('ä', "Š", $text);
+		$text = str_replace('«', "Ç", $text); 
+		$text = str_replace('´', "«", $text);
+		$text = str_replace('¥', "´", $text);
+		$text = str_replace('•', "¥", $text);
+		$text = str_replace('ï', "•", $text);
+		$text = str_replace('Ô', "ï", $text);
+		$text = str_replace('‘', "Ô", $text);
+		$text = str_replace('ë', "‘", $text);
+		$text = str_replace('Í', "ê", $text);
+		$text = str_replace('Õ', "Í", $text);
+		$text = str_replace('’', "Õ", $text);
+		$text = str_replace('í', "’", $text);
+		$text = str_replace('–', "Ð", $text);
+		$text = str_replace('ñ', "–", $text);
+		$text = str_replace('Ò', "ñ", $text);
+		$text = str_replace('“', "Ò", $text);
+		$text = str_replace('ì', "“", $text);
+
+		$text = str_replace('Ó', "†", $text);
+		$text = str_replace('”', "Ó", $text);
+		$text = str_replace('î', "”", $text);
+		$text = str_replace('†', "î", $text);
+
+		$text = str_replace('—', "Ñ", $text);
+		$text = str_replace('ó', "—", $text);
+		$text = str_replace('÷', "Ö", $text);
+		$text = str_replace('˜', "÷", $text);	
+		$text = str_replace('ò', "˜", $text);
+		$text = str_replace('Á', "ç", $text);
+		$text = str_replace('¡', "Á", $text);
+		$text = str_replace('¢', "¢", $text);
+		$text = str_replace('£', "£", $text);
+		$text = str_replace('Û', "ó", $text);
+		$text = str_replace('¤', "Û", $text);
+		$text = str_replace('§', "¤", $text);
+		$text = str_replace('¶', "¦", $text);
+		$text = str_replace('ß', "§", $text);
+		$text = str_replace('Â', "å", $text);
+		$text = str_replace('¬', "Â", $text);
+		$text = str_replace('¨', "¬", $text);
+		$text = str_replace('®', "¨", $text);
+		$text = str_replace('©', "©", $text);
+		$text = str_replace('È', "é", $text);
+		$text = str_replace('»', "È", $text);
+		$text = str_replace('ª', "»", $text);
+		$text = str_replace('™', "ª", $text);
+		$text = str_replace('≠', "-", $text);
+		$text = str_replace('°', "¡", $text);
+		$text = str_replace('∞', "°", $text);
+		$text = str_replace('±', "±", $text);
+		$text = str_replace('≤', "²", $text);
+		$text = str_replace('≥', "³", $text);
+		$text = str_replace('μ', "μ", $text);
+		$text = str_replace('∂', "¶", $text);
+		$text = str_replace('·', "á", $text);
+		$text = str_replace('∑', "·", $text);
+		$text = str_replace('¸', "ü", $text);
+		$text = str_replace('∏', "¸", $text);
+		$text = str_replace('π', "¹", $text);
+		$text = str_replace('º', "¼", $text);
+		$text = str_replace('∫', "º", $text);
+		$text = str_replace('Ω', "½", $text);
+		$text = str_replace('æ', "¾", $text);		
+		$text = str_replace('Ë', "è", $text);
+		$text = str_replace('À', "Ë", $text);
+		$text = str_replace('¿', "À", $text);
+		$text = str_replace('ø', "¿", $text);
+		$text = str_replace('¯', "ø", $text);
+		$text = str_replace('Ø', "¯", $text);
+		$text = str_replace('Ì', "í", $text);
+		$text = str_replace('Ã', "Ì", $text);
+		$text = str_replace('√', "Ã", $text);
+		$text = str_replace('ƒ', "Ä", $text);
+		$text = str_replace('≈', "Å", $text);
+		$text = str_replace('Æ', "®", $text);
+		$text = str_replace('Δ', "Æ", $text);
+		$text = str_replace('…', "É", $text);
+		$text = str_replace('Ê', "æ", $text);
+		$text = str_replace(' ', "Ê", $text);
+		$text = str_replace('Î', "ë", $text);
+		$text = str_replace('Œ', "Î", $text);
+		$text = str_replace('Ï', "ì", $text);
+		$text = str_replace('œ', "Ï", $text);
+		$text = str_replace('◊', "×", $text);
+		$text = str_replace('ÿ', "Ø", $text);
+		$text = str_replace('Ù', "ô", $text);
+		$text = str_replace('Ÿ', "Ù", $text);
+		$text = str_replace('Ú', "ò", $text);
+		$text = str_replace('⁄', "Ú", $text);
+		$text = str_replace('‹', "Ü", $text);
+		$text = str_replace('›', "Ý", $text);
+		$text = str_replace('ﬁ', "Þ", $text);
+		$text = str_replace('ﬂ', "ß", $text);
+		$text = str_replace('‡', "à", $text);
+		$text = str_replace('‚', "â", $text);
+		$text = str_replace('„', "ã", $text);
+		$text = str_replace('‰', "ä", $text);
+		$text = str_replace('ı', "õ", $text);
+		$text = str_replace('ˆ', "ö", $text);
+		$text = str_replace('˘', "ù", $text);
+		$text = str_replace('˙', "ú", $text);
+		$text = str_replace('˚', "û", $text);
+		$text = str_replace('˝', "ý", $text);
+		$text = str_replace('˛', "þ", $text);
+		$text = str_replace('ˇ', "ÿ", $text);
+
+		return $text;
 	}
 }
 

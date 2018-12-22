@@ -137,7 +137,7 @@
 		$line = str_replace('8', '೮', $line);
 		$line = str_replace('9', '೯', $line);
 
-		$line = preg_replace('/<Sup(.*)>(.*)<\/Sup>/i', '<sup' . "$1" . '><a epub:type="noteref" href="999-aside.xhtml#id-">' . "$2" . '<\/a><\/sup>', $line);
+		$line = preg_replace('/<Sup(.*)>(.*)<\/Sup>/i', '<sup' . "$1" . '><a epub:type="noteref" href="999-aside.xhtml#id-">' . "$2" . '</a></sup>', $line);
 
 		return $line;
 	}
